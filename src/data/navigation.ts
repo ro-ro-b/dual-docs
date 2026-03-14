@@ -1,1 +1,131 @@
-{"data":"ZXhwb3J0IGludGVyZmFjZSBOYXZJdGVtIHsKICB0aXRsZTogc3RyaW5nOwogIGhyZWY6IHN0cmluZzsKICBpdGVtcz86IE5hdkl0ZW1bXTsKfQoKZXhwb3J0IGludGVyZmFjZSBOYXZTZWN0aW9uIHsKICB0aXRsZTogc3RyaW5nOwogIGl0ZW1zOiBOYXZJdGVtW107CiAgY29sbGFwc2VkPzogYm9vbGVhbjsKfQoKZXhwb3J0IGNvbnN0IGRvY3NOYXZpZ2F0aW9uOiBOYXZTZWN0aW9uW10gPSBbCiAgewogICAgdGl0bGU6ICJHRVRUSU5HIFNUQVJURUQiLAogICAgaXRlbXM6IFsKICAgICAgeyB0aXRsZTogIk92ZXJ2aWV3IiwgaHJlZjogIi9kb2NzL2dldHRpbmctc3RhcnRlZC9vdmVydmlldyIgfSwKICAgICAgeyB0aXRsZTogIkF1dGhlbnRpY2F0aW9uIiwgaHJlZjogIi9kb2NzL2dldHRpbmctc3RhcnRlZC9hdXRoZW50aWNhdGlvbiIgfSwKICAgICAgeyB0aXRsZTogIlF1aWNrIFN0YXJ0IiwgaHJlZjogIi9kb2NzL2dldHRpbmctc3RhcnRlZC9xdWlja3N0YXJ0IiB9LAogICAgXSwKICB9LAogIHsKICAgIHRpdGxlOiAiQ09SRSBDT05DRVBUUyIsCiAgICBpdGVtczogWwogICAgICB7IHRpdGxlOiAiT3JnYW5pemF0aW9ucyIsIGhyZWY6ICIvZG9jcy9jb25jZXB0cy9vcmdhbml6YXRpb25zIiB9LAogICAgICB7IHRpdGxlOiAiV2FsbGV0cyIsIGhyZWY6ICIvZG9jcy9jb25jZXB0cy93YWxsZXRzIiB9LAogICAgICB7IHRpdGxlOiAiVGVtcGxhdGVzIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL3RlbXBsYXRlcyIgfSwKICAgICAgeyB0aXRsZTogIk9iamVjdHMiLCBocmVmOiAiL2RvY3MvY29uY2VwdHMvb2JqZWN0cyIgfSwKICAgICAgeyB0aXRsZTogIkFjdGlvbnMiLCBocmVmOiAiL2RvY3MvY29uY2VwdHMvYWN0aW9ucyIgfSwKICAgICAgeyB0aXRsZTogIkZhY2VzIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL2ZhY2VzIiB9LAogICAgXSwKICB9LAogIHsKICAgIHRpdGxlOiAiR1VJREVTIiwKICAgIGl0ZW1zOiBbCiAgICAgIHsgdGl0bGU6ICJBcmNoaXRlY3R1cmUgRGVjaXNpb25zIiwgaHJlZjogIi9kb2NzL2d1aWRlcy9hcmNoaXRlY3R1cmUtZGVjaXNpb25zIiB9LAogICAgICB7IHRpdGxlOiAiRGF0YSBNb2RlbGxpbmciLCBocmVmOiAiL2RvY3MvZ3VpZGVzL2RhdGEtbW9kZWxsaW5nIiB9LAogICAgICB7IHRpdGxlOiAiQ29kZSBTYW1wbGVzIiwgaHJlZjogIi9kb2NzL2d1aWRlcy9jb2RlLXNhbXBsZXMiIH0sCiAgICAgIHsgdGl0bGU6ICJTYW5kYm94ICYgRW52aXJvbm1lbnRzIiwgaHJlZjogIi9kb2NzL2d1aWRlcy9zYW5kYm94IiB9LAogICAgICB7IHRpdGxlOiAiUHJpY2luZyAmIENvc3RzIiwgaHJlZjogIi9kb2NzL2d1aWRlcy9wcmljaW5nIiB9LAogICAgXSwKICB9LAogIHsKICAgIHRpdGxlOiAiQVBJIFJFRkVSRU5DRSIsCiAgICBpdGVtczogWwogICAgICB7IHRpdGxlOiAiUGF5bWVudHMiLCBocmVmOiAiL2RvY3MvYXBpL3BheW1lbnRzIiB9LAogICAgICB7IHRpdGxlOiAiU3VwcG9ydCIsIGhyZWY6ICIvZG9jcy9hcGkvc3VwcG9ydCIgfSwKICAgICAgeyB0aXRsZTogIk9yZ2FuaXphdGlvbnMiLCBocmVmOiAiL2RvY3MvYXBpL29yZ2FuaXphdGlvbnMiIH0sCiAgICAgIHsgdGl0bGU6ICJXYWxsZXRzIiwgaHJlZjogIi9kb2NzL2FwaS93YWxsZXRzIiB9LAogICAgICB7IHRpdGxlOiAiQVBJIEtleXMiLCBocmVmOiAiL2RvY3MvYXBpL2FwaWtleXMiIH0sCiAgICAgIHsgdGl0bGU6ICJUZW1wbGF0ZXMiLCBocmVmOiAiL2RvY3MvYXBpL3RlbXBsYXRlcyIgfSwKICAgICAgeyB0aXRsZTogIk9iamVjdHMiLCBocmVmOiAiL2RvY3MvYXBpL29iamVjdHMiIH0sCiAgICAgIHsgdGl0bGU6ICJGYWNlcyIsIGhyZWY6ICIvZG9jcy9hcGkvZmFjZXMiIH0sCiAgICAgIHsgdGl0bGU6ICJFdmVudCBCdXMiLCBocmVmOiAiL2RvY3MvYXBpL2VidXMiIH0sCiAgICAgIHsgdGl0bGU6ICJTdG9yYWdlIiwgaHJlZjogIi9kb2NzL2FwaS9zdG9yYWdlIiB9LAogICAgICB7IHRpdGxlOiAiTm90aWZpY2F0aW9ucyIsIGhyZWY6ICIvZG9jcy9hcGkvbm90aWZpY2F0aW9ucyIgfSwKICAgICAgeyB0aXRsZTogIldlYmhvb2tzIiwgaHJlZjogIi9kb2NzL2FwaS93ZWJob29rcyIgfSwKICAgICAgeyB0aXRsZTogIlNlcXVlbmNlciIsIGhyZWY6ICIvZG9jcy9hcGkvc2VxdWVuY2VyIiB9LAogICAgICB7IHRpdGxlOiAiUHVibGljIEFQSSIsIGhyZWY6ICIvZG9jcy9hcGkvaW5kZXhlciIgfSwKICAgIF0sCiAgfSwKICB7CiAgICB0aXRsZTogIklORlJBU1RSVUNUVVJFIiwKICAgIGl0ZW1zOiBbCiAgICAgIHsgdGl0bGU6ICJTZXF1ZW5jZXIiLCBocmVmOiAiL2RvY3MvaW5mcmFzdHJ1Y3R1cmUvc2VxdWVuY2VyIiB9LAogICAgICB7IHRpdGxlOiAiWksgUm9sbHVwIiwgaHJlZjogIi9kb2NzL2luZnJhc3RydWN0dXJlL3prLXJvbGx1cCIgfSwKICAgICAgeyB0aXRsZTogIlNtYXJ0IENvbnRyYWN0cyIsIGhyZWY6ICIvZG9jcy9pbmZyYXN0cnVjdHVyZS9zbWFydC1jb250cmFjdHMiIH0sCiAgICBdLAogIH0sCiAgewogICAgdGl0bGU6ICJERVZFTE9QRVIgVE9PTFMiLAogICAgaXRlbXM6IFsKICAgICAgeyB0aXRsZTogIk92ZXJ2aWV3IiwgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQiIH0sCiAgICAgIHsgdGl0bGU6ICJUeXBlU2NyaXB0IFNESyIsIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXIta2l0L3NkayIgfSwKICAgICAgeyB0aXRsZTogIkNMSSBUb29sIiwgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQvY2xpIiB9LAogICAgICB7IHRpdGxlOiAiUG9zdG1hbiBDb2xsZWN0aW9uIiwgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQvcG9zdG1hbiIgfSwKICAgICAgeyB0aXRsZTogIk9wZW5BUEkgUmVmZXJlbmNlIiwgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQvYXBpLXJlZmVyZW5jZSIgfSwKICAgICAgeyB0aXRsZTogIk1pZ3JhdGlvbiBHdWlkZSIsIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXIta2l0L21pZ3JhdGlvbiIgfSwKICAgICAgeyB0aXRsZTogIkVycm9yIFJlZmVyZW5jZSIsIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXItdG9vbHMvZXJyb3ItcmVmZXJlbmNlIiB9LAogICAgICB7IHRpdGxlOiAiUmF0ZSBMaW1pdHMiLCBocmVmOiAiL2RvY3MvZGV2ZWxvcGVyLXRvb2xzL3JhdGUtbGltaXRzIiB9LAogICAgXSwKICB9LAogIHsKICAgIHRpdGxlOiAiQUkgVE9PTFMiLAogICAgaXRlbXM6IFsKICAgICAgeyB0aXRsZTogIk92ZXJ2aWV3IiwgaHJlZjogIi9kb2NzL2FpLXRvb2xzIiB9LAogICAgICB7IHRpdGxlOiAiTUNQIFNlcnZlciIsIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXIta2l0L21jcCIgfSwKICAgICAgeyB0aXRsZTogIk1DUCBTZXR1cCBHdWlkZSIsIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXIta2l0L21jcC1ndWlkZSIgfSwKICAgICAgeyB0aXRsZTogIkNsYXVkZSBQbHVnaW5zIiwgaHJlZjogIi9kb2NzL3BsdWdpbnMiIH0sCiAgICBdLAogIH0sCiAgewogICAgdGl0bGU6ICJBSSBUVVRPUklBTFMiLAogICAgaXRlbXM6IFsKICAgICAgeyB0aXRsZTogIkFJIEFnZW50IHdpdGggTUNQIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscy9haS1hZ2VudC1tY3AiIH0sCiAgICAgIHsgdGl0bGU6ICJUb2tlbiBDbGFzc2lmaWNhdGlvbiIsIGhyZWY6ICIvZG9jcy90dXRvcmlhbHMvYWktdG9rZW4tY2xhc3NpZmllciIgfSwKICAgICAgeyB0aXRsZTogIkNvbnZlcnNhdGlvbmFsIEFzc2lzdGFudCIsIGhyZWY6ICIvZG9jcy90dXRvcmlhbHMvYWktY2hhdGJvdC1pbnRlZ3JhdGlvbiIgfSwKICAgICAgeyB0aXRsZTogIldlYmhvb2sgQXV0b21hdGlvbiIsIGhyZWY6ICIvZG9jcy90dXRvcmlhbHMvYWktd2ViaG9vay1yZXNwb25kZXIiIH0sCiAgICAgIHsgdGl0bGU6ICJTZW1hbnRpYyBTZWFyY2giLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL2FpLXNlbWFudGljLXNlYXJjaCIgfSwKICAgICAgeyB0aXRsZTogIlNhZmV0eSAmIEd1YXJkcmFpbHMiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL2FpLWd1YXJkcmFpbHMiIH0sCiAgICBdLAogIH0sCiAgewogICAgdGl0bGU6ICJUVVRPUklBTFMiLAogICAgaXRlbXM6IFsKICAgICAgeyB0aXRsZTogIkFsbCBUdXRvcmlhbHMiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzIiB9LAogICAgICB7IHRpdGxlOiAiQ3JlYXRlIFlvdXIgRmlyc3QgVGVtcGxhdGUiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL2NyZWF0ZS1maXJzdC10ZW1wbGF0ZSIgfSwKICAgICAgeyB0aXRsZTogIk1pbnQgJiBUcmFuc2ZlciBPYmplY3RzIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscy9taW50LXRyYW5zZmVyLW9iamVjdHMiIH0sCiAgICAgIHsgdGl0bGU6ICJCdWlsZCBhIFdlYiBGYWNlIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscy9idWlsZC13ZWItZmFjZSIgfSwKICAgICAgeyB0aXRsZTogIlNldCBVcCBXZWJob29rcyIsIGhyZWY6ICIvZG9jcy90dXRvcmlhbHMvc2V0dXAtd2ViaG9va3MiIH0sCiAgICAgIHsgdGl0bGU6ICJJbnRlZ3JhdGUgUGF5bWVudHMiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL2ludGVncmF0ZS1wYXltZW50cyIgfSwKICAgICAgeyB0aXRsZTogIkJhdGNoIEFjdGlvbnMgJiBFdmVudCBCdXMiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL2JhdGNoLWFjdGlvbnMiIH0sCiAgICAgIHsgdGl0bGU6ICJSb2xlcyAmIFBlcm1pc3Npb25zIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscy9vcmctcm9sZXMtcGVybWlzc2lvbnMiIH0sCiAgICAgIHsgdGl0bGU6ICJTZWFyY2ggJiBGaWx0ZXIgT2JqZWN0cyIsIGhyZWY6ICIvZG9jcy90dXRvcmlhbHMvc2VhcmNoLWZpbHRlci1vYmplY3RzIiB9LAogICAgICB7IHRpdGxlOiAiUXVlcnlpbmcgdGhlIFB1YmxpYyBBUEkiLCBocmVmOiAiL2RvY3MvdHV0b3JpYWxzL3B1YmxpYy1hcGktaW5kZXhlciIgfSwKICAgICAgeyB0aXRsZTogIkJ1aWxkIGEgUmVhbCBFc3RhdGUgQXBwIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscy9idWlsZC1yZWFsLWVzdGF0ZS1hcHAiIH0sCiAgICBdLAogIH0sCiAgewogICAgdGl0bGU6ICJMRUFSTiIsCiAgICBpdGVtczogWwogICAgICB7IHRpdGxlOiAiTGVhcm4gRFVBTCIsIGhyZWY6ICIvZG9jcy9sZWFybiIgfSwKICAgIF0sCiAgfSwKICB7CiAgICB0aXRsZTogIlJFU09VUkNFUyIsCiAgICBpdGVtczogWwogICAgICB7IHRpdGxlOiAiU3VwcG9ydCIsIGhyZWY6ICIvZG9jcy9zdXBwb3J0IiB9LAogICAgICB7IHRpdGxlOiAiVXBkYXRlcyAmIENoYW5nZWxvZyIsIGhyZWY6ICIvZG9jcy91cGRhdGVzIiB9LAogICAgXSwKICB9LApdOwo="}
+export interface NavItem {
+  title: string;
+  href: string;
+  items?: NavItem[];
+}
+
+export interface NavSection {
+  title: string;
+  items: NavItem[];
+  collapsed?: boolean;
+}
+
+export const docsNavigation: NavSection[] = [
+  {
+    title: "GETTING STARTED",
+    items: [
+      { title: "Overview", href: "/docs/getting-started/overview" },
+      { title: "Authentication", href: "/docs/getting-started/authentication" },
+      { title: "Quick Start", href: "/docs/getting-started/quickstart" },
+    ],
+  },
+  {
+    title: "CORE CONCEPTS",
+    items: [
+      { title: "Organizations", href: "/docs/concepts/organizations" },
+      { title: "Wallets", href: "/docs/concepts/wallets" },
+      { title: "Templates", href: "/docs/concepts/templates" },
+      { title: "Objects", href: "/docs/concepts/objects" },
+      { title: "Actions", href: "/docs/concepts/actions" },
+      { title: "Faces", href: "/docs/concepts/faces" },
+    ],
+  },
+  {
+    title: "GUIDES",
+    items: [
+      { title: "Architecture Decisions", href: "/docs/guides/architecture-decisions" },
+      { title: "Data Modelling", href: "/docs/guides/data-modelling" },
+      { title: "Code Samples", href: "/docs/guides/code-samples" },
+      { title: "Sandbox & Environments", href: "/docs/guides/sandbox" },
+    ],
+  },
+  {
+    title: "API REFERENCE",
+    items: [
+      { title: "Payments", href: "/docs/api/payments" },
+      { title: "Support", href: "/docs/api/support" },
+      { title: "Organizations", href: "/docs/api/organizations" },
+      { title: "Wallets", href: "/docs/api/wallets" },
+      { title: "API Keys", href: "/docs/api/apikeys" },
+      { title: "Templates", href: "/docs/api/templates" },
+      { title: "Objects", href: "/docs/api/objects" },
+      { title: "Faces", href: "/docs/api/faces" },
+      { title: "Event Bus", href: "/docs/api/ebus" },
+      { title: "Storage", href: "/docs/api/storage" },
+      { title: "Notifications", href: "/docs/api/notifications" },
+      { title: "Webhooks", href: "/docs/api/webhooks" },
+      { title: "Sequencer", href: "/docs/api/sequencer" },
+      { title: "Public API", href: "/docs/api/indexer" },
+    ],
+  },
+  {
+    title: "INFRASTRUCTURE",
+    items: [
+      { title: "Sequencer", href: "/docs/infrastructure/sequencer" },
+      { title: "ZK Rollup", href: "/docs/infrastructure/zk-rollup" },
+      { title: "Smart Contracts", href: "/docs/infrastructure/smart-contracts" },
+    ],
+  },
+  {
+    title: "DEVELOPER TOOLS",
+    items: [
+      { title: "Overview", href: "/docs/developer-kit" },
+      { title: "TypeScript SDK", href: "/docs/developer-kit/sdk" },
+      { title: "CLI Tool", href: "/docs/developer-kit/cli" },
+      { title: "Postman Collection", href: "/docs/developer-kit/postman" },
+      { title: "OpenAPI Reference", href: "/docs/developer-kit/api-reference" },
+      { title: "Migration Guide", href: "/docs/developer-kit/migration" },
+      { title: "Error Reference", href: "/docs/developer-tools/error-reference" },
+      { title: "Rate Limits", href: "/docs/developer-tools/rate-limits" },
+    ],
+  },
+  {
+    title: "AI TOOLS",
+    items: [
+      { title: "Overview", href: "/docs/ai-tools" },
+      { title: "MCP Server", href: "/docs/developer-kit/mcp" },
+      { title: "MCP Setup Guide", href: "/docs/developer-kit/mcp-guide" },
+      { title: "Claude Plugins", href: "/docs/plugins" },
+    ],
+  },
+  {
+    title: "AI TUTORIALS",
+    items: [
+      { title: "AI Agent with MCP", href: "/docs/tutorials/ai-agent-mcp" },
+      { title: "Token Classification", href: "/docs/tutorials/ai-token-classifier" },
+      { title: "Conversational Assistant", href: "/docs/tutorials/ai-chatbot-integration" },
+      { title: "Webhook Automation", href: "/docs/tutorials/ai-webhook-responder" },
+      { title: "Semantic Search", href: "/docs/tutorials/ai-semantic-search" },
+      { title: "Safety & Guardrails", href: "/docs/tutorials/ai-guardrails" },
+    ],
+  },
+  {
+    title: "TUTORIALS",
+    items: [
+      { title: "All Tutorials", href: "/docs/tutorials" },
+      { title: "Create Your First Template", href: "/docs/tutorials/create-first-template" },
+      { title: "Mint & Transfer Objects", href: "/docs/tutorials/mint-transfer-objects" },
+      { title: "Build a Web Face", href: "/docs/tutorials/build-web-face" },
+      { title: "Set Up Webhooks", href: "/docs/tutorials/setup-webhooks" },
+      { title: "Integrate Payments", href: "/docs/tutorials/integrate-payments" },
+      { title: "Batch Actions & Event Bus", href: "/docs/tutorials/batch-actions" },
+      { title: "Roles & Permissions", href: "/docs/tutorials/org-roles-permissions" },
+      { title: "Search & Filter Objects", href: "/docs/tutorials/search-filter-objects" },
+      { title: "Querying the Public API", href: "/docs/tutorials/public-api-indexer" },
+      { title: "Build a Real Estate App", href: "/docs/tutorials/build-real-estate-app" },
+    ],
+  },
+  {
+    title: "LEARN",
+    items: [
+      { title: "Learn DUAL", href: "/docs/learn" },
+    ],
+  },
+  {
+    title: "RESOURCES",
+    items: [
+      { title: "Support", href: "/docs/support" },
+      { title: "Updates & Changelog", href: "/docs/updates" },
+    ],
+  },
+];
