@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Inter, Rajdhani, DM_Mono } from "next/font/google";
-import localFont from "next/font/local";
 import ThemeProvider from "@/components/ThemeProvider";
 import "./globals.css";
 
@@ -21,16 +20,6 @@ const dmMono = DM_Mono({
   subsets: ["latin"],
 });
 
-const satoshi = localFont({
-  src: [
-    { path: "../../public/fonts/Satoshi-Regular.woff2", weight: "400", style: "normal" },
-    { path: "../../public/fonts/Satoshi-Medium.woff2", weight: "500", style: "normal" },
-    { path: "../../public/fonts/Satoshi-Bold.woff2", weight: "700", style: "normal" },
-  ],
-  variable: "--font-satoshi",
-  display: "swap",
-});
-
 export const metadata: Metadata = {
   title: "DUAL Docs - Developer Playground",
   description: "DUAL provides modular blockchain infrastructure for secure digital interactions. Build scalable authentication, identity, and token-based applications.",
@@ -44,8 +33,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.variable} ${rajdhani.variable} ${dmMono.variable} ${satoshi.variable} antialiased`}
-        style={{ fontFamily: "var(--font-inter), var(--font-satoshi), sans-serif" }}
+        className={`${inter.variable} ${rajdhani.variable} ${dmMono.variable} antialiased`}
+        style={{ fontFamily: "var(--font-inter), sans-serif" }}
       >
         <ThemeProvider>
           {children}
