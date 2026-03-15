@@ -1,1 +1,247 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBCcmVhZGNydW1iIGZyb20gIkAvY29tcG9uZW50cy9CcmVhZGNydW1iIjsKCmZ1bmN0aW9uIENvZGVCbG9jayh7IGNvZGUsIHRpdGxlIH06IHsgY29kZTogc3RyaW5nOyB0aXRsZT86IHN0cmluZyB9KSB7CiAgY29uc3QgW2NvcGllZCwgc2V0Q29waWVkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtbGcgb3ZlcmZsb3ctaGlkZGVuIGJvcmRlciIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAge3RpdGxlICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNCBweS0yIGJvcmRlci1iIHRleHQteHMgZm9udC1tZWRpdW0iIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgIHt0aXRsZX0KICAgICAgICA8L2Rpdj4KICAgICAgKX0KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgICA8cHJlIGNsYXNzTmFtZT0icC00IG92ZXJmbG93LXgtYXV0byB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tY29kZS1iZykiLCBjb2xvcjogInZhcigtLWNvZGUtdGV4dCkiLCBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0+CiAgICAgICAgICB7Y29kZX0KICAgICAgICA8L3ByZT4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7IG5hdmlnYXRvci5jbGlwYm9hcmQud3JpdGVUZXh0KGNvZGUpOyBzZXRDb3BpZWQodHJ1ZSk7IHNldFRpbWVvdXQoKCkgPT4gc2V0Q29waWVkKGZhbHNlKSwgMjAwMCk7IH19CiAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0zIHJpZ2h0LTMgcHgtMiBweS0xIHJvdW5kZWQgdGV4dC14cyBib3JkZXIgdHJhbnNpdGlvbi1jb2xvcnMgY3Vyc29yLXBvaW50ZXIiCiAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgPgogICAgICAgICAge2NvcGllZCA/ICJDb3BpZWQhIiA6ICJDb3B5In0KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cgpjb25zdCBjaGFuZ2VzID0gWwogIHsgYXJlYTogIkJhc2UgVVJMIiwgdjI6ICJodHRwczovL2FwaS5kdWFsLmlvIiwgdjM6ICJodHRwczovL2Jsb2Nrdi1sYWJzLmlvIiB9LAogIHsgYXJlYTogIkF1dGhlbnRpY2F0aW9uIiwgdjI6ICJBcHAtSWQgKyBBcHAtU2VjcmV0IGhlYWRlcnMiLCB2MzogIkJlYXJlciBKV1QgdG9rZW4iIH0sCiAgeyBhcmVhOiAiRXJyb3IgRm9ybWF0IiwgdjI6ICJ7bWVzc2FnZTogc3RyaW5nfSIsIHYzOiAie2NvZGU6IHN0cmluZywgc3RhdHVzOiBudW1iZXIsIGJvZHk6IG9iamVjdH0iIH0sCiAgeyBhcmVhOiAiUGFnaW5hdGlvbiIsIHYyOiAiT2Zmc2V0LWJhc2VkIChvZmZzZXQvbGltaXQpIiwgdjM6ICJDdXJzb3ItYmFzZWQgKGN1cnNvcikiIH0sCiAgeyBhcmVhOiAiVXNlciBFbmRwb2ludHMiLCB2MjogIi91c2VyLyoiLCB2MzogIi93YWxsZXRzLyoiIH0sCiAgeyBhcmVhOiAiRGlnaXRhbCBBc3NldHMiLCB2MjogIi92YXRvbXMvKiIsIHYzOiAiL29iamVjdHMvKiIgfSwKICB7IGFyZWE6ICJBc3NldCBBY3Rpb25zIiwgdjI6ICIvdmF0b21zLzppZC9hY3Rpb25zIiwgdjM6ICIvZWJ1cy9hY3Rpb25zIiB9LApdOwoKY29uc3QgYXV0aFYyID0gYGN1cmwgaHR0cHM6Ly9hcGkuZHVhbC5pby91c2VyL3Byb2ZpbGUgXFwKICAtSCAiQXBwLUlkOiBZT1VSX0FQUF9JRCIgXFwKICAtSCAiQXBwLVNlY3JldDogWU9VUl9BUFBfU0VDUkVUImA7Cgpjb25zdCBhdXRoVjMgPSBgIyBMb2dpbiB0byBnZXQgYSB0b2tlbgpjdXJsIC1YIFBPU1QgaHR0cHM6Ly9ibG9ja3YtbGFicy5pby93YWxsZXRzL2xvZ2luIFxcCiAgLUggIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIgXFwKICAtZCAneyJlbWFpbCI6ICJ1c2VyQGV4YW1wbGUuY29tIiwgInBhc3N3b3JkIjogInBhc3N3b3JkIn0nCgojIFVzZSB0aGUgdG9rZW4gaW4gc3Vic2VxdWVudCByZXF1ZXN0cwpjdXJsIGh0dHBzOi8vYmxvY2t2LWxhYnMuaW8vd2FsbGV0cy9tZSBcXAogIC1IICJBdXRob3JpemF0aW9uOiBCZWFyZXIgZXlKaGJHY2lPaUpJVXpJMS4uLiJgOwoKY29uc3QgZXJyb3JWMiA9IGAvLyB2MiBlcnJvciByZXNwb25zZQp7CiAgIm1lc3NhZ2UiOiAiTm90IGZvdW5kIgp9YDsKCmNvbnN0IGVycm9yVjMgPSBgLy8gdjMgZXJyb3IgcmVzcG9uc2UKewogICJjb2RlIjogIlJFU09VUkNFX05PVF9GT1VORCIsCiAgInN0YXR1cyI6IDQwNCwKICAiYm9keSI6IHsKICAgICJtZXNzYWdlIjogIk9iamVjdCBvYmpfMTIzIG5vdCBmb3VuZCIsCiAgICAicmVzb3VyY2UiOiAib2JqZWN0IiwKICAgICJpZCI6ICJvYmpfMTIzIgogIH0KfWA7Cgpjb25zdCBwYWdpbmF0aW9uVjIgPSBgLy8gdjI6IE9mZnNldCBwYWdpbmF0aW9uCkdFVCAvdmF0b21zP29mZnNldD0yMCZsaW1pdD0xMAoKLy8gUmVzcG9uc2UKewogICJpdGVtcyI6IFsuLi5dLAogICJ0b3RhbCI6IDE1MCwKICAib2Zmc2V0IjogMjAsCiAgImxpbWl0IjogMTAKfWA7Cgpjb25zdCBwYWdpbmF0aW9uVjMgPSBgLy8gdjM6IEN1cnNvciBwYWdpbmF0aW9uCkdFVCAvb2JqZWN0cz9saW1pdD0xMCZjdXJzb3I9ZXlKcFpDSTZJbTlpYWw4eE1qTWlmUQoKLy8gUmVzcG9uc2UKewogICJpdGVtcyI6IFsuLi5dLAogICJjdXJzb3IiOiAiZXlKcFpDSTZJbTlpYWw4eE16TWlmUSIsCiAgImhhc19tb3JlIjogdHJ1ZQp9YDsKCmNvbnN0IGVuZHBvaW50UmVuYW1lcyA9IFsKICB7IHYyOiAiR0VUIC91c2VyL3Byb2ZpbGUiLCB2MzogIkdFVCAvd2FsbGV0cy9tZSIgfSwKICB7IHYyOiAiUE9TVCAvdXNlci9sb2dpbiIsIHYzOiAiUE9TVCAvd2FsbGV0cy9sb2dpbiIgfSwKICB7IHYyOiAiUE9TVCAvdXNlci9yZWdpc3RlciIsIHYzOiAiUE9TVCAvd2FsbGV0cy9yZWdpc3RlciIgfSwKICB7IHYyOiAiR0VUIC92YXRvbXMiLCB2MzogIkdFVCAvb2JqZWN0cyIgfSwKICB7IHYyOiAiR0VUIC92YXRvbXMvOmlkIiwgdjM6ICJHRVQgL29iamVjdHMvOmlkIiB9LAogIHsgdjI6ICJQT1NUIC92YXRvbXMvOmlkL2FjdGlvbnMiLCB2MzogIlBPU1QgL2VidXMvYWN0aW9ucyIgfSwKICB7IHYyOiAiR0VUIC90ZW1wbGF0ZXMiLCB2MzogIkdFVCAvdGVtcGxhdGVzIiB9LAogIHsgdjI6ICJQT1NUIC91c2VyL3Rva2VuL3JlZnJlc2giLCB2MzogIlBPU1QgL3dhbGxldHMvdG9rZW4vcmVmcmVzaCIgfSwKICB7IHYyOiAiR0VUIC9hY3Rpdml0eSIsIHYzOiAiR0VUIC9lYnVzL2V2ZW50cyIgfSwKICB7IHYyOiAiUE9TVCAvdmF0b21zLzppZC90cmFuc2ZlciIsIHYzOiAiUE9TVCAvb2JqZWN0cy86aWQvdHJhbnNmZXIiIH0sCl07Cgpjb25zdCBjb2RlbW9kID0gYCMhL2Jpbi9iYXNoCiMgUnVuIGZyb20geW91ciBwcm9qZWN0IHJvb3QKZmluZCBzcmMgLW5hbWUgIioudHMiIC1vIC1uYW1lICIqLmpzIiB8IHhhcmdzIHNlZCAtaSAnJyBcXAogIC1lICdzfGFwaS5kdWFsLmlvfGJsb2Nrdi1sYWJzLmlvfGcnIFxcCiAgLWUgJ3N8L3VzZXIvcHJvZmlsZXwvd2FsbGV0cy9tZXxnJyBcXAogIC1lICdzfC91c2VyL2xvZ2lufC93YWxsZXRzL2xvZ2lufGcnIFxcCiAgLWUgJ3N8L3VzZXIvcmVnaXN0ZXJ8L3dhbGxldHMvcmVnaXN0ZXJ8ZycgXFwKICAtZSAnc3wvdmF0b21zfC9vYmplY3RzfGcnIFxcCiAgLWUgJ3N8QXBwLUlkfEF1dGhvcml6YXRpb258ZycgXFwKICAtZSAnc3wvYWN0aXZpdHl8L2VidXMvZXZlbnRzfGcnIFxcCiAgLWUgJ3N8L3VzZXIvdG9rZW4vcmVmcmVzaHwvd2FsbGV0cy90b2tlbi9yZWZyZXNofGcnCmVjaG8gIk1pZ3JhdGlvbiBjb21wbGV0ZSDigJQgcmV2aWV3IGNoYW5nZXMgd2l0aDogZ2l0IGRpZmYiYDsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE1pZ3JhdGlvblBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC04IHB5LTEyIj4KICAgICAgPEJyZWFkY3J1bWIgaXRlbXM9e1t7IGxhYmVsOiAiRG9jcyIsIGhyZWY6ICIvZG9jcyIgfSwgeyBsYWJlbDogIkRldmVsb3BlciBLaXQiLCBocmVmOiAiL2RvY3MvZGV2ZWxvcGVyLWtpdCIgfSwgeyBsYWJlbDogIk1pZ3JhdGlvbiBHdWlkZSIgfV19IC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgbWItMyI+CiAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PgogICAgICAgICAgdjIg4oaSIHYzIE1pZ3JhdGlvbiBHdWlkZQogICAgICAgIDwvaDE+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtYm9sZCBweC0yIHB5LTAuNSByb3VuZGVkIGJnLXJlZC01MCB0ZXh0LXJlZC03MDAiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fT4KICAgICAgICAgIEJyZWFraW5nCiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPHAgY2xhc3NOYW1lPSJtYi04IGxlYWRpbmctcmVsYXhlZCBtYXgtdy14bCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICBTdGVwLWJ5LXN0ZXAgZ3VpZGUgZm9yIG1pZ3JhdGluZyBmcm9tIERVQUwgQVBJIHYyIHRvIHYzLiBDb3ZlcnMgYXV0aGVudGljYXRpb24sIGVuZHBvaW50IHJlbmFtZXMsIHBhZ2luYXRpb24sIGFuZCBlcnJvciBoYW5kbGluZyBjaGFuZ2VzIHdpdGggYmVmb3JlL2FmdGVyIGNvZGUgZXhhbXBsZXMuCiAgICAgIDwvcD4KCiAgICAgIHsvKiBUaW1lbGluZSBub3RpY2UgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgbWItOCByb3VuZGVkLWxnIGJvcmRlci1sLTQgYm9yZGVyLWwtYW1iZXItNDAwIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIG1iLTEiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT4KICAgICAgICAgIERlcHJlY2F0aW9uIFRpbWVsaW5lCiAgICAgICAgPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgIHYyIGVuZHBvaW50cyByZXR1cm4gMzAxIHJlZGlyZWN0cyB0byB0aGVpciB2MyBlcXVpdmFsZW50cy4gVGhpcyBjb21wYXRpYmlsaXR5IGxheWVyIHdpbGwgYmUgcmVtb3ZlZCBpbiBKdW5lIDIwMjYuIE1pZ3JhdGUgYmVmb3JlIHRoZW4gdG8gYXZvaWQgYnJlYWtpbmcgY2hhbmdlcy4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFN1bW1hcnkgVGFibGUgKi99CiAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIG1iLTQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+Q2hhbmdlcyBhdCBhIEdsYW5jZTwvaDI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXIgcm91bmRlZC1sZyBvdmVyZmxvdy1oaWRkZW4gbWItMTAiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgPHRhYmxlIGNsYXNzTmFtZT0idy1mdWxsIHRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiB9fT4KICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgPHRyIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiB9fT4KICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LWxlZnQgcHgtNCBweS0yLjUgZm9udC1zZW1pYm9sZCBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT5BcmVhPC90aD4KICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LWxlZnQgcHgtNCBweS0yLjUgZm9udC1zZW1pYm9sZCBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT52MjwvdGg+CiAgICAgICAgICAgICAgPHRoIGNsYXNzTmFtZT0idGV4dC1sZWZ0IHB4LTQgcHktMi41IGZvbnQtc2VtaWJvbGQgYm9yZGVyLWIiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+djM8L3RoPgogICAgICAgICAgICA8L3RyPgogICAgICAgICAgPC90aGVhZD4KICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAge2NoYW5nZXMubWFwKChjLCBpKSA9PiAoCiAgICAgICAgICAgICAgPHRyIGtleT17Yy5hcmVhfSBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6IGkgJSAyID09PSAxID8gInZhcigtLXN1cmZhY2UpIiA6ICJ0cmFuc3BhcmVudCIgfX0+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJweC00IHB5LTIgYm9yZGVyLWIgZm9udC1tZWRpdW0iIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+e2MuYXJlYX08L3RkPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icHgtNCBweS0yIGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICAgICAgICA8Y29kZSBjbGFzc05hbWU9InRleHQteHMgbGluZS10aHJvdWdoIG9wYWNpdHktNjAiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+e2MudjJ9PC9jb2RlPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTQgcHktMiBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICAgICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtWyMxNWI4YTddIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0+e2MudjN9PC9jb2RlPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4KICAgICAgPC9kaXY+CgogICAgICB7LyogQXV0aCBNaWdyYXRpb24gKi99CiAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+MS4gQXV0aGVudGljYXRpb248L2gyPgogICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbWItNCBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgdjIgdXNlZCBzdGF0aWMgQXBwLUlkIGFuZCBBcHAtU2VjcmV0IGhlYWRlcnMuIHYzIHVzZXMgSldUIGJlYXJlciB0b2tlbnMgb2J0YWluZWQgdGhyb3VnaCB0aGUgbG9naW4gZW5kcG9pbnQsIHdpdGggYXV0b21hdGljIHJlZnJlc2ggc3VwcG9ydC4KICAgICAgPC9wPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMSBnYXAtMyBtYi04Ij4KICAgICAgICA8Q29kZUJsb2NrIGNvZGU9e2F1dGhWMn0gdGl0bGU9InYyIOKAlCBBcHAtSWQgLyBBcHAtU2VjcmV0IiAvPgogICAgICAgIDxDb2RlQmxvY2sgY29kZT17YXV0aFYzfSB0aXRsZT0idjMg4oCUIEJlYXJlciBKV1QiIC8+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIEVycm9yIEhhbmRsaW5nICovfQogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCBtYi0zIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PjIuIEVycm9yIEhhbmRsaW5nPC9oMj4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIG1iLTQgbGVhZGluZy1yZWxheGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIHYzIGVycm9ycyBpbmNsdWRlIGEgbWFjaGluZS1yZWFkYWJsZSBlcnJvciBjb2RlLCBIVFRQIHN0YXR1cywgYW5kIGEgZGV0YWlsZWQgYm9keSB3aXRoIGNvbnRleHQgYWJvdXQgdGhlIGZhaWx1cmUuCiAgICAgIDwvcD4KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgZ2FwLTMgbWItOCI+CiAgICAgICAgPENvZGVCbG9jayBjb2RlPXtlcnJvclYyfSB0aXRsZT0idjIgRXJyb3IiIC8+CiAgICAgICAgPENvZGVCbG9jayBjb2RlPXtlcnJvclYzfSB0aXRsZT0idjMgRXJyb3IiIC8+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFBhZ2luYXRpb24gKi99CiAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+My4gUGFnaW5hdGlvbjwvaDI+CiAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBtYi00IGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICB2MyB1c2VzIGN1cnNvci1iYXNlZCBwYWdpbmF0aW9uIGZvciBjb25zaXN0ZW50IHJlc3VsdHMuIE9mZnNldCBwYWdpbmF0aW9uIGlzIGRlcHJlY2F0ZWQgYW5kIHdpbGwgYmUgcmVtb3ZlZCBpbiB2NC4KICAgICAgPC9wPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMiBnYXAtMyBtYi04Ij4KICAgICAgICA8Q29kZUJsb2NrIGNvZGU9e3BhZ2luYXRpb25WMn0gdGl0bGU9InYyIE9mZnNldCIgLz4KICAgICAgICA8Q29kZUJsb2NrIGNvZGU9e3BhZ2luYXRpb25WM30gdGl0bGU9InYzIEN1cnNvciIgLz4KICAgICAgPC9kaXY+CgogICAgICB7LyogRW5kcG9pbnQgUmVuYW1lcyAqL30KICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgbWItNCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT40LiBFbmRwb2ludCBSZW5hbWVzPC9oMj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImJvcmRlciByb3VuZGVkLWxnIG92ZXJmbG93LWhpZGRlbiBtYi04IiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgIDx0YWJsZSBjbGFzc05hbWU9InctZnVsbCB0ZXh0LXNtIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICA8dGhlYWQ+CiAgICAgICAgICAgIDx0ciBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIgfX0+CiAgICAgICAgICAgICAgPHRoIGNsYXNzTmFtZT0idGV4dC1sZWZ0IHB4LTQgcHktMi41IGZvbnQtc2VtaWJvbGQgYm9yZGVyLWIiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+djIgRW5kcG9pbnQ8L3RoPgogICAgICAgICAgICAgIDx0aCBjbGFzc05hbWU9InRleHQtY2VudGVyIHB4LTQgcHktMi41IGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT7ihpI8L3RoPgogICAgICAgICAgICAgIDx0aCBjbGFzc05hbWU9InRleHQtbGVmdCBweC00IHB5LTIuNSBmb250LXNlbWlib2xkIGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PnYzIEVuZHBvaW50PC90aD4KICAgICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgIHtlbmRwb2ludFJlbmFtZXMubWFwKChyLCBpKSA9PiAoCiAgICAgICAgICAgICAgPHRyIGtleT17aX0gc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiBpICUgMiA9PT0gMSA/ICJ2YXIoLS1zdXJmYWNlKSIgOiAidHJhbnNwYXJlbnQiIH19PgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icHgtNCBweS0yIGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICAgICAgICA8Y29kZSBjbGFzc05hbWU9InRleHQteHMgbGluZS10aHJvdWdoIG9wYWNpdHktNjAiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+e3IudjJ9PC9jb2RlPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTQgcHktMiBib3JkZXItYiB0ZXh0LWNlbnRlciIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+4oaSPC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTQgcHktMiBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICAgICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtWyMxNWI4YTddIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0+e3IudjN9PC9jb2RlPgogICAgICAgICAgICAgICAgPC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4KICAgICAgPC9kaXY+CgogICAgICB7LyogQ29kZW1vZCAqL30KICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgbWItMyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT41LiBBdXRvbWF0ZWQgQ29kZW1vZDwvaDI+CiAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBtYi00IGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICBSdW4gdGhpcyBiYXNoIHNjcmlwdCBmcm9tIHlvdXIgcHJvamVjdCByb290IHRvIGF1dG9tYXRpY2FsbHkgcmVuYW1lIGVuZHBvaW50cyBhbmQgdXBkYXRlIGhlYWRlcnMuIEFsd2F5cyByZXZpZXcgdGhlIGRpZmYgYmVmb3JlIGNvbW1pdHRpbmcuCiAgICAgIDwvcD4KICAgICAgPENvZGVCbG9jayBjb2RlPXtjb2RlbW9kfSB0aXRsZT0ibWlncmF0ZS12Mi10by12My5zaCIgLz4KCiAgICAgIHsvKiBIZWxwICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCBwLTQgcm91bmRlZC1sZyBib3JkZXIiIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICBOZWVkIGhlbHAgbWlncmF0aW5nPyBPcGVuIGF7IiAifQogICAgICAgICAgPExpbmsgaHJlZj0iL2RvY3Mvc3VwcG9ydCIgY2xhc3NOYW1lPSJ0ZXh0LVsjMTViOGE3XSBob3Zlcjp1bmRlcmxpbmUiPnN1cHBvcnQgdGlja2V0PC9MaW5rPgogICAgICAgICAgeyIgIn1vciBhc2sgaW4gdGhleyIgIn0KICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vZGlzY29yZC5nZy9kdWFsIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIiBjbGFzc05hbWU9InRleHQtWyMxNWI4YTddIGhvdmVyOnVuZGVybGluZSI+RGlzY29yZDwvYT4uCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import Link from "next/link";
+import { useState } from "react";
+import Breadcrumb from "@/components/Breadcrumb";
+
+function CodeBlock({ code, title }: { code: string; title?: string }) {
+  const [copied, setCopied] = useState(false);
+  return (
+    <div className="rounded-lg overflow-hidden border" style={{ borderColor: "var(--border)" }}>
+      {title && (
+        <div className="px-4 py-2 border-b text-xs font-medium" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)", fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          {title}
+        </div>
+      )}
+      <div className="relative">
+        <pre className="p-4 overflow-x-auto text-sm leading-relaxed" style={{ backgroundColor: "var(--code-bg)", color: "var(--code-text)", fontFamily: "var(--font-dm-mono)" }}>
+          {code}
+        </pre>
+        <button
+          onClick={() => { navigator.clipboard.writeText(code); setCopied(true); setTimeout(() => setCopied(false), 2000); }}
+          className="absolute top-3 right-3 px-2 py-1 rounded text-xs border transition-colors cursor-pointer"
+          style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)", color: "var(--text-muted)" }}
+        >
+          {copied ? "Copied!" : "Copy"}
+        </button>
+      </div>
+    </div>
+  );
+}
+
+const changes = [
+  { area: "Base URL", v2: "https://api.dual.io", v3: "https://blockv-labs.io" },
+  { area: "Authentication", v2: "App-Id + App-Secret headers", v3: "Bearer JWT token" },
+  { area: "Error Format", v2: "{message: string}", v3: "{code: string, status: number, body: object}" },
+  { area: "Pagination", v2: "Offset-based (offset/limit)", v3: "Cursor-based (cursor)" },
+  { area: "User Endpoints", v2: "/user/*", v3: "/wallets/*" },
+  { area: "Digital Assets", v2: "/vatoms/*", v3: "/objects/*" },
+  { area: "Asset Actions", v2: "/vatoms/:id/actions", v3: "/ebus/actions" },
+];
+
+const authV2 = `curl https://api.dual.io/user/profile \\
+  -H "App-Id: YOUR_APP_ID" \\
+  -H "App-Secret: YOUR_APP_SECRET"`;
+
+const authV3 = `# Login to get a token
+curl -X POST https://blockv-labs.io/wallets/login \\
+  -H "Content-Type: application/json" \\
+  -d '{"email": "user@example.com", "password": "password"}'
+
+# Use the token in subsequent requests
+curl https://blockv-labs.io/wallets/me \\
+  -H "Authorization: Bearer eyJhbGciOiJIUzI1..."`;
+
+const errorV2 = `// v2 error response
+{
+  "message": "Not found"
+}`;
+
+const errorV3 = `// v3 error response
+{
+  "code": "RESOURCE_NOT_FOUND",
+  "status": 404,
+  "body": {
+    "message": "Object obj_123 not found",
+    "resource": "object",
+    "id": "obj_123"
+  }
+}`;
+
+const paginationV2 = `// v2: Offset pagination
+GET /vatoms?offset=20&limit=10
+
+// Response
+{
+  "items": [...],
+  "total": 150,
+  "offset": 20,
+  "limit": 10
+}`;
+
+const paginationV3 = `// v3: Cursor pagination
+GET /objects?limit=10&cursor=eyJpZCI6Im9ial8xMjMifQ
+
+// Response
+{
+  "items": [...],
+  "cursor": "eyJpZCI6Im9ial8xMzMifQ",
+  "has_more": true
+}`;
+
+const endpointRenames = [
+  { v2: "GET /user/profile", v3: "GET /wallets/me" },
+  { v2: "POST /user/login", v3: "POST /wallets/login" },
+  { v2: "POST /user/register", v3: "POST /wallets/register" },
+  { v2: "GET /vatoms", v3: "GET /objects" },
+  { v2: "GET /vatoms/:id", v3: "GET /objects/:id" },
+  { v2: "POST /vatoms/:id/actions", v3: "POST /ebus/actions" },
+  { v2: "GET /templates", v3: "GET /templates" },
+  { v2: "POST /user/token/refresh", v3: "POST /wallets/token/refresh" },
+  { v2: "GET /activity", v3: "GET /ebus/events" },
+  { v2: "POST /vatoms/:id/transfer", v3: "POST /objects/:id/transfer" },
+];
+
+const codemod = `#!/bin/bash
+# Run from your project root
+find src -name "*.ts" -o -name "*.js" | xargs sed -i '' \\
+  -e 's|api.dual.io|blockv-labs.io|g' \\
+  -e 's|/user/profile|/wallets/me|g' \\
+  -e 's|/user/login|/wallets/login|g' \\
+  -e 's|/user/register|/wallets/register|g' \\
+  -e 's|/vatoms|/objects|g' \\
+  -e 's|App-Id|Authorization|g' \\
+  -e 's|/activity|/ebus/events|g' \\
+  -e 's|/user/token/refresh|/wallets/token/refresh|g'
+echo "Migration complete — review changes with: git diff"`;
+
+export default function MigrationPage() {
+  return (
+    <div className="max-w-3xl mx-auto px-8 py-12">
+      <Breadcrumb items={[{ label: "Docs", href: "/docs" }, { label: "Developer Kit", href: "/docs/developer-kit" }, { label: "Migration Guide" }]} />
+
+      <div className="flex items-center gap-3 mb-3">
+        <h1 className="text-3xl font-bold" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+          v2 → v3 Migration Guide
+        </h1>
+        <span className="text-xs font-bold px-2 py-0.5 rounded bg-red-50 text-red-700" style={{ fontFamily: "var(--font-dm-mono)" }}>
+          Breaking
+        </span>
+      </div>
+      <p className="mb-8 leading-relaxed max-w-xl" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Step-by-step guide for migrating from DUAL API v2 to v3. Covers authentication, endpoint renames, pagination, and error handling changes with before/after code examples.
+      </p>
+
+      {/* Timeline notice */}
+      <div className="p-4 mb-8 rounded-lg border-l-4 border-l-amber-400" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+        <p className="text-sm font-medium mb-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+          Deprecation Timeline
+        </p>
+        <p className="text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          v2 endpoints return 301 redirects to their v3 equivalents. This compatibility layer will be removed in June 2026. Migrate before then to avoid breaking changes.
+        </p>
+      </div>
+
+      {/* Summary Table */}
+      <h2 className="text-lg font-bold mb-4" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>Changes at a Glance</h2>
+      <div className="border rounded-lg overflow-hidden mb-10" style={{ borderColor: "var(--border)" }}>
+        <table className="w-full text-sm" style={{ fontFamily: "var(--font-satoshi)" }}>
+          <thead>
+            <tr style={{ backgroundColor: "var(--surface)" }}>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>Area</th>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>v2</th>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>v3</th>
+            </tr>
+          </thead>
+          <tbody>
+            {changes.map((c, i) => (
+              <tr key={c.area} style={{ backgroundColor: i % 2 === 1 ? "var(--surface)" : "transparent" }}>
+                <td className="px-4 py-2 border-b font-medium" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>{c.area}</td>
+                <td className="px-4 py-2 border-b" style={{ borderColor: "var(--border)" }}>
+                  <code className="text-xs line-through opacity-60" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>{c.v2}</code>
+                </td>
+                <td className="px-4 py-2 border-b" style={{ borderColor: "var(--border)" }}>
+                  <code className="text-xs text-[#15b8a7]" style={{ fontFamily: "var(--font-dm-mono)" }}>{c.v3}</code>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      {/* Auth Migration */}
+      <h2 className="text-lg font-bold mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>1. Authentication</h2>
+      <p className="text-sm mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        v2 used static App-Id and App-Secret headers. v3 uses JWT bearer tokens obtained through the login endpoint, with automatic refresh support.
+      </p>
+      <div className="grid grid-cols-1 gap-3 mb-8">
+        <CodeBlock code={authV2} title="v2 — App-Id / App-Secret" />
+        <CodeBlock code={authV3} title="v3 — Bearer JWT" />
+      </div>
+
+      {/* Error Handling */}
+      <h2 className="text-lg font-bold mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>2. Error Handling</h2>
+      <p className="text-sm mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        v3 errors include a machine-readable error code, HTTP status, and a detailed body with context about the failure.
+      </p>
+      <div className="grid grid-cols-2 gap-3 mb-8">
+        <CodeBlock code={errorV2} title="v2 Error" />
+        <CodeBlock code={errorV3} title="v3 Error" />
+      </div>
+
+      {/* Pagination */}
+      <h2 className="text-lg font-bold mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>3. Pagination</h2>
+      <p className="text-sm mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        v3 uses cursor-based pagination for consistent results. Offset pagination is deprecated and will be removed in v4.
+      </p>
+      <div className="grid grid-cols-2 gap-3 mb-8">
+        <CodeBlock code={paginationV2} title="v2 Offset" />
+        <CodeBlock code={paginationV3} title="v3 Cursor" />
+      </div>
+
+      {/* Endpoint Renames */}
+      <h2 className="text-lg font-bold mb-4" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>4. Endpoint Renames</h2>
+      <div className="border rounded-lg overflow-hidden mb-8" style={{ borderColor: "var(--border)" }}>
+        <table className="w-full text-sm" style={{ fontFamily: "var(--font-satoshi)" }}>
+          <thead>
+            <tr style={{ backgroundColor: "var(--surface)" }}>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>v2 Endpoint</th>
+              <th className="text-center px-4 py-2.5 border-b" style={{ borderColor: "var(--border)", color: "var(--text-muted)" }}>→</th>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>v3 Endpoint</th>
+            </tr>
+          </thead>
+          <tbody>
+            {endpointRenames.map((r, i) => (
+              <tr key={i} style={{ backgroundColor: i % 2 === 1 ? "var(--surface)" : "transparent" }}>
+                <td className="px-4 py-2 border-b" style={{ borderColor: "var(--border)" }}>
+                  <code className="text-xs line-through opacity-60" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>{r.v2}</code>
+                </td>
+                <td className="px-4 py-2 border-b text-center" style={{ borderColor: "var(--border)", color: "var(--text-muted)" }}>→</td>
+                <td className="px-4 py-2 border-b" style={{ borderColor: "var(--border)" }}>
+                  <code className="text-xs text-[#15b8a7]" style={{ fontFamily: "var(--font-dm-mono)" }}>{r.v3}</code>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      {/* Codemod */}
+      <h2 className="text-lg font-bold mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>5. Automated Codemod</h2>
+      <p className="text-sm mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Run this bash script from your project root to automatically rename endpoints and update headers. Always review the diff before committing.
+      </p>
+      <CodeBlock code={codemod} title="migrate-v2-to-v3.sh" />
+
+      {/* Help */}
+      <div className="mt-8 p-4 rounded-lg border" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+        <p className="text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          Need help migrating? Open a{" "}
+          <Link href="/docs/support" className="text-[#15b8a7] hover:underline">support ticket</Link>
+          {" "}or ask in the{" "}
+          <a href="https://discord.gg/dual" target="_blank" rel="noopener noreferrer" className="text-[#15b8a7] hover:underline">Discord</a>.
+        </p>
+      </div>
+    </div>
+  );
+}

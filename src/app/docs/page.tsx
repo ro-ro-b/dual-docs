@@ -1,1 +1,173 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKCmNvbnN0IHF1aWNrTGlua3MgPSBbCiAgewogICAgdGl0bGU6ICJRdWljayBTdGFydCIsCiAgICBkZXNjOiAiU2V0IHVwIHlvdXIgZmlyc3QgcHJvamVjdCBpbiB1bmRlciA1IG1pbnV0ZXMiLAogICAgaHJlZjogIi9kb2NzL2dldHRpbmctc3RhcnRlZC9xdWlja3N0YXJ0IiwKICAgIGljb246ICJNMTMgMTBWM0w0IDE0aDd2N2w5LTExaC03eiIsCiAgfSwKICB7CiAgICB0aXRsZTogIkFQSSBSZWZlcmVuY2UiLAogICAgZGVzYzogIkV4cGxvcmUgYWxsIGVuZHBvaW50cyB3aXRoIGludGVyYWN0aXZlIGV4YW1wbGVzIiwKICAgIGhyZWY6ICIvZG9jcy9hcGkvb2JqZWN0cyIsCiAgICBpY29uOiAiTTIwIDE0LjY2VjIwYTIgMiAwIDAxLTIgMkg0YTIgMiAwIDAxLTItMlY2YTIgMiAwIDAxMi0yaDUuMzQiLAogIH0sCiAgewogICAgdGl0bGU6ICJUdXRvcmlhbHMiLAogICAgZGVzYzogIlN0ZXAtYnktc3RlcCBndWlkZXMgZnJvbSBiZWdpbm5lciB0byBhZHZhbmNlZCIsCiAgICBocmVmOiAiL2RvY3MvdHV0b3JpYWxzIiwKICAgIGljb246ICJNMTIgNi4yNTN2MTNtMC0xM0MxMC44MzIgNS40NzcgOS4yNDYgNSA3LjUgNVM0LjE2OCA1LjQ3NyAzIDYuMjUzdjEzQzQuMTY4IDE4LjQ3NyA1Ljc1NCAxOCA3LjUgMThzMy4zMzIuNDc3IDQuNSAxLjI1M20wLTEzQzEzLjE2OCA1LjQ3NyAxNC43NTQgNSAxNi41IDVjMS43NDcgMCAzLjMzMi40NzcgNC41IDEuMjUzdjEzQzE5LjgzMiAxOC40NzcgMTguMjQ3IDE4IDE2LjUgMThjLTEuNzQ2IDAtMy4zMzIuNDc3LTQuNSAxLjI1MyIsCiAgfSwKICB7CiAgICB0aXRsZTogIkFJIFRvb2xzIiwKICAgIGRlc2M6ICJDb25uZWN0IEFJIG1vZGVscyBhbmQgQ2xhdWRlIHBsdWdpbnMgdG8gRFVBTCIsCiAgICBocmVmOiAiL2RvY3MvYWktdG9vbHMiLAogICAgaWNvbjogIk05LjY2MyAxN2g0LjY3M00xMiAzdjFtNi4zNjQgMS42MzZsLS43MDcuNzA3TTIxIDEyaC0xTTQgMTJIM20zLjM0My01LjY1N2wtLjcwNy0uNzA3bTIuODI4IDkuOWE1IDUgMCAxMTcuMDcyIDBsLS41NDguNTQ3QTMuMzc0IDMuMzc0IDAgMDAxNCAxOC40NjlWMTlhMiAyIDAgMTEtNCAwdi0uNTMxYzAtLjg5NS0uMzU2LTEuNzU0LS45ODgtMi4zODZsLS41NDgtLjU0N3oiLAogIH0sCl07Cgpjb25zdCBjb3JlQ29uY2VwdENhcmRzID0gWwogIHsgdGl0bGU6ICJPcmdhbml6YXRpb25zIiwgZGVzYzogIk11bHRpLXRlbmFudCB3b3Jrc3BhY2VzIHdpdGggcm9sZS1iYXNlZCBhY2Nlc3MiLCBocmVmOiAiL2RvY3MvY29uY2VwdHMvb3JnYW5pemF0aW9ucyIgfSwKICB7IHRpdGxlOiAiV2FsbGV0cyIsIGRlc2M6ICJJZGVudGl0eSBwcmltaXRpdmVzIGZvciBhdXRoZW50aWNhdGlvbiBhbmQgb3duZXJzaGlwIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL3dhbGxldHMiIH0sCiAgeyB0aXRsZTogIlRlbXBsYXRlcyIsIGRlc2M6ICJEZWZpbmUgc3RydWN0dXJlIGFuZCBwcm9wZXJ0aWVzIG9mIHRva2VuaXplZCBvYmplY3RzIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL3RlbXBsYXRlcyIgfSwKICB7IHRpdGxlOiAiT2JqZWN0cyIsIGRlc2M6ICJJbnN0YW5jZXMgcmVwcmVzZW50aW5nIHJlYWwtd29ybGQgb3IgZGlnaXRhbCBhc3NldHMiLCBocmVmOiAiL2RvY3MvY29uY2VwdHMvb2JqZWN0cyIgfSwKICB7IHRpdGxlOiAiQWN0aW9ucyIsIGRlc2M6ICJPcGVyYXRpb25zIGV4ZWN1dGVkIHZpYSB0aGUgRXZlbnQgQnVzIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL2FjdGlvbnMiIH0sCiAgeyB0aXRsZTogIkZhY2VzIiwgZGVzYzogIlZpc3VhbCByZXByZXNlbnRhdGlvbnMgYXR0YWNoZWQgdG8gdGVtcGxhdGVzIiwgaHJlZjogIi9kb2NzL2NvbmNlcHRzL2ZhY2VzIiB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRG9jc0hvbWUoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy01eGwgcHgtMTIgcHktMTYiPgogICAgICB7LyogSGVybyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTE2Ij4KICAgICAgICA8aDEKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC01eGwgZm9udC1zZW1pYm9sZCBsZWFkaW5nLVsxLjE1XSBtYi01IHRyYWNraW5nLXRpZ2h0IgogICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgID4KICAgICAgICAgIFdlbGNvbWUgdG8gRFVBTAogICAgICAgICAgPGJyIC8+CiAgICAgICAgICBEZXZlbG9wZXIgUGxheWdyb3VuZAogICAgICAgIDwvaDE+CiAgICAgICAgPHAKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1sZyBtYi04IG1heC13LXhsIGxlYWRpbmctcmVsYXhlZCIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICA+CiAgICAgICAgICBEVUFMIHByb3ZpZGVzIG1vZHVsYXIgYmxvY2tjaGFpbiBpbmZyYXN0cnVjdHVyZSBmb3Igc2VjdXJlIGRpZ2l0YWwKICAgICAgICAgIGludGVyYWN0aW9ucy4gU2lnbiB1cCBmb3IgYSBmcmVlIGRldmVsb3BlciBhY2NvdW50IGFuZCBzdGFydCBidWlsZGluZwogICAgICAgICAgc2NhbGFibGUgYXV0aGVudGljYXRpb24sIGlkZW50aXR5LCBhbmQgdG9rZW4tYmFzZWQgYXBwbGljYXRpb25zLgogICAgICAgIDwvcD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTUiPgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgaHJlZj0iL2RvY3MvZ2V0dGluZy1zdGFydGVkL3F1aWNrc3RhcnQiCiAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTYgcHktMyBiZy1bIzE1YjhhN10gdGV4dC13aGl0ZSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHJvdW5kZWQtbGcgaG92ZXI6YmctWyMxM2E1OTZdIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXIgc2hhZG93LXNtIGhvdmVyOnNoYWRvdy1tZCIKICAgICAgICAgID4KICAgICAgICAgICAgR2V0IFN0YXJ0ZWQKICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIiBjbGFzc05hbWU9InRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTIwMCBncm91cC1ob3Zlcjp0cmFuc2xhdGUteC0wLjUiPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik01IDEyaDE0TTEyIDVsNyA3LTcgNyIgLz4KICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8TGluawogICAgICAgICAgICBocmVmPSIvZG9jcy9haS10b29scyIKICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIHVwcGVyY2FzZSB0cmFja2luZy13aWRlciB0cmFuc2l0aW9uLWNvbG9ycyBkdXJhdGlvbi0yMDAiCiAgICAgICAgICAgIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIEV4cGxvcmUgQUkgVG9vbHMKICAgICAgICAgIDwvTGluaz4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogUXVpY2sgbGlua3MgZ3JpZCAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgZ2FwLTQgbWItMTYiPgogICAgICAgIHtxdWlja0xpbmtzLm1hcCgobGluaykgPT4gKAogICAgICAgICAgPExpbmsKICAgICAgICAgICAga2V5PXtsaW5rLmhyZWZ9CiAgICAgICAgICAgIGhyZWY9e2xpbmsuaHJlZn0KICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC00IHAtNSByb3VuZGVkLXhsIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0yMDAgaG92ZXI6Ym9yZGVyLVsjMTViOGE3XS8zMCBob3ZlcjpzaGFkb3ctc20iCiAgICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2hyaW5rLTAgdy0xMCBoLTEwIHJvdW5kZWQtbGcgYmctWyMxNWI4YTddLzEwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICAgICAgPHBhdGggZD17bGluay5pY29ufSAvPgogICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1pbi13LTAiPgogICAgICAgICAgICAgIDxoMwogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgbWItMSBncm91cC1ob3Zlcjp0ZXh0LVsjMTViOGE3XSB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHtsaW5rLnRpdGxlfQogICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgIHtsaW5rLmRlc2N9CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvTGluaz4KICAgICAgICApKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogQ29yZSBDb25jZXB0cyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTE2Ij4KICAgICAgICA8aDIKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC14cyBmb250LWJvbGQgdHJhY2tpbmctd2lkZXIgdXBwZXJjYXNlIG1iLTQiCiAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgPgogICAgICAgICAgQ29yZSBDb25jZXB0cwogICAgICAgIDwvaDI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgZ2FwLTMiPgogICAgICAgICAge2NvcmVDb25jZXB0Q2FyZHMubWFwKChjYXJkKSA9PiAoCiAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAga2V5PXtjYXJkLmhyZWZ9CiAgICAgICAgICAgICAgaHJlZj17Y2FyZC5ocmVmfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgcC00IHJvdW5kZWQtbGcgYm9yZGVyIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTIwMCBob3Zlcjpib3JkZXItWyMxNWI4YTddLzMwIgogICAgICAgICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxoMwogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIG1iLTEgZ3JvdXAtaG92ZXI6dGV4dC1bIzE1YjhhN10gdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB7Y2FyZC50aXRsZX0KICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgIHtjYXJkLmRlc2N9CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogTGVhcm4gRFVBTCBiYW5uZXIgKi99CiAgICAgIDxMaW5rCiAgICAgICAgaHJlZj0iL2RvY3MvbGVhcm4iCiAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNSBwLTYgcm91bmRlZC14bCBib3JkZXIgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMjAwIGhvdmVyOmJvcmRlci1bIzE1YjhhN10vMzAgaG92ZXI6c2hhZG93LXNtIgogICAgICAgIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiB9fQogICAgICA+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNocmluay0wIHctMTIgaC0xMiByb3VuZGVkLXhsIGJnLVsjMTViOGE3XS8xMCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICA8cG9seWdvbiBwb2ludHM9IjIzIDcgMTYgMTIgMjMgMTcgMjMgNyIgLz4KICAgICAgICAgICAgPHJlY3QgeD0iMSIgeT0iNSIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE0IiByeD0iMiIgcnk9IjIiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIG1pbi13LTAiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTEiPgogICAgICAgICAgICA8aDMKICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCBncm91cC1ob3Zlcjp0ZXh0LVsjMTViOGE3XSB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIExlYXJuIERVQUwKICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSBmb250LWJvbGQgcHgtMS41IHB5LTAuNSByb3VuZGVkIGJnLVsjMTViOGE3XSB0ZXh0LXdoaXRlIHVwcGVyY2FzZSB0cmFja2luZy13aWRlciI+CiAgICAgICAgICAgICAgQUktUG93ZXJlZAogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgIEV4cGxvcmUgRFVBTCB0aHJvdWdoIEFJLWdlbmVyYXRlZCBhdWRpbyBvdmVydmlld3MsIHZpZGVvIGV4cGxhaW5lcnMsIG1pbmQgbWFwcywgYW5kIGZsYXNoY2FyZHMg4oCUIHBvd2VyZWQgYnkgR29vZ2xlIE5vdGVib29rTE0uCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIiBjbGFzc05hbWU9InNocmluay0wIHRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LTAuNSIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICA8cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciIC8+CiAgICAgICAgPC9zdmc+CiAgICAgIDwvTGluaz4KICAgIDwvZGl2PgogICk7Cn0K"}
+import Link from "next/link";
+
+const quickLinks = [
+  {
+    title: "Quick Start",
+    desc: "Set up your first project in under 5 minutes",
+    href: "/docs/getting-started/quickstart",
+    icon: "M13 10V3L4 14h7v7l9-11h-7z",
+  },
+  {
+    title: "API Reference",
+    desc: "Explore all endpoints with interactive examples",
+    href: "/docs/api/objects",
+    icon: "M20 14.66V20a2 2 0 01-2 2H4a2 2 0 01-2-2V6a2 2 0 012-2h5.34",
+  },
+  {
+    title: "Tutorials",
+    desc: "Step-by-step guides from beginner to advanced",
+    href: "/docs/tutorials",
+    icon: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253",
+  },
+  {
+    title: "AI Tools",
+    desc: "Connect AI models and Claude plugins to DUAL",
+    href: "/docs/ai-tools",
+    icon: "M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z",
+  },
+];
+
+const coreConceptCards = [
+  { title: "Organizations", desc: "Multi-tenant workspaces with role-based access", href: "/docs/concepts/organizations" },
+  { title: "Wallets", desc: "Identity primitives for authentication and ownership", href: "/docs/concepts/wallets" },
+  { title: "Templates", desc: "Define structure and properties of tokenized objects", href: "/docs/concepts/templates" },
+  { title: "Objects", desc: "Instances representing real-world or digital assets", href: "/docs/concepts/objects" },
+  { title: "Actions", desc: "Operations executed via the Event Bus", href: "/docs/concepts/actions" },
+  { title: "Faces", desc: "Visual representations attached to templates", href: "/docs/concepts/faces" },
+];
+
+export default function DocsHome() {
+  return (
+    <div className="max-w-5xl px-12 py-16">
+      {/* Hero */}
+      <div className="mb-16">
+        <h1
+          className="text-5xl font-semibold leading-[1.15] mb-5 tracking-tight"
+          style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+        >
+          Welcome to DUAL
+          <br />
+          Developer Playground
+        </h1>
+        <p
+          className="text-lg mb-8 max-w-xl leading-relaxed"
+          style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+        >
+          DUAL provides modular blockchain infrastructure for secure digital
+          interactions. Sign up for a free developer account and start building
+          scalable authentication, identity, and token-based applications.
+        </p>
+        <div className="flex items-center gap-5">
+          <Link
+            href="/docs/getting-started/quickstart"
+            className="group inline-flex items-center gap-2 px-6 py-3 bg-[#15b8a7] text-white text-sm font-medium rounded-lg hover:bg-[#13a596] transition-all duration-200 uppercase tracking-wider shadow-sm hover:shadow-md"
+          >
+            Get Started
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="transition-transform duration-200 group-hover:translate-x-0.5">
+              <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+          </Link>
+          <Link
+            href="/docs/ai-tools"
+            className="text-sm font-medium uppercase tracking-wider transition-colors duration-200"
+            style={{ color: "var(--text-muted)" }}
+          >
+            Explore AI Tools
+          </Link>
+        </div>
+      </div>
+
+      {/* Quick links grid */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-16">
+        {quickLinks.map((link) => (
+          <Link
+            key={link.href}
+            href={link.href}
+            className="group flex items-start gap-4 p-5 rounded-xl border transition-all duration-200 hover:border-[#15b8a7]/30 hover:shadow-sm"
+            style={{ borderColor: "var(--border)", backgroundColor: "var(--surface)" }}
+          >
+            <div className="shrink-0 w-10 h-10 rounded-lg bg-[#15b8a7]/10 flex items-center justify-center">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+                <path d={link.icon} />
+              </svg>
+            </div>
+            <div className="min-w-0">
+              <h3
+                className="text-sm font-semibold mb-1 group-hover:text-[#15b8a7] transition-colors"
+                style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}
+              >
+                {link.title}
+              </h3>
+              <p className="text-xs leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                {link.desc}
+              </p>
+            </div>
+          </Link>
+        ))}
+      </div>
+
+      {/* Core Concepts */}
+      <div className="mb-16">
+        <h2
+          className="text-xs font-bold tracking-wider uppercase mb-4"
+          style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+        >
+          Core Concepts
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+          {coreConceptCards.map((card) => (
+            <Link
+              key={card.href}
+              href={card.href}
+              className="group p-4 rounded-lg border transition-all duration-200 hover:border-[#15b8a7]/30"
+              style={{ borderColor: "var(--border)" }}
+            >
+              <h3
+                className="text-sm font-medium mb-1 group-hover:text-[#15b8a7] transition-colors"
+                style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}
+              >
+                {card.title}
+              </h3>
+              <p className="text-xs" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                {card.desc}
+              </p>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* Learn DUAL banner */}
+      <Link
+        href="/docs/learn"
+        className="group flex items-center gap-5 p-6 rounded-xl border transition-all duration-200 hover:border-[#15b8a7]/30 hover:shadow-sm"
+        style={{ borderColor: "var(--border)", backgroundColor: "var(--surface)" }}
+      >
+        <div className="shrink-0 w-12 h-12 rounded-xl bg-[#15b8a7]/10 flex items-center justify-center">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+            <polygon points="23 7 16 12 23 17 23 7" />
+            <rect x="1" y="5" width="15" height="14" rx="2" ry="2" />
+          </svg>
+        </div>
+        <div className="flex-1 min-w-0">
+          <div className="flex items-center gap-2 mb-1">
+            <h3
+              className="text-sm font-semibold group-hover:text-[#15b8a7] transition-colors"
+              style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}
+            >
+              Learn DUAL
+            </h3>
+            <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-[#15b8a7] text-white uppercase tracking-wider">
+              AI-Powered
+            </span>
+          </div>
+          <p className="text-xs leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+            Explore DUAL through AI-generated audio overviews, video explainers, mind maps, and flashcards — powered by Google NotebookLM.
+          </p>
+        </div>
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0 transition-transform group-hover:translate-x-0.5" style={{ color: "var(--text-muted)" }}>
+          <path d="M5 12h14M12 5l7 7-7 7" />
+        </svg>
+      </Link>
+    </div>
+  );
+}

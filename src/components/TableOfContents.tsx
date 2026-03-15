@@ -1,1 +1,26 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW50ZXJmYWNlIFRvY0l0ZW0gewogIGlkOiBzdHJpbmc7CiAgbGFiZWw6IHN0cmluZzsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVGFibGVPZkNvbnRlbnRzKHsgaXRlbXMgfTogeyBpdGVtczogVG9jSXRlbVtdIH0pIHsKICByZXR1cm4gKAogICAgPG5hdiBjbGFzc05hbWU9InctWzIyMHB4XSBzaHJpbmstMCBoaWRkZW4geGw6YmxvY2sgc3RpY2t5IHRvcC0yMCBoLWZpdCBweS02IHBsLTYiPgogICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTIgcGwtNCIgc3R5bGU9e3sgYm9yZGVyTGVmdDogIjFweCBzb2xpZCB2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICB7aXRlbXMubWFwKChpdGVtKSA9PiAoCiAgICAgICAgICA8bGkga2V5PXtpdGVtLmlkfT4KICAgICAgICAgICAgPGEKICAgICAgICAgICAgICBocmVmPXtgIyR7aXRlbS5pZH1gfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1zbSBibG9jayB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpvcGFjaXR5LTgwIgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXNlY29uZGFyeSkiIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7aXRlbS5sYWJlbH0KICAgICAgICAgICAgPC9hPgogICAgICAgICAgPC9saT4KICAgICAgICApKX0KICAgICAgPC91bD4KICAgIDwvbmF2PgogICk7Cn0K"}
+"use client";
+
+interface TocItem {
+  id: string;
+  label: string;
+}
+
+export default function TableOfContents({ items }: { items: TocItem[] }) {
+  return (
+    <nav className="w-[220px] shrink-0 hidden xl:block sticky top-20 h-fit py-6 pl-6">
+      <ul className="space-y-2 pl-4" style={{ borderLeft: "1px solid var(--border)" }}>
+        {items.map((item) => (
+          <li key={item.id}>
+            <a
+              href={`#${item.id}`}
+              className="text-sm block transition-colors hover:opacity-80"
+              style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-secondary)" }}
+            >
+              {item.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  );
+}

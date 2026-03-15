@@ -1,1 +1,144 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCwgdXNlUmVmLCB1c2VDYWxsYmFjayB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgYWxsRW5kcG9pbnRzIH0gZnJvbSAiQC9kYXRhL2FwaS1lbmRwb2ludHMiOwppbXBvcnQgeyBkb2NzTmF2aWdhdGlvbiB9IGZyb20gIkAvZGF0YS9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgdHV0b3JpYWxzIH0gZnJvbSAiQC9kYXRhL3R1dG9yaWFscyI7CgppbnRlcmZhY2UgU2VhcmNoUmVzdWx0IHsKICB0aXRsZTogc3RyaW5nOwogIGRlc2NyaXB0aW9uOiBzdHJpbmc7CiAgaHJlZjogc3RyaW5nOwogIGNhdGVnb3J5OiBzdHJpbmc7CiAgbWV0aG9kPzogc3RyaW5nOwp9CgpmdW5jdGlvbiBidWlsZFNlYXJjaEluZGV4KCk6IFNlYXJjaFJlc3VsdFtdIHsKICBjb25zdCBpdGVtczogU2VhcmNoUmVzdWx0W10gPSBbXTsKICBmb3IgKGNvbnN0IHNlY3Rpb24gb2YgZG9jc05hdmlnYXRpb24pIHsKICAgIGZvciAoY29uc3QgaXRlbSBvZiBzZWN0aW9uLml0ZW1zKSB7CiAgICAgIGl0ZW1zLnB1c2goeyB0aXRsZTogaXRlbS50aXRsZSwgZGVzY3JpcHRpb246IGAke3NlY3Rpb24udGl0bGV9IOKAlCAke2l0ZW0udGl0bGV9YCwgaHJlZjogaXRlbS5ocmVmLCBjYXRlZ29yeTogc2VjdGlvbi50aXRsZSB9KTsKICAgIH0KICB9CiAgZm9yIChjb25zdCB0dXQgb2YgdHV0b3JpYWxzKSB7CiAgICBpdGVtcy5wdXNoKHsgdGl0bGU6IHR1dC50aXRsZSwgZGVzY3JpcHRpb246IHR1dC5kZXNjcmlwdGlvbiwgaHJlZjogYC9kb2NzL3R1dG9yaWFscy8ke3R1dC5zbHVnfWAsIGNhdGVnb3J5OiAiVFVUT1JJQUwiIH0pOwogIH0KICBmb3IgKGNvbnN0IGVwIG9mIGFsbEVuZHBvaW50cykgewogICAgaXRlbXMucHVzaCh7IHRpdGxlOiBgJHtlcC5tZXRob2R9ICR7ZXAucGF0aH1gLCBkZXNjcmlwdGlvbjogZXAuc3VtbWFyeSwgaHJlZjogYC9kb2NzL2FwaS8ke2VwLnRhZ31gLCBjYXRlZ29yeTogIkFQSSIsIG1ldGhvZDogZXAubWV0aG9kIH0pOwogIH0KICByZXR1cm4gaXRlbXM7Cn0KCmNvbnN0IHNlYXJjaEluZGV4ID0gYnVpbGRTZWFyY2hJbmRleCgpOwoKZnVuY3Rpb24gZnV6enlNYXRjaChxdWVyeTogc3RyaW5nLCB0ZXh0OiBzdHJpbmcpOiBib29sZWFuIHsKICBjb25zdCBxID0gcXVlcnkudG9Mb3dlckNhc2UoKTsKICBjb25zdCB0ID0gdGV4dC50b0xvd2VyQ2FzZSgpOwogIGlmICh0LmluY2x1ZGVzKHEpKSByZXR1cm4gdHJ1ZTsKICBsZXQgcWkgPSAwOwogIGZvciAobGV0IHRpID0gMDsgdGkgPCB0Lmxlbmd0aCAmJiBxaSA8IHEubGVuZ3RoOyB0aSsrKSB7CiAgICBpZiAodFt0aV0gPT09IHFbcWldKSBxaSsrOwogIH0KICByZXR1cm4gcWkgPT09IHEubGVuZ3RoOwp9CgpmdW5jdGlvbiBzY29yZU1hdGNoKHF1ZXJ5OiBzdHJpbmcsIGl0ZW06IFNlYXJjaFJlc3VsdCk6IG51bWJlciB7CiAgY29uc3QgcSA9IHF1ZXJ5LnRvTG93ZXJDYXNlKCk7CiAgY29uc3QgdGl0bGUgPSBpdGVtLnRpdGxlLnRvTG93ZXJDYXNlKCk7CiAgY29uc3QgZGVzYyA9IGl0ZW0uZGVzY3JpcHRpb24udG9Mb3dlckNhc2UoKTsKICBsZXQgc2NvcmUgPSAwOwogIGlmICh0aXRsZSA9PT0gcSkgc2NvcmUgKz0gMTAwOwogIGlmICh0aXRsZS5zdGFydHNXaXRoKHEpKSBzY29yZSArPSA1MDsKICBpZiAodGl0bGUuaW5jbHVkZXMocSkpIHNjb3JlICs9IDMwOwogIGlmIChkZXNjLmluY2x1ZGVzKHEpKSBzY29yZSArPSAxMDsKICBpZiAoZnV6enlNYXRjaChxLCB0aXRsZSkpIHNjb3JlICs9IDU7CiAgcmV0dXJuIHNjb3JlOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTZWFyY2hNb2RhbCgpIHsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3F1ZXJ5LCBzZXRRdWVyeV0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW3NlbGVjdGVkSW5kZXgsIHNldFNlbGVjdGVkSW5kZXhdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgaW5wdXRSZWYgPSB1c2VSZWY8SFRNTElucHV0RWxlbWVudD4obnVsbCk7CiAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7CgogIGNvbnN0IHJlc3VsdHMgPSBxdWVyeS5sZW5ndGggPiAwCiAgICA/IHNlYXJjaEluZGV4Lm1hcChpdGVtID0+ICh7IGl0ZW0sIHNjb3JlOiBzY29yZU1hdGNoKHF1ZXJ5LCBpdGVtKSB9KSkuZmlsdGVyKCh7IHNjb3JlIH0pID0+IHNjb3JlID4gMCkuc29ydCgoYSwgYikgPT4gYi5zY29yZSAtIGEuc2NvcmUpLnNsaWNlKDAsIDEyKS5tYXAoKHsgaXRlbSB9KSA9PiBpdGVtKQogICAgOiBbXTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGZ1bmN0aW9uIGhhbmRsZUtleURvd24oZTogS2V5Ym9hcmRFdmVudCkgewogICAgICBpZiAoKGUubWV0YUtleSB8fCBlLmN0cmxLZXkpICYmIGUua2V5ID09PSAiayIpIHsgZS5wcmV2ZW50RGVmYXVsdCgpOyBzZXRPcGVuKHByZXYgPT4gIXByZXYpOyB9CiAgICAgIGlmIChlLmtleSA9PT0gIkVzY2FwZSIpIHNldE9wZW4oZmFsc2UpOwogICAgfQogICAgZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigia2V5ZG93biIsIGhhbmRsZUtleURvd24pOwogICAgcmV0dXJuICgpID0+IGRvY3VtZW50LnJlbW92ZUV2ZW50TGlzdGVuZXIoImtleWRvd24iLCBoYW5kbGVLZXlEb3duKTsKICB9LCBbXSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7IGlmIChvcGVuKSB7IHNldFF1ZXJ5KCIiKTsgc2V0U2VsZWN0ZWRJbmRleCgwKTsgc2V0VGltZW91dCgoKSA9PiBpbnB1dFJlZi5jdXJyZW50Py5mb2N1cygpLCA1MCk7IH0gfSwgW29wZW5dKTsKCiAgY29uc3QgaGFuZGxlS2V5RG93biA9IHVzZUNhbGxiYWNrKChlOiBSZWFjdC5LZXlib2FyZEV2ZW50KSA9PiB7CiAgICBpZiAoZS5rZXkgPT09ICJBcnJvd0Rvd24iKSB7IGUucHJldmVudERlZmF1bHQoKTsgc2V0U2VsZWN0ZWRJbmRleChwcmV2ID0+IE1hdGgubWluKHByZXYgKyAxLCByZXN1bHRzLmxlbmd0aCAtIDEpKTsgfQogICAgZWxzZSBpZiAoZS5rZXkgPT09ICJBcnJvd1VwIikgeyBlLnByZXZlbnREZWZhdWx0KCk7IHNldFNlbGVjdGVkSW5kZXgocHJldiA9PiBNYXRoLm1heChwcmV2IC0gMSwgMCkpOyB9CiAgICBlbHNlIGlmIChlLmtleSA9PT0gIkVudGVyIiAmJiByZXN1bHRzW3NlbGVjdGVkSW5kZXhdKSB7IGUucHJldmVudERlZmF1bHQoKTsgcm91dGVyLnB1c2gocmVzdWx0c1tzZWxlY3RlZEluZGV4XS5ocmVmKTsgc2V0T3BlbihmYWxzZSk7IH0KICB9LCBbcmVzdWx0cywgc2VsZWN0ZWRJbmRleCwgcm91dGVyXSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7IHNldFNlbGVjdGVkSW5kZXgoMCk7IH0sIFtxdWVyeV0pOwoKICBjb25zdCBtZXRob2RDb2xvcnM6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7IEdFVDogInRleHQtZW1lcmFsZC01MDAiLCBQT1NUOiAidGV4dC1ibHVlLTUwMCIsIFBVVDogInRleHQtYW1iZXItNTAwIiwgUEFUQ0g6ICJ0ZXh0LW9yYW5nZS01MDAiLCBERUxFVEU6ICJ0ZXh0LXJlZC01MDAiIH07CgogIGlmICghb3BlbikgcmV0dXJuIG51bGw7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZml4ZWQgaW5zZXQtMCB6LVsxMDBdIGZsZXggaXRlbXMtc3RhcnQganVzdGlmeS1jZW50ZXIgcHQtWzE1dmhdIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNDAgYmFja2Ryb3AtYmx1ci1zbSIgb25DbGljaz17KCkgPT4gc2V0T3BlbihmYWxzZSl9IC8+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB3LWZ1bGwgbWF4LXcteGwgcm91bmRlZC14bCBzaGFkb3ctMnhsIGJvcmRlciBvdmVyZmxvdy1oaWRkZW4iIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcHgtNCBweS0zIiBzdHlsZT17eyBib3JkZXJCb3R0b206ICIxcHggc29saWQgdmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIGNsYXNzTmFtZT0ic2hyaW5rLTAiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICA8Y2lyY2xlIGN4PSIxMSIgY3k9IjExIiByPSI4IiAvPjxwYXRoIGQ9Ik0yMSAyMWwtNC4zNS00LjM1IiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgICA8aW5wdXQgcmVmPXtpbnB1dFJlZn0gdHlwZT0idGV4dCIgdmFsdWU9e3F1ZXJ5fSBvbkNoYW5nZT17KGUpID0+IHNldFF1ZXJ5KGUudGFyZ2V0LnZhbHVlKX0gb25LZXlEb3duPXtoYW5kbGVLZXlEb3dufQogICAgICAgICAgICBwbGFjZWhvbGRlcj0iU2VhcmNoIGRvY3MsIEFQSSBlbmRwb2ludHMsIGNvbmNlcHRzLi4uIiBjbGFzc05hbWU9ImZsZXgtMSB0ZXh0LXNtIG91dGxpbmUtbm9uZSBiZy10cmFuc3BhcmVudCIKICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19IC8+CiAgICAgICAgICA8a2JkIGNsYXNzTmFtZT0idGV4dC14cyBweC0xLjUgcHktMC41IHJvdW5kZWQgYm9yZGVyIiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tYmFja2dyb3VuZCkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PkVTQzwva2JkPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtaC1bNDAwcHhdIG92ZXJmbG93LXktYXV0byI+CiAgICAgICAgICB7cXVlcnkubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNCBweS04IHRleHQtY2VudGVyIHRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+U3RhcnQgdHlwaW5nIHRvIHNlYXJjaC4uLjwvZGl2PgogICAgICAgICAgKSA6IHJlc3VsdHMubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNCBweS04IHRleHQtY2VudGVyIHRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+Tm8gcmVzdWx0cyBmb3IgJmxkcXVvO3txdWVyeX0mcmRxdW87PC9kaXY+CiAgICAgICAgICApIDogKAogICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJweS0yIj4KICAgICAgICAgICAgICB7cmVzdWx0cy5tYXAoKHJlc3VsdCwgaSkgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17YCR7cmVzdWx0LmhyZWZ9LSR7cmVzdWx0LnRpdGxlfS0ke2l9YH0+CiAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBvbkNsaWNrPXsoKSA9PiB7IHJvdXRlci5wdXNoKHJlc3VsdC5ocmVmKTsgc2V0T3BlbihmYWxzZSk7IH19IG9uTW91c2VFbnRlcj17KCkgPT4gc2V0U2VsZWN0ZWRJbmRleChpKX0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBweC00IHB5LTIuNSB0ZXh0LWxlZnQgY3Vyc29yLXBvaW50ZXIgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiBpID09PSBzZWxlY3RlZEluZGV4ID8gInJnYmEoMjEsIDE4NCwgMTY3LCAwLjA4KSIgOiAidHJhbnNwYXJlbnQiIH19PgogICAgICAgICAgICAgICAgICAgIHtyZXN1bHQubWV0aG9kID8gKAogICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgc2hyaW5rLTAgdGV4dC1bMTBweF0gZm9udC1ib2xkICR7bWV0aG9kQ29sb3JzW3Jlc3VsdC5tZXRob2RdIHx8ICIifWB9IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgd2lkdGg6ICI0MnB4IiB9fT57cmVzdWx0Lm1ldGhvZH08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiIgY2xhc3NOYW1lPSJzaHJpbmstMCIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMDAtMiAydjE2YTIgMiAwIDAwMiAyaDEyYTIgMiAwIDAwMi0yVjh6IiAvPjxwb2x5bGluZSBwb2ludHM9IjE0IDIgMTQgOCAyMCA4IiAvPgogICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLXctMCBmbGV4LTEiPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0gdHJ1bmNhdGUiIHN0eWxlPXt7IGZvbnRGYW1pbHk6IHJlc3VsdC5tZXRob2QgPyAidmFyKC0tZm9udC1kbS1tb25vKSIgOiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+e3Jlc3VsdC50aXRsZX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRydW5jYXRlIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PntyZXN1bHQuZGVzY3JpcHRpb259PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJzaHJpbmstMCB0ZXh0LVsxMHB4XSB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXIiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+e3Jlc3VsdC5jYXRlZ29yeX08L3NwYW4+CiAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC00IHB4LTQgcHktMiB0ZXh0LVsxMHB4XSIgc3R5bGU9e3sgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWJvcmRlcikiLCBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSI+PGtiZCBjbGFzc05hbWU9InB4LTEgcHktMC41IHJvdW5kZWQgYm9yZGVyIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1iYWNrZ3JvdW5kKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+4oaR4oaTPC9rYmQ+IE5hdmlnYXRlPC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSI+PGtiZCBjbGFzc05hbWU9InB4LTEgcHktMC41IHJvdW5kZWQgYm9yZGVyIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1iYWNrZ3JvdW5kKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+4oa1PC9rYmQ+IFNlbGVjdDwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEiPjxrYmQgY2xhc3NOYW1lPSJweC0xIHB5LTAuNSByb3VuZGVkIGJvcmRlciIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tYmFja2dyb3VuZCkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PmVzYzwva2JkPiBDbG9zZTwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useState, useEffect, useRef, useCallback } from "react";
+import { useRouter } from "next/navigation";
+import { allEndpoints } from "@/data/api-endpoints";
+import { docsNavigation } from "@/data/navigation";
+import { tutorials } from "@/data/tutorials";
+
+interface SearchResult {
+  title: string;
+  description: string;
+  href: string;
+  category: string;
+  method?: string;
+}
+
+function buildSearchIndex(): SearchResult[] {
+  const items: SearchResult[] = [];
+  for (const section of docsNavigation) {
+    for (const item of section.items) {
+      items.push({ title: item.title, description: `${section.title} — ${item.title}`, href: item.href, category: section.title });
+    }
+  }
+  for (const tut of tutorials) {
+    items.push({ title: tut.title, description: tut.description, href: `/docs/tutorials/${tut.slug}`, category: "TUTORIAL" });
+  }
+  for (const ep of allEndpoints) {
+    items.push({ title: `${ep.method} ${ep.path}`, description: ep.summary, href: `/docs/api/${ep.tag}`, category: "API", method: ep.method });
+  }
+  return items;
+}
+
+const searchIndex = buildSearchIndex();
+
+function fuzzyMatch(query: string, text: string): boolean {
+  const q = query.toLowerCase();
+  const t = text.toLowerCase();
+  if (t.includes(q)) return true;
+  let qi = 0;
+  for (let ti = 0; ti < t.length && qi < q.length; ti++) {
+    if (t[ti] === q[qi]) qi++;
+  }
+  return qi === q.length;
+}
+
+function scoreMatch(query: string, item: SearchResult): number {
+  const q = query.toLowerCase();
+  const title = item.title.toLowerCase();
+  const desc = item.description.toLowerCase();
+  let score = 0;
+  if (title === q) score += 100;
+  if (title.startsWith(q)) score += 50;
+  if (title.includes(q)) score += 30;
+  if (desc.includes(q)) score += 10;
+  if (fuzzyMatch(q, title)) score += 5;
+  return score;
+}
+
+export default function SearchModal() {
+  const [open, setOpen] = useState(false);
+  const [query, setQuery] = useState("");
+  const [selectedIndex, setSelectedIndex] = useState(0);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const router = useRouter();
+
+  const results = query.length > 0
+    ? searchIndex.map(item => ({ item, score: scoreMatch(query, item) })).filter(({ score }) => score > 0).sort((a, b) => b.score - a.score).slice(0, 12).map(({ item }) => item)
+    : [];
+
+  useEffect(() => {
+    function handleKeyDown(e: KeyboardEvent) {
+      if ((e.metaKey || e.ctrlKey) && e.key === "k") { e.preventDefault(); setOpen(prev => !prev); }
+      if (e.key === "Escape") setOpen(false);
+    }
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, []);
+
+  useEffect(() => { if (open) { setQuery(""); setSelectedIndex(0); setTimeout(() => inputRef.current?.focus(), 50); } }, [open]);
+
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === "ArrowDown") { e.preventDefault(); setSelectedIndex(prev => Math.min(prev + 1, results.length - 1)); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); setSelectedIndex(prev => Math.max(prev - 1, 0)); }
+    else if (e.key === "Enter" && results[selectedIndex]) { e.preventDefault(); router.push(results[selectedIndex].href); setOpen(false); }
+  }, [results, selectedIndex, router]);
+
+  useEffect(() => { setSelectedIndex(0); }, [query]);
+
+  const methodColors: Record<string, string> = { GET: "text-emerald-500", POST: "text-blue-500", PUT: "text-amber-500", PATCH: "text-orange-500", DELETE: "text-red-500" };
+
+  if (!open) return null;
+
+  return (
+    <div className="fixed inset-0 z-[100] flex items-start justify-center pt-[15vh]">
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" onClick={() => setOpen(false)} />
+      <div className="relative w-full max-w-xl rounded-xl shadow-2xl border overflow-hidden" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+        <div className="flex items-center gap-3 px-4 py-3" style={{ borderBottom: "1px solid var(--border)" }}>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0" style={{ color: "var(--text-muted)" }}>
+            <circle cx="11" cy="11" r="8" /><path d="M21 21l-4.35-4.35" />
+          </svg>
+          <input ref={inputRef} type="text" value={query} onChange={(e) => setQuery(e.target.value)} onKeyDown={handleKeyDown}
+            placeholder="Search docs, API endpoints, concepts..." className="flex-1 text-sm outline-none bg-transparent"
+            style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }} />
+          <kbd className="text-xs px-1.5 py-0.5 rounded border" style={{ color: "var(--text-muted)", backgroundColor: "var(--background)", borderColor: "var(--border)" }}>ESC</kbd>
+        </div>
+        <div className="max-h-[400px] overflow-y-auto">
+          {query.length === 0 ? (
+            <div className="px-4 py-8 text-center text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>Start typing to search...</div>
+          ) : results.length === 0 ? (
+            <div className="px-4 py-8 text-center text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>No results for &ldquo;{query}&rdquo;</div>
+          ) : (
+            <ul className="py-2">
+              {results.map((result, i) => (
+                <li key={`${result.href}-${result.title}-${i}`}>
+                  <button type="button" onClick={() => { router.push(result.href); setOpen(false); }} onMouseEnter={() => setSelectedIndex(i)}
+                    className="w-full flex items-center gap-3 px-4 py-2.5 text-left cursor-pointer transition-colors"
+                    style={{ backgroundColor: i === selectedIndex ? "rgba(21, 184, 167, 0.08)" : "transparent" }}>
+                    {result.method ? (
+                      <span className={`shrink-0 text-[10px] font-bold ${methodColors[result.method] || ""}`} style={{ fontFamily: "var(--font-dm-mono)", width: "42px" }}>{result.method}</span>
+                    ) : (
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="shrink-0" style={{ color: "var(--text-muted)" }}>
+                        <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z" /><polyline points="14 2 14 8 20 8" />
+                      </svg>
+                    )}
+                    <div className="min-w-0 flex-1">
+                      <div className="text-sm font-medium truncate" style={{ fontFamily: result.method ? "var(--font-dm-mono)" : "var(--font-satoshi)", color: "var(--text-primary)" }}>{result.title}</div>
+                      <div className="text-xs truncate" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>{result.description}</div>
+                    </div>
+                    <span className="shrink-0 text-[10px] uppercase tracking-wider" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>{result.category}</span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+        <div className="flex items-center gap-4 px-4 py-2 text-[10px]" style={{ borderTop: "1px solid var(--border)", fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 rounded border" style={{ backgroundColor: "var(--background)", borderColor: "var(--border)" }}>↑↓</kbd> Navigate</span>
+          <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 rounded border" style={{ backgroundColor: "var(--background)", borderColor: "var(--border)" }}>↵</kbd> Select</span>
+          <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 rounded border" style={{ backgroundColor: "var(--background)", borderColor: "var(--border)" }}>esc</kbd> Close</span>
+        </div>
+      </div>
+    </div>
+  );
+}

@@ -1,1 +1,56 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgeyBJbnRlciwgUmFqZGhhbmksIERNX01vbm8gfSBmcm9tICJuZXh0L2ZvbnQvZ29vZ2xlIjsKaW1wb3J0IGxvY2FsRm9udCBmcm9tICJuZXh0L2ZvbnQvbG9jYWwiOwppbXBvcnQgVGhlbWVQcm92aWRlciBmcm9tICJAL2NvbXBvbmVudHMvVGhlbWVQcm92aWRlciI7CmltcG9ydCAiLi9nbG9iYWxzLmNzcyI7Cgpjb25zdCBpbnRlciA9IEludGVyKHsKICB2YXJpYWJsZTogIi0tZm9udC1pbnRlciIsCiAgc3Vic2V0czogWyJsYXRpbiJdLAp9KTsKCmNvbnN0IHJhamRoYW5pID0gUmFqZGhhbmkoewogIHZhcmlhYmxlOiAiLS1mb250LXJhamRoYW5pIiwKICB3ZWlnaHQ6IFsiMzAwIiwgIjQwMCIsICI1MDAiLCAiNjAwIiwgIjcwMCJdLAogIHN1YnNldHM6IFsibGF0aW4iXSwKfSk7Cgpjb25zdCBkbU1vbm8gPSBETV9Nb25vKHsKICB2YXJpYWJsZTogIi0tZm9udC1kbS1tb25vIiwKICB3ZWlnaHQ6IFsiNDAwIiwgIjUwMCJdLAogIHN1YnNldHM6IFsibGF0aW4iXSwKfSk7Cgpjb25zdCBzYXRvc2hpID0gbG9jYWxGb250KHsKICBzcmM6IFsKICAgIHsgcGF0aDogIi4uLy4uL3B1YmxpYy9mb250cy9TYXRvc2hpLVJlZ3VsYXIud29mZjIiLCB3ZWlnaHQ6ICI0MDAiLCBzdHlsZTogIm5vcm1hbCIgfSwKICAgIHsgcGF0aDogIi4uLy4uL3B1YmxpYy9mb250cy9TYXRvc2hpLU1lZGl1bS53b2ZmMiIsIHdlaWdodDogIjUwMCIsIHN0eWxlOiAibm9ybWFsIiB9LAogICAgeyBwYXRoOiAiLi4vLi4vcHVibGljL2ZvbnRzL1NhdG9zaGktQm9sZC53b2ZmMiIsIHdlaWdodDogIjcwMCIsIHN0eWxlOiAibm9ybWFsIiB9LAogIF0sCiAgdmFyaWFibGU6ICItLWZvbnQtc2F0b3NoaSIsCiAgZGlzcGxheTogInN3YXAiLAp9KTsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJEVUFMIERvY3MgLSBEZXZlbG9wZXIgUGxheWdyb3VuZCIsCiAgZGVzY3JpcHRpb246ICJEVUFMIHByb3ZpZGVzIG1vZHVsYXIgYmxvY2tjaGFpbiBpbmZyYXN0cnVjdHVyZSBmb3Igc2VjdXJlIGRpZ2l0YWwgaW50ZXJhY3Rpb25zLiBCdWlsZCBzY2FsYWJsZSBhdXRoZW50aWNhdGlvbiwgaWRlbnRpdHksIGFuZCB0b2tlbi1iYXNlZCBhcHBsaWNhdGlvbnMuIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFJvb3RMYXlvdXQoewogIGNoaWxkcmVuLAp9OiBSZWFkb25seTx7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKfT4pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iZW4iPgogICAgICA8Ym9keQogICAgICAgIGNsYXNzTmFtZT17YCR7aW50ZXIudmFyaWFibGV9ICR7cmFqZGhhbmkudmFyaWFibGV9ICR7ZG1Nb25vLnZhcmlhYmxlfSAke3NhdG9zaGkudmFyaWFibGV9IGFudGlhbGlhc2VkYH0KICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1pbnRlciksIHZhcigtLWZvbnQtc2F0b3NoaSksIHNhbnMtc2VyaWYiIH19CiAgICAgID4KICAgICAgICA8VGhlbWVQcm92aWRlcj4KICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICA8L1RoZW1lUHJvdmlkZXI+CiAgICAgIDwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9Cg=="}
+import type { Metadata } from "next";
+import { Inter, Rajdhani, DM_Mono } from "next/font/google";
+import localFont from "next/font/local";
+import ThemeProvider from "@/components/ThemeProvider";
+import "./globals.css";
+
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
+
+const rajdhani = Rajdhani({
+  variable: "--font-rajdhani",
+  weight: ["300", "400", "500", "600", "700"],
+  subsets: ["latin"],
+});
+
+const dmMono = DM_Mono({
+  variable: "--font-dm-mono",
+  weight: ["400", "500"],
+  subsets: ["latin"],
+});
+
+const satoshi = localFont({
+  src: [
+    { path: "../../public/fonts/Satoshi-Regular.woff2", weight: "400", style: "normal" },
+    { path: "../../public/fonts/Satoshi-Medium.woff2", weight: "500", style: "normal" },
+    { path: "../../public/fonts/Satoshi-Bold.woff2", weight: "700", style: "normal" },
+  ],
+  variable: "--font-satoshi",
+  display: "swap",
+});
+
+export const metadata: Metadata = {
+  title: "DUAL Docs - Developer Playground",
+  description: "DUAL provides modular blockchain infrastructure for secure digital interactions. Build scalable authentication, identity, and token-based applications.",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body
+        className={`${inter.variable} ${rajdhani.variable} ${dmMono.variable} ${satoshi.variable} antialiased`}
+        style={{ fontFamily: "var(--font-inter), var(--font-satoshi), sans-serif" }}
+      >
+        <ThemeProvider>
+          {children}
+        </ThemeProvider>
+      </body>
+    </html>
+  );
+}

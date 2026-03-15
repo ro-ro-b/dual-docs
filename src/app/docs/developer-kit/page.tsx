@@ -1,1 +1,156 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEJyZWFkY3J1bWIgZnJvbSAiQC9jb21wb25lbnRzL0JyZWFkY3J1bWIiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhID0geyB0aXRsZTogIkRldmVsb3BlciBLaXQg4oCUIERVQUwgRG9jcyIgfTsKCmNvbnN0IHRvb2xzID0gWwogIHsKICAgIHRpdGxlOiAiVHlwZVNjcmlwdCBTREsiLAogICAgZGVzYzogIkZ1bGx5LXR5cGVkIGNsaWVudCBsaWJyYXJ5IHdpdGggMTAyIG1ldGhvZHMgY292ZXJpbmcgZXZlcnkgZW5kcG9pbnQuIEluY2x1ZGVzIHJldHJ5IGxvZ2ljLCBlcnJvciBoYW5kbGluZywgYW5kIG1vZHVsYXIgYXJjaGl0ZWN0dXJlLiIsCiAgICBocmVmOiAiL2RvY3MvZGV2ZWxvcGVyLWtpdC9zZGsiLAogICAgaWNvbjogKAogICAgICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPHBvbHlsaW5lIHBvaW50cz0iMTYgMTggMjIgMTIgMTYgNiIgLz4KICAgICAgICA8cG9seWxpbmUgcG9pbnRzPSI4IDYgMiAxMiA4IDE4IiAvPgogICAgICA8L3N2Zz4KICAgICksCiAgICBiYWRnZTogIm5wbSBpbnN0YWxsIEBkdWFsL3NkayIsCiAgfSwKICB7CiAgICB0aXRsZTogIlBvc3RtYW4gQ29sbGVjdGlvbiIsCiAgICBkZXNjOiAiMTAwIHByZS1idWlsdCByZXF1ZXN0cyBvcmdhbml6ZWQgaW50byAxNCBmb2xkZXJzLiBJbXBvcnQgaW50byBQb3N0bWFuIGFuZCBzdGFydCB0ZXN0aW5nIHdpdGggemVybyBjb25maWd1cmF0aW9uLiIsCiAgICBocmVmOiAiL2RvY3MvZGV2ZWxvcGVyLWtpdC9wb3N0bWFuIiwKICAgIGljb246ICgKICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgIDxwYXRoIGQ9Ik0yMSAxNXY0YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0ydi00IiAvPgogICAgICAgIDxwb2x5bGluZSBwb2ludHM9IjcgMTAgMTIgMTUgMTcgMTAiIC8+CiAgICAgICAgPGxpbmUgeDE9IjEyIiB5MT0iMTUiIHgyPSIxMiIgeTI9IjMiIC8+CiAgICAgIDwvc3ZnPgogICAgKSwKICAgIGJhZGdlOiAiRG93bmxvYWQgLmpzb24iLAogIH0sCiAgewogICAgdGl0bGU6ICJPcGVuQVBJIFNwZWMiLAogICAgZGVzYzogIkNvbXBsZXRlIE9wZW5BUEkgMy4xLjAgc3BlY2lmaWNhdGlvbiB3aXRoIDcwIHBhdGhzIGFuZCAxMDAgb3BlcmF0aW9ucy4gSW1wb3J0IGludG8gYW55IEFQSSB0b29sIG9yIGNvZGUgZ2VuZXJhdG9yLiIsCiAgICBocmVmOiAiL2RvY3MvZGV2ZWxvcGVyLWtpdC9hcGktcmVmZXJlbmNlIiwKICAgIGljb246ICgKICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgIDxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiIC8+CiAgICAgICAgPHBvbHlsaW5lIHBvaW50cz0iMTQgMiAxNCA4IDIwIDgiIC8+CiAgICAgICAgPGxpbmUgeDE9IjE2IiB5MT0iMTMiIHgyPSI4IiB5Mj0iMTMiIC8+CiAgICAgICAgPGxpbmUgeDE9IjE2IiB5MT0iMTciIHgyPSI4IiB5Mj0iMTciIC8+CiAgICAgIDwvc3ZnPgogICAgKSwKICAgIGJhZGdlOiAiT3BlbkFQSSAzLjEuMCIsCiAgfSwKICB7CiAgICB0aXRsZTogIkNMSSBUb29sIiwKICAgIGRlc2M6ICJaZXJvLWRlcGVuZGVuY3kgY29tbWFuZC1saW5lIGludGVyZmFjZSBmb3IgcXVpY2sgQVBJIHRlc3RpbmcuIDExIGNvbW1hbmRzIGNvdmVyaW5nIGF1dGgsIHdhbGxldHMsIHRlbXBsYXRlcywgb2JqZWN0cywgYW5kIG1vcmUuIiwKICAgIGhyZWY6ICIvZG9jcy9kZXZlbG9wZXIta2l0L2NsaSIsCiAgICBpY29uOiAoCiAgICAgIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgICA8cG9seWxpbmUgcG9pbnRzPSI0IDE3IDEwIDExIDQgNSIgLz4KICAgICAgICA8bGluZSB4MT0iMTIiIHkxPSIxOSIgeDI9IjIwIiB5Mj0iMTkiIC8+CiAgICAgIDwvc3ZnPgogICAgKSwKICAgIGJhZGdlOiAibnB4IGR1YWwtY2xpIiwKICB9LAogIHsKICAgIHRpdGxlOiAiTWlncmF0aW9uIEd1aWRlIiwKICAgIGRlc2M6ICJTdGVwLWJ5LXN0ZXAgbWlncmF0aW9uIGZyb20gQVBJIHYyIHRvIHYzLiBDb3ZlcnMgYXV0aCwgZW5kcG9pbnRzLCBwYWdpbmF0aW9uLCBlcnJvciBoYW5kbGluZyB3aXRoIGJlZm9yZS9hZnRlciBleGFtcGxlcy4iLAogICAgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQvbWlncmF0aW9uIiwKICAgIGljb246ICgKICAgICAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgogICAgICAgIDxwb2x5bGluZSBwb2ludHM9IjEyIDYgMTIgMTIgMTYgMTQiIC8+CiAgICAgIDwvc3ZnPgogICAgKSwKICAgIGJhZGdlOiAidjIg4oaSIHYzIiwKICB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRGV2ZWxvcGVyS2l0UGFnZSgpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTR4bCBteC1hdXRvIHB4LTggcHktMTIiPgogICAgICA8QnJlYWRjcnVtYiBpdGVtcz17W3sgbGFiZWw6ICJEb2NzIiwgaHJlZjogIi9kb2NzIiB9LCB7IGxhYmVsOiAiRGV2ZWxvcGVyIEtpdCIgfV19IC8+CgogICAgICA8aDEKICAgICAgICBjbGFzc05hbWU9InRleHQtM3hsIGZvbnQtYm9sZCBtYi0zIgogICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0KICAgICAgPgogICAgICAgIERldmVsb3BlciBLaXQKICAgICAgPC9oMT4KICAgICAgPHAgY2xhc3NOYW1lPSJtYi0xMCBsZWFkaW5nLXJlbGF4ZWQgbWF4LXctMnhsIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIEV2ZXJ5dGhpbmcgeW91IG5lZWQgdG8gYnVpbGQgb24gRFVBTCDigJQgYW4gU0RLLCBDTEksIFBvc3RtYW4gY29sbGVjdGlvbiwgT3BlbkFQSSBzcGVjLCBhbmQgbWlncmF0aW9uIHRvb2xpbmcuIEFsbCBhcnRpZmFjdHMgYXJlIGdlbmVyYXRlZCBmcm9tIHRoZSBzYW1lIGVuZHBvaW50IGRlZmluaXRpb25zIHRoYXQgcG93ZXIgdGhpcyBkb2N1bWVudGF0aW9uLgogICAgICA8L3A+CgogICAgICB7LyogUXVpY2sgSW5zdGFsbCBCYW5uZXIgKi99CiAgICAgIDxkaXYKICAgICAgICBjbGFzc05hbWU9Im1iLTEwIHAtNSByb3VuZGVkLXhsIGJvcmRlciIKICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0KICAgICAgPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTggaC04IHJvdW5kZWQtbGcgYmctWyMxNWI4YTddLzEwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtWyMxNWI4YTddIj4KICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMTMgMkwzIDE0aDlsLTEgOCAxMC0xMmgtOWwxLTh6IiAvPgogICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT4KICAgICAgICAgICAgUXVpY2sgU3RhcnQKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC1sZyBwLTQiIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLWNvZGUtYmcpIiB9fT4KICAgICAgICAgIDxjb2RlIGNsYXNzTmFtZT0idGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBjb2xvcjogInZhcigtLWNvZGUtdGV4dCkiIH19PgogICAgICAgICAgICBucG0gaW5zdGFsbCBAZHVhbC9zZGsKICAgICAgICAgIDwvY29kZT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgbXQtMyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgIE9yIGNsb25lIHRoZSBmdWxsIGtpdDp7IiAifQogICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJweC0xLjUgcHktMC41IHJvdW5kZWQgdGV4dC14cyIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tY29kZS1iZykiLCBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tY29kZS10ZXh0KSIgfX0+CiAgICAgICAgICAgIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vcm8tcm8tYi9kdWFsLWRldmVsb3Blci1raXQKICAgICAgICAgIDwvY29kZT4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFRvb2wgY2FyZHMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC00Ij4KICAgICAgICB7dG9vbHMubWFwKCh0b29sKSA9PiAoCiAgICAgICAgICA8TGluawogICAgICAgICAgICBrZXk9e3Rvb2wudGl0bGV9CiAgICAgICAgICAgIGhyZWY9e3Rvb2wuaHJlZn0KICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC01IHAtNSByb3VuZGVkLXhsIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBob3ZlcjpzaGFkb3ctbWQiCiAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaHJpbmstMCB3LTExIGgtMTEgcm91bmRlZC14bCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0cmFuc2l0aW9uLWNvbG9ycyBncm91cC1ob3ZlcjpiZy1bIzE1YjhhN10vMTUgZ3JvdXAtaG92ZXI6dGV4dC1bIzE1YjhhN10iCiAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAicmdiYSgyMSwxODQsMTY3LDAuMDgpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHt0b29sLmljb259CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIG1pbi13LTAiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0xIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1iYXNlIGZvbnQtc2VtaWJvbGQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT4KICAgICAgICAgICAgICAgICAge3Rvb2wudGl0bGV9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciBweC0yIHB5LTAuNSByb3VuZGVkIgogICAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGJhY2tncm91bmRDb2xvcjogInJnYmEoMjEsMTg0LDE2NywwLjEpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge3Rvb2wuYmFkZ2V9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgIHt0b29sLmRlc2N9CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNocmluay0wIHNlbGYtY2VudGVyIHRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LTEiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9MaW5rPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import Link from "next/link";
+import Breadcrumb from "@/components/Breadcrumb";
+
+export const metadata = { title: "Developer Kit — DUAL Docs" };
+
+const tools = [
+  {
+    title: "TypeScript SDK",
+    desc: "Fully-typed client library with 102 methods covering every endpoint. Includes retry logic, error handling, and modular architecture.",
+    href: "/docs/developer-kit/sdk",
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+        <polyline points="16 18 22 12 16 6" />
+        <polyline points="8 6 2 12 8 18" />
+      </svg>
+    ),
+    badge: "npm install @dual/sdk",
+  },
+  {
+    title: "Postman Collection",
+    desc: "100 pre-built requests organized into 14 folders. Import into Postman and start testing with zero configuration.",
+    href: "/docs/developer-kit/postman",
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+        <polyline points="7 10 12 15 17 10" />
+        <line x1="12" y1="15" x2="12" y2="3" />
+      </svg>
+    ),
+    badge: "Download .json",
+  },
+  {
+    title: "OpenAPI Spec",
+    desc: "Complete OpenAPI 3.1.0 specification with 70 paths and 100 operations. Import into any API tool or code generator.",
+    href: "/docs/developer-kit/api-reference",
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+        <polyline points="14 2 14 8 20 8" />
+        <line x1="16" y1="13" x2="8" y2="13" />
+        <line x1="16" y1="17" x2="8" y2="17" />
+      </svg>
+    ),
+    badge: "OpenAPI 3.1.0",
+  },
+  {
+    title: "CLI Tool",
+    desc: "Zero-dependency command-line interface for quick API testing. 11 commands covering auth, wallets, templates, objects, and more.",
+    href: "/docs/developer-kit/cli",
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+        <polyline points="4 17 10 11 4 5" />
+        <line x1="12" y1="19" x2="20" y2="19" />
+      </svg>
+    ),
+    badge: "npx dual-cli",
+  },
+  {
+    title: "Migration Guide",
+    desc: "Step-by-step migration from API v2 to v3. Covers auth, endpoints, pagination, error handling with before/after examples.",
+    href: "/docs/developer-kit/migration",
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+        <circle cx="12" cy="12" r="10" />
+        <polyline points="12 6 12 12 16 14" />
+      </svg>
+    ),
+    badge: "v2 → v3",
+  },
+];
+
+export default function DeveloperKitPage() {
+  return (
+    <div className="max-w-4xl mx-auto px-8 py-12">
+      <Breadcrumb items={[{ label: "Docs", href: "/docs" }, { label: "Developer Kit" }]} />
+
+      <h1
+        className="text-3xl font-bold mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+      >
+        Developer Kit
+      </h1>
+      <p className="mb-10 leading-relaxed max-w-2xl" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Everything you need to build on DUAL — an SDK, CLI, Postman collection, OpenAPI spec, and migration tooling. All artifacts are generated from the same endpoint definitions that power this documentation.
+      </p>
+
+      {/* Quick Install Banner */}
+      <div
+        className="mb-10 p-5 rounded-xl border"
+        style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+      >
+        <div className="flex items-center gap-3 mb-3">
+          <div className="w-8 h-8 rounded-lg bg-[#15b8a7]/10 flex items-center justify-center text-[#15b8a7]">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
+            </svg>
+          </div>
+          <span className="text-sm font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+            Quick Start
+          </span>
+        </div>
+        <div className="rounded-lg p-4" style={{ backgroundColor: "var(--code-bg)" }}>
+          <code className="text-sm" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--code-text)" }}>
+            npm install @dual/sdk
+          </code>
+        </div>
+        <p className="text-xs mt-3" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          Or clone the full kit:{" "}
+          <code className="px-1.5 py-0.5 rounded text-xs" style={{ backgroundColor: "var(--code-bg)", fontFamily: "var(--font-dm-mono)", color: "var(--code-text)" }}>
+            git clone https://github.com/ro-ro-b/dual-developer-kit
+          </code>
+        </p>
+      </div>
+
+      {/* Tool cards */}
+      <div className="grid gap-4">
+        {tools.map((tool) => (
+          <Link
+            key={tool.title}
+            href={tool.href}
+            className="group flex items-start gap-5 p-5 rounded-xl border transition-all hover:shadow-md"
+            style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+          >
+            <div
+              className="shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-colors group-hover:bg-[#15b8a7]/15 group-hover:text-[#15b8a7]"
+              style={{ backgroundColor: "rgba(21,184,167,0.08)", color: "var(--text-muted)" }}
+            >
+              {tool.icon}
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="flex items-center gap-3 mb-1">
+                <span className="text-base font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+                  {tool.title}
+                </span>
+                <span
+                  className="text-[10px] font-bold tracking-wider px-2 py-0.5 rounded"
+                  style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "rgba(21,184,167,0.1)", color: "var(--text-muted)" }}
+                >
+                  {tool.badge}
+                </span>
+              </div>
+              <p className="text-sm leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                {tool.desc}
+              </p>
+            </div>
+            <div className="shrink-0 self-center transition-transform group-hover:translate-x-1" style={{ color: "var(--text-muted)" }}>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+              </svg>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}

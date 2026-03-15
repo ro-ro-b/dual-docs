@@ -1,1 +1,383 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEJyZWFkY3J1bWIgZnJvbSAiQC9jb21wb25lbnRzL0JyZWFkY3J1bWIiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhID0geyB0aXRsZTogIkFJIFRvb2xzICYgQ2xhdWRlIFBsdWdpbnMg4oCUIERVQUwgRG9jcyIgfTsKCi8qIOKUgOKUgCBQbHVnaW4gZGF0YSDilIDilIAgKi8KCmludGVyZmFjZSBQbHVnaW5JbmZvIHsKICBpZDogc3RyaW5nOwogIG5hbWU6IHN0cmluZzsKICB0YWdsaW5lOiBzdHJpbmc7CiAgYXVkaWVuY2U6IHN0cmluZzsKICBkb3dubG9hZFBhdGg6IHN0cmluZzsKICBmaWxlU2l6ZTogc3RyaW5nOwogIGNvbW1hbmRzOiB7IG5hbWU6IHN0cmluZzsgZGVzYzogc3RyaW5nIH1bXTsKfQoKY29uc3QgcGx1Z2luczogUGx1Z2luSW5mb1tdID0gWwogIHsKICAgIGlkOiAidG9rZW4tbWFuYWdlciIsCiAgICBuYW1lOiAiVG9rZW4gTWFuYWdlciIsCiAgICB0YWdsaW5lOiAiTWFuYWdlIHRva2VucyB0aHJvdWdoIGNvbnZlcnNhdGlvbiIsCiAgICBhdWRpZW5jZTogIkVuZCBVc2VycyIsCiAgICBkb3dubG9hZFBhdGg6ICIvZG93bmxvYWRzL2R1YWwtdG9rZW4tbWFuYWdlci5wbHVnaW4iLAogICAgZmlsZVNpemU6ICIyMCBLQiIsCiAgICBjb21tYW5kczogWwogICAgICB7IG5hbWU6ICIvbXktdG9rZW5zIiwgZGVzYzogIlZpZXcgeW91ciBvYmplY3QgY29sbGVjdGlvbiIgfSwKICAgICAgeyBuYW1lOiAiL3RyYW5zZmVyIiwgZGVzYzogIlRyYW5zZmVyIHRva2VucyBiZXR3ZWVuIHdhbGxldHMiIH0sCiAgICAgIHsgbmFtZTogIi9taW50IiwgZGVzYzogIkNyZWF0ZSBuZXcgdG9rZW5zIGZyb20gdGVtcGxhdGVzIiB9LAogICAgXSwKICB9LAogIHsKICAgIGlkOiAiZGV2ZWxvcGVyLWtpdCIsCiAgICBuYW1lOiAiRGV2ZWxvcGVyIEtpdCIsCiAgICB0YWdsaW5lOiAiQnVpbGQgb24gRFVBTCBmYXN0ZXIiLAogICAgYXVkaWVuY2U6ICJEZXZlbG9wZXJzIiwKICAgIGRvd25sb2FkUGF0aDogIi9kb3dubG9hZHMvZHVhbC1kZXZlbG9wZXIta2l0LnBsdWdpbiIsCiAgICBmaWxlU2l6ZTogIjI4IEtCIiwKICAgIGNvbW1hbmRzOiBbCiAgICAgIHsgbmFtZTogIi9hcGktbG9va3VwIiwgZGVzYzogIlNlYXJjaCBhbnkgRFVBTCBBUEkgZW5kcG9pbnQiIH0sCiAgICAgIHsgbmFtZTogIi9zY2FmZm9sZC10ZW1wbGF0ZSIsIGRlc2M6ICJHZW5lcmF0ZSB0ZW1wbGF0ZSBib2lsZXJwbGF0ZSIgfSwKICAgICAgeyBuYW1lOiAiL2dlbmVyYXRlLXdlYmhvb2siLCBkZXNjOiAiQ3JlYXRlIHdlYmhvb2sgaGFuZGxlcnMiIH0sCiAgICBdLAogIH0sCiAgewogICAgaWQ6ICJhaS10b29sa2l0IiwKICAgIG5hbWU6ICJBSSBUb29sa2l0IiwKICAgIHRhZ2xpbmU6ICJXaXJlIHVwIEFJIHRvIERVQUwiLAogICAgYXVkaWVuY2U6ICJBSSBFbmdpbmVlcnMiLAogICAgZG93bmxvYWRQYXRoOiAiL2Rvd25sb2Fkcy9kdWFsLWFpLXRvb2xraXQucGx1Z2luIiwKICAgIGZpbGVTaXplOiAiNDQgS0IiLAogICAgY29tbWFuZHM6IFsKICAgICAgeyBuYW1lOiAiL3NldHVwLWNsYXNzaWZpZXIiLCBkZXNjOiAiU2NhZmZvbGQgYSBjbGFzc2lmaWNhdGlvbiBwaXBlbGluZSIgfSwKICAgICAgeyBuYW1lOiAiL3NldHVwLWNoYXRib3QiLCBkZXNjOiAiU2NhZmZvbGQgYSBjb252ZXJzYXRpb25hbCBhc3Npc3RhbnQiIH0sCiAgICAgIHsgbmFtZTogIi9zZXR1cC1ndWFyZHJhaWxzIiwgZGVzYzogIkdlbmVyYXRlIEFJIHNhZmV0eSBtaWRkbGV3YXJlIiB9LAogICAgXSwKICB9LApdOwoKY29uc3QgYXVkaWVuY2VDb2xvcnM6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7CiAgIkVuZCBVc2VycyI6ICJiZy1lbWVyYWxkLTUwMC8xMCB0ZXh0LWVtZXJhbGQtNjAwIiwKICBEZXZlbG9wZXJzOiAiYmctYmx1ZS01MDAvMTAgdGV4dC1ibHVlLTYwMCIsCiAgIkFJIEVuZ2luZWVycyI6ICJiZy1wdXJwbGUtNTAwLzEwIHRleHQtcHVycGxlLTYwMCIsCn07CgovKiDilIDilIAgSWNvbnMg4pSA4pSAICovCgpmdW5jdGlvbiBNY3BJY29uKCkgewogIHJldHVybiAoCiAgICA8c3ZnIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIxLjc1IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgPHBhdGggZD0iTTEyIDJhNCA0IDAgMCAxIDQgNHYxaDJhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDZhMiAyIDAgMCAxLTItMlY5YTIgMiAwIDAgMSAyLTJoMlY2YTQgNCAwIDAgMSA0LTR6IiAvPgogICAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjE0IiByPSIyIiAvPgogICAgICA8cGF0aCBkPSJNMTIgMTZ2MiIgLz4KICAgIDwvc3ZnPgogICk7Cn0KCmZ1bmN0aW9uIFBsdWdJY29uKCkgewogIHJldHVybiAoCiAgICA8c3ZnIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIxLjc1IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgPHBhdGggZD0iTTEyIDIydi01IiAvPgogICAgICA8cGF0aCBkPSJNOSA4VjIiIC8+CiAgICAgIDxwYXRoIGQ9Ik0xNSA4VjIiIC8+CiAgICAgIDxwYXRoIGQ9Ik0xOCA4djVhNiA2IDAgMCAxLTYgNiA2IDYgMCAwIDEtNi02Vjh6IiAvPgogICAgPC9zdmc+CiAgKTsKfQoKZnVuY3Rpb24gRG93bmxvYWRJY29uKCkgewogIHJldHVybiAoCiAgICA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICA8cGF0aCBkPSJNMjEgMTV2NGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNCIgLz4KICAgICAgPHBvbHlsaW5lIHBvaW50cz0iNyAxMCAxMiAxNSAxNyAxMCIgLz4KICAgICAgPGxpbmUgeDE9IjEyIiB5MT0iMTUiIHgyPSIxMiIgeTI9IjMiIC8+CiAgICA8L3N2Zz4KICApOwp9CgpmdW5jdGlvbiBBcnJvd0ljb24oKSB7CiAgcmV0dXJuICgKICAgIDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgIDxwYXRoIGQ9Ik01IDEyaDE0TTEyIDVsNyA3LTcgNyIgLz4KICAgIDwvc3ZnPgogICk7Cn0KCi8qIOKUgOKUgCBQYWdlIOKUgOKUgCAqLwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQUlUb29sc1BhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy00eGwgbXgtYXV0byBweC04IHB5LTEyIj4KICAgICAgPEJyZWFkY3J1bWIgaXRlbXM9e1t7IGxhYmVsOiAiRG9jcyIsIGhyZWY6ICIvZG9jcyIgfSwgeyBsYWJlbDogIkFJIFRvb2xzIiB9XX0gLz4KCiAgICAgIDxoMQogICAgICAgIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIG1iLTMiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICA+CiAgICAgICAgQUkgVG9vbHMKICAgICAgPC9oMT4KICAgICAgPHAKICAgICAgICBjbGFzc05hbWU9Im1iLTggbGVhZGluZy1yZWxheGVkIG1heC13LTJ4bCIKICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgID4KICAgICAgICBFdmVyeXRoaW5nIHlvdSBuZWVkIHRvIGludGVncmF0ZSBBSSB3aXRoIHRoZSBEVUFMIHBsYXRmb3JtIOKAlCBNQ1Agc2VydmVyIGZvciBBSSBhZ2VudHMKICAgICAgICBhbmQgQ2xhdWRlIHBsdWdpbnMgdGhhdCBsZXQgeW91IG1hbmFnZSB0b2tlbnMgYW5kIHdpcmUgdXAgQUkgdGhyb3VnaCBjb252ZXJzYXRpb24uCiAgICAgIDwvcD4KCiAgICAgIHsvKiBKdW1wIGxpbmtzICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTIgbWItMTIiPgogICAgICAgIDxhCiAgICAgICAgICBocmVmPSIjbWNwIgogICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXhzIGZvbnQtbWVkaXVtIHB4LTMgcHktMS41IHJvdW5kZWQtZnVsbCBib3JkZXIgdHJhbnNpdGlvbi1hbGwgaG92ZXI6Ym9yZGVyLVsjMTViOGE3XS80MCBob3Zlcjp0ZXh0LVsjMTViOGE3XSIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiB9fQogICAgICAgID4KICAgICAgICAgIDxNY3BJY29uIC8+IE1DUCBTZXJ2ZXIKICAgICAgICA8L2E+CiAgICAgICAgPGEKICAgICAgICAgIGhyZWY9IiNwbHVnaW5zIgogICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXhzIGZvbnQtbWVkaXVtIHB4LTMgcHktMS41IHJvdW5kZWQtZnVsbCBib3JkZXIgdHJhbnNpdGlvbi1hbGwgaG92ZXI6Ym9yZGVyLVsjMTViOGE3XS80MCBob3Zlcjp0ZXh0LVsjMTViOGE3XSIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiB9fQogICAgICAgID4KICAgICAgICAgIDxQbHVnSWNvbiAvPiBDbGF1ZGUgUGx1Z2lucwogICAgICAgIDwvYT4KICAgICAgPC9kaXY+CgogICAgICB7Lyog4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQICovfQogICAgICB7LyogTUNQIFNFUlZFUiBTRUNUSU9OICAgICAgICAgICAgICAgICAgICAgICAgICAqL30KICAgICAgey8qIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkCAqL30KCiAgICAgIDxzZWN0aW9uIGlkPSJtY3AiIGNsYXNzTmFtZT0ibWItMTYiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0yIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB3LTggaC04IHJvdW5kZWQtbGciIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInJnYmEoMjEsIDE4NCwgMTY3LCAwLjEpIiB9fT4KICAgICAgICAgICAgPE1jcEljb24gLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgIE1DUCBTZXJ2ZXIKICAgICAgICAgIDwvaDI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciBweC0yLjUgcHktMSByb3VuZGVkLWZ1bGwiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgYmFja2dyb3VuZENvbG9yOiAiIzE1YjhhNyIsIGNvbG9yOiAid2hpdGUiIH19PgogICAgICAgICAgICBBSS1OQVRJVkUKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy1yZWxheGVkIG1iLTYiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIsIG1hcmdpbkxlZnQ6ICIyLjc1cmVtIiB9fT4KICAgICAgICAgIExldCBBSSBhZ2VudHMgaW50ZXJhY3Qgd2l0aCB0aGUgRFVBTCBwbGF0Zm9ybSBhcyBmaXJzdC1jbGFzcyB1c2VycyB2aWEgTW9kZWwgQ29udGV4dCBQcm90b2NvbC4KICAgICAgICA8L3A+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoLXB4IG1iLTYiIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLWJvcmRlcikiLCBtYXJnaW5MZWZ0OiAiMi43NXJlbSIgfX0gLz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTQgc206Z3JpZC1jb2xzLTIiPgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgaHJlZj0iL2RvY3MvZGV2ZWxvcGVyLWtpdC9tY3AiCiAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgYmxvY2sgcm91bmRlZC14bCBwLTYgYm9yZGVyIHRyYW5zaXRpb24tYWxsIGhvdmVyOmJvcmRlci1bIzE1YjhhN10vMzAgaG92ZXI6c2hhZG93LW1kIgogICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgcm91bmRlZC14bCBiZy1bIzE1YjhhN10vMTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC1bIzE1YjhhN10iPgogICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTIgMmE0IDQgMCAwIDEgNCA0djFoMmEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJINmEyIDIgMCAwIDEtMi0yVjlhMiAyIDAgMCAxIDItMmgyVjZhNCA0IDAgMCAxIDQtNHoiIC8+CiAgICAgICAgICAgICAgICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTQiIHI9IjIiIC8+CiAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMiAxNnYyIiAvPgogICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtYmFzZSBmb250LXNlbWlib2xkIGdyb3VwLWhvdmVyOnRleHQtWyMxNWI4YTddIHRyYW5zaXRpb24tY29sb3JzIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgICAgICAgIE1DUCBTZXJ2ZXIgUmVmZXJlbmNlCiAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAgICAgICA4MCB0b29scyDCtyAxNCBtb2R1bGVzCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy1yZWxheGVkIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgRnVsbCByZWZlcmVuY2UgZm9yIHRoZSBEVUFMIE1DUCBzZXJ2ZXIg4oCUIGV2ZXJ5IHRvb2wsIG1vZHVsZSwgYW5kIGNhcGFiaWxpdHkgYWNyb3NzIFBheW1lbnRzLCBUZW1wbGF0ZXMsIE9iamVjdHMsIFdhbGxldHMsIGFuZCBtb3JlLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LVsjMTViOGE3XSBvcGFjaXR5LTAgZ3JvdXAtaG92ZXI6b3BhY2l0eS0xMDAgdHJhbnNpdGlvbi1vcGFjaXR5IGZsZXggaXRlbXMtY2VudGVyIGdhcC0xIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAgVmlldyByZWZlcmVuY2UgPEFycm93SWNvbiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L0xpbms+CgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgaHJlZj0iL2RvY3MvZGV2ZWxvcGVyLWtpdC9tY3AtZ3VpZGUiCiAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgYmxvY2sgcm91bmRlZC14bCBwLTYgYm9yZGVyIHRyYW5zaXRpb24tYWxsIGhvdmVyOmJvcmRlci1bIzE1YjhhN10vMzAgaG92ZXI6c2hhZG93LW1kIgogICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgcm91bmRlZC14bCBiZy1bIzE1YjhhN10vMTAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC1bIzE1YjhhN10iPgogICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6IiAvPgogICAgICAgICAgICAgICAgICA8cG9seWxpbmUgcG9pbnRzPSIxNCAyIDE0IDggMjAgOCIgLz4KICAgICAgICAgICAgICAgICAgPGxpbmUgeDE9IjE2IiB5MT0iMTMiIHgyPSI4IiB5Mj0iMTMiIC8+CiAgICAgICAgICAgICAgICAgIDxsaW5lIHgxPSIxNiIgeTE9IjE3IiB4Mj0iOCIgeTI9IjE3IiAvPgogICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtYmFzZSBmb250LXNlbWlib2xkIGdyb3VwLWhvdmVyOnRleHQtWyMxNWI4YTddIHRyYW5zaXRpb24tY29sb3JzIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgICAgICAgIE1DUCBTZXR1cCBHdWlkZQogICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgICAgU3RlcC1ieS1zdGVwCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy1yZWxheGVkIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgSW5zdGFsbCBhbmQgY29uZmlndXJlIHRoZSBEVUFMIE1DUCBzZXJ2ZXIgaW4gQ2xhdWRlIERlc2t0b3AsIFZTIENvZGUsIG9yIGFueSBNQ1AtY29tcGF0aWJsZSBjbGllbnQgaW4gdW5kZXIgNSBtaW51dGVzLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LVsjMTViOGE3XSBvcGFjaXR5LTAgZ3JvdXAtaG92ZXI6b3BhY2l0eS0xMDAgdHJhbnNpdGlvbi1vcGFjaXR5IGZsZXggaXRlbXMtY2VudGVyIGdhcC0xIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAgU3RhcnQgc2V0dXAgPEFycm93SWNvbiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIHsvKiDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZAgKi99CiAgICAgIHsvKiBDTEFVREUgUExVR0lOUyBTRUNUSU9OICAgICAgICAgICAgICAgICAgICAgICovfQogICAgICB7Lyog4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQICovfQoKICAgICAgPHNlY3Rpb24gaWQ9InBsdWdpbnMiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0yIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB3LTggaC04IHJvdW5kZWQtbGciIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInJnYmEoMjEsIDE4NCwgMTY3LCAwLjEpIiB9fT4KICAgICAgICAgICAgPFBsdWdJY29uIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQteGwgZm9udC1ib2xkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PgogICAgICAgICAgICBDbGF1ZGUgUGx1Z2lucwogICAgICAgICAgPC9oMj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSBweC0yIHB5LTAuNSByb3VuZGVkLWZ1bGwiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgY29sb3I6ICIjMTViOGE3IiwgYmFja2dyb3VuZENvbG9yOiAicmdiYSgyMSwgMTg0LCAxNjcsIDAuMSkiIH19PgogICAgICAgICAgICB7cGx1Z2lucy5sZW5ndGh9CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCBtYi02IiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiLCBtYXJnaW5MZWZ0OiAiMi43NXJlbSIgfX0+CiAgICAgICAgICBJbnN0YWxsIERVQUwgcGx1Z2lucyBpbnRvIENsYXVkZSB0byBtYW5hZ2UgdG9rZW5zLCBidWlsZCBpbnRlZ3JhdGlvbnMsIGFuZCB3aXJlIHVwIEFJIOKAlCBhbGwgdGhyb3VnaCBuYXR1cmFsIGNvbnZlcnNhdGlvbi4KICAgICAgICA8L3A+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoLXB4IG1iLTYiIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLWJvcmRlcikiLCBtYXJnaW5MZWZ0OiAiMi43NXJlbSIgfX0gLz4KCiAgICAgICAgey8qIFByZXJlcXVpc2l0ZXMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTggcC01IHJvdW5kZWQteGwgYm9yZGVyIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgbWItMyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTggaC04IHJvdW5kZWQtbGcgYmctWyMxNWI4YTddLzEwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtWyMxNWI4YTddIj4KICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTEzIDJMMyAxNGg5bC0xIDggMTAtMTJoLTlsMS04eiIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgICAgQmVmb3JlIFlvdSBTdGFydAogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgbWItMyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgQWxsIHBsdWdpbnMgcmVxdWlyZSB0d28gZW52aXJvbm1lbnQgdmFyaWFibGVzOgogICAgICAgICAgPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtbGcgcC00IHNwYWNlLXktMSIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tY29kZS1iZykiIH19PgogICAgICAgICAgICA8Y29kZSBjbGFzc05hbWU9ImJsb2NrIHRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgY29sb3I6ICJ2YXIoLS1jb2RlLXRleHQpIiB9fT4KICAgICAgICAgICAgICBleHBvcnQgRFVBTF9BUElfVVJMPSZxdW90O2h0dHBzOi8veW91ci1kdWFsLWFwaS1lbmRwb2ludCZxdW90OwogICAgICAgICAgICA8L2NvZGU+CiAgICAgICAgICAgIDxjb2RlIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBjb2xvcjogInZhcigtLWNvZGUtdGV4dCkiIH19PgogICAgICAgICAgICAgIGV4cG9ydCBEVUFMX1RPS0VOPSZxdW90O3lvdXJfYXV0aGVudGljYXRpb25fdG9rZW4mcXVvdDsKICAgICAgICAgICAgPC9jb2RlPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBQbHVnaW4gY2FyZHMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNiI+CiAgICAgICAgICB7cGx1Z2lucy5tYXAoKHBsdWdpbikgPT4gKAogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAga2V5PXtwbHVnaW4uaWR9CiAgICAgICAgICAgICAgaWQ9e3BsdWdpbi5pZH0KICAgICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQteGwgYm9yZGVyIG92ZXJmbG93LWhpZGRlbiIKICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBqdXN0aWZ5LWJldHdlZW4gZ2FwLTQgbWItNCI+CiAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIG1iLTEiPgogICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgIHtwbHVnaW4ubmFtZX0KICAgICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2B0ZXh0LVsxMHB4XSBmb250LWJvbGQgdHJhY2tpbmctd2lkZXIgcHgtMi41IHB5LTEgcm91bmRlZC1mdWxsICR7YXVkaWVuY2VDb2xvcnNbcGx1Z2luLmF1ZGllbmNlXSB8fCAiIn1gfQogICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0KICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAge3BsdWdpbi5hdWRpZW5jZX0KICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICB7cGx1Z2luLnRhZ2xpbmV9CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICBocmVmPXtwbHVnaW4uZG93bmxvYWRQYXRofQogICAgICAgICAgICAgICAgICAgIGRvd25sb2FkCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaHJpbmstMCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC00IHB5LTIgcm91bmRlZC1sZyB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRyYW5zaXRpb24tYWxsIGhvdmVyOm9wYWNpdHktOTAiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBiYWNrZ3JvdW5kQ29sb3I6ICIjMTViOGE3IiwgY29sb3I6ICIjZmZmIiB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPERvd25sb2FkSWNvbiAvPgogICAgICAgICAgICAgICAgICAgIERvd25sb2FkCiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIG9wYWNpdHktNzAiPih7cGx1Z2luLmZpbGVTaXplfSk8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIHsvKiBDb21tYW5kcyAqL30KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICB7cGx1Z2luLmNvbW1hbmRzLm1hcCgoY21kKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPGRpdiBrZXk9e2NtZC5uYW1lfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgICAgICAgICAgICAgIDxjb2RlCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ic2hyaW5rLTAgdGV4dC14cyBmb250LWJvbGQgcHgtMiBweS0xIHJvdW5kZWQiCiAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tY29kZS1iZykiLCBjb2xvcjogIiMxNWI4YTciIH19CiAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIHtjbWQubmFtZX0KICAgICAgICAgICAgICAgICAgICAgIDwvY29kZT4KICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgICAgICAgICAge2NtZC5kZXNjfQogICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogRnVsbCBkZXRhaWxzIGxpbmsgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYgdGV4dC1jZW50ZXIiPgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgaHJlZj0iL2RvY3MvcGx1Z2lucyIKICAgICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBmb250LW1lZGl1bSBweC01IHB5LTIuNSByb3VuZGVkLWxnIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBob3Zlcjpib3JkZXItWyMxNWI4YTddLzQwIGhvdmVyOnRleHQtWyMxNWI4YTddIgogICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIFZpZXcgZnVsbCBwbHVnaW4gZG9jdW1lbnRhdGlvbgogICAgICAgICAgICA8QXJyb3dJY29uIC8+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBJbnN0YWxsIHN0ZXBzICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0xMCI+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWJhc2UgZm9udC1ib2xkIG1iLTQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgIEhvdyB0byBJbnN0YWxsCiAgICAgICAgICA8L2gzPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgIHtbCiAgICAgICAgICAgICAgIkRvd25sb2FkIHRoZSAucGx1Z2luIGZpbGUgZnJvbSBhbnkgY2FyZCBhYm92ZS4iLAogICAgICAgICAgICAgICJPcGVuIENsYXVkZSBkZXNrdG9wIOKGkiBTZXR0aW5ncyDihpIgUGx1Z2lucy4iLAogICAgICAgICAgICAgICJEcmFnIHRoZSBmaWxlIGludG8gdGhlIHBsdWdpbnMgcGFuZWwuIiwKICAgICAgICAgICAgICAiU2V0IHlvdXIgZW52aXJvbm1lbnQgdmFyaWFibGVzIGFuZCByZXN0YXJ0IENsYXVkZS4iLAogICAgICAgICAgICAgICJUZXN0IHdpdGggYSBzbGFzaCBjb21tYW5kIChlLmcuIC9teS10b2tlbnMpLiIsCiAgICAgICAgICAgIF0ubWFwKCh0ZXh0LCBpKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2l9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMyI+CiAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InNocmluay0wIHctNiBoLTYgcm91bmRlZC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQteHMgZm9udC1ib2xkIgogICAgICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJyZ2JhKDIxLDE4NCwxNjcsMC4xKSIsIGNvbG9yOiAiIzE1YjhhNyIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7aSArIDF9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy1yZWxheGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAgICAgICB7dGV4dH0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9zZWN0aW9uPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import React from "react";
+import Link from "next/link";
+import Breadcrumb from "@/components/Breadcrumb";
+
+export const metadata = { title: "AI Tools & Claude Plugins — DUAL Docs" };
+
+/* ── Plugin data ── */
+
+interface PluginInfo {
+  id: string;
+  name: string;
+  tagline: string;
+  audience: string;
+  downloadPath: string;
+  fileSize: string;
+  commands: { name: string; desc: string }[];
+}
+
+const plugins: PluginInfo[] = [
+  {
+    id: "token-manager",
+    name: "Token Manager",
+    tagline: "Manage tokens through conversation",
+    audience: "End Users",
+    downloadPath: "/downloads/dual-token-manager.plugin",
+    fileSize: "20 KB",
+    commands: [
+      { name: "/my-tokens", desc: "View your object collection" },
+      { name: "/transfer", desc: "Transfer tokens between wallets" },
+      { name: "/mint", desc: "Create new tokens from templates" },
+    ],
+  },
+  {
+    id: "developer-kit",
+    name: "Developer Kit",
+    tagline: "Build on DUAL faster",
+    audience: "Developers",
+    downloadPath: "/downloads/dual-developer-kit.plugin",
+    fileSize: "28 KB",
+    commands: [
+      { name: "/api-lookup", desc: "Search any DUAL API endpoint" },
+      { name: "/scaffold-template", desc: "Generate template boilerplate" },
+      { name: "/generate-webhook", desc: "Create webhook handlers" },
+    ],
+  },
+  {
+    id: "ai-toolkit",
+    name: "AI Toolkit",
+    tagline: "Wire up AI to DUAL",
+    audience: "AI Engineers",
+    downloadPath: "/downloads/dual-ai-toolkit.plugin",
+    fileSize: "44 KB",
+    commands: [
+      { name: "/setup-classifier", desc: "Scaffold a classification pipeline" },
+      { name: "/setup-chatbot", desc: "Scaffold a conversational assistant" },
+      { name: "/setup-guardrails", desc: "Generate AI safety middleware" },
+    ],
+  },
+];
+
+const audienceColors: Record<string, string> = {
+  "End Users": "bg-emerald-500/10 text-emerald-600",
+  Developers: "bg-blue-500/10 text-blue-600",
+  "AI Engineers": "bg-purple-500/10 text-purple-600",
+};
+
+/* ── Icons ── */
+
+function McpIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 2a4 4 0 0 1 4 4v1h2a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h2V6a4 4 0 0 1 4-4z" />
+      <circle cx="12" cy="14" r="2" />
+      <path d="M12 16v2" />
+    </svg>
+  );
+}
+
+function PlugIcon() {
+  return (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M12 22v-5" />
+      <path d="M9 8V2" />
+      <path d="M15 8V2" />
+      <path d="M18 8v5a6 6 0 0 1-6 6 6 6 0 0 1-6-6V8z" />
+    </svg>
+  );
+}
+
+function DownloadIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+      <polyline points="7 10 12 15 17 10" />
+      <line x1="12" y1="15" x2="12" y2="3" />
+    </svg>
+  );
+}
+
+function ArrowIcon() {
+  return (
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <path d="M5 12h14M12 5l7 7-7 7" />
+    </svg>
+  );
+}
+
+/* ── Page ── */
+
+export default function AIToolsPage() {
+  return (
+    <div className="max-w-4xl mx-auto px-8 py-12">
+      <Breadcrumb items={[{ label: "Docs", href: "/docs" }, { label: "AI Tools" }]} />
+
+      <h1
+        className="text-3xl font-bold mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+      >
+        AI Tools
+      </h1>
+      <p
+        className="mb-8 leading-relaxed max-w-2xl"
+        style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+      >
+        Everything you need to integrate AI with the DUAL platform — MCP server for AI agents
+        and Claude plugins that let you manage tokens and wire up AI through conversation.
+      </p>
+
+      {/* Jump links */}
+      <div className="flex flex-wrap gap-2 mb-12">
+        <a
+          href="#mcp"
+          className="flex items-center gap-2 text-xs font-medium px-3 py-1.5 rounded-full border transition-all hover:border-[#15b8a7]/40 hover:text-[#15b8a7]"
+          style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)", borderColor: "var(--border)", backgroundColor: "var(--surface)" }}
+        >
+          <McpIcon /> MCP Server
+        </a>
+        <a
+          href="#plugins"
+          className="flex items-center gap-2 text-xs font-medium px-3 py-1.5 rounded-full border transition-all hover:border-[#15b8a7]/40 hover:text-[#15b8a7]"
+          style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)", borderColor: "var(--border)", backgroundColor: "var(--surface)" }}
+        >
+          <PlugIcon /> Claude Plugins
+        </a>
+      </div>
+
+      {/* ════════════════════════════════════════════ */}
+      {/* MCP SERVER SECTION                          */}
+      {/* ════════════════════════════════════════════ */}
+
+      <section id="mcp" className="mb-16">
+        <div className="flex items-center gap-3 mb-2">
+          <div className="flex items-center justify-center w-8 h-8 rounded-lg" style={{ backgroundColor: "rgba(21, 184, 167, 0.1)" }}>
+            <McpIcon />
+          </div>
+          <h2 className="text-xl font-bold" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+            MCP Server
+          </h2>
+          <span className="text-[10px] font-bold tracking-wider px-2.5 py-1 rounded-full" style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "#15b8a7", color: "white" }}>
+            AI-NATIVE
+          </span>
+        </div>
+        <p className="text-sm leading-relaxed mb-6" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)", marginLeft: "2.75rem" }}>
+          Let AI agents interact with the DUAL platform as first-class users via Model Context Protocol.
+        </p>
+
+        <div className="h-px mb-6" style={{ backgroundColor: "var(--border)", marginLeft: "2.75rem" }} />
+
+        <div className="grid gap-4 sm:grid-cols-2">
+          <Link
+            href="/docs/developer-kit/mcp"
+            className="group block rounded-xl p-6 border transition-all hover:border-[#15b8a7]/30 hover:shadow-md"
+            style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+          >
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-10 h-10 rounded-xl bg-[#15b8a7]/10 flex items-center justify-center text-[#15b8a7]">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 2a4 4 0 0 1 4 4v1h2a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h2V6a4 4 0 0 1 4-4z" />
+                  <circle cx="12" cy="14" r="2" />
+                  <path d="M12 16v2" />
+                </svg>
+              </div>
+              <div>
+                <h3 className="text-base font-semibold group-hover:text-[#15b8a7] transition-colors" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+                  MCP Server Reference
+                </h3>
+                <p className="text-xs" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+                  80 tools · 14 modules
+                </p>
+              </div>
+            </div>
+            <p className="text-sm leading-relaxed mb-3" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Full reference for the DUAL MCP server — every tool, module, and capability across Payments, Templates, Objects, Wallets, and more.
+            </p>
+            <span className="text-xs font-medium text-[#15b8a7] opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-1" style={{ fontFamily: "var(--font-satoshi)" }}>
+              View reference <ArrowIcon />
+            </span>
+          </Link>
+
+          <Link
+            href="/docs/developer-kit/mcp-guide"
+            className="group block rounded-xl p-6 border transition-all hover:border-[#15b8a7]/30 hover:shadow-md"
+            style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+          >
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-10 h-10 rounded-xl bg-[#15b8a7]/10 flex items-center justify-center text-[#15b8a7]">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                  <polyline points="14 2 14 8 20 8" />
+                  <line x1="16" y1="13" x2="8" y2="13" />
+                  <line x1="16" y1="17" x2="8" y2="17" />
+                </svg>
+              </div>
+              <div>
+                <h3 className="text-base font-semibold group-hover:text-[#15b8a7] transition-colors" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+                  MCP Setup Guide
+                </h3>
+                <p className="text-xs" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+                  Step-by-step
+                </p>
+              </div>
+            </div>
+            <p className="text-sm leading-relaxed mb-3" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Install and configure the DUAL MCP server in Claude Desktop, VS Code, or any MCP-compatible client in under 5 minutes.
+            </p>
+            <span className="text-xs font-medium text-[#15b8a7] opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-1" style={{ fontFamily: "var(--font-satoshi)" }}>
+              Start setup <ArrowIcon />
+            </span>
+          </Link>
+        </div>
+      </section>
+
+      {/* ════════════════════════════════════════════ */}
+      {/* CLAUDE PLUGINS SECTION                      */}
+      {/* ════════════════════════════════════════════ */}
+
+      <section id="plugins">
+        <div className="flex items-center gap-3 mb-2">
+          <div className="flex items-center justify-center w-8 h-8 rounded-lg" style={{ backgroundColor: "rgba(21, 184, 167, 0.1)" }}>
+            <PlugIcon />
+          </div>
+          <h2 className="text-xl font-bold" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+            Claude Plugins
+          </h2>
+          <span className="text-xs font-medium px-2 py-0.5 rounded-full" style={{ fontFamily: "var(--font-dm-mono)", color: "#15b8a7", backgroundColor: "rgba(21, 184, 167, 0.1)" }}>
+            {plugins.length}
+          </span>
+        </div>
+        <p className="text-sm leading-relaxed mb-6" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)", marginLeft: "2.75rem" }}>
+          Install DUAL plugins into Claude to manage tokens, build integrations, and wire up AI — all through natural conversation.
+        </p>
+
+        <div className="h-px mb-6" style={{ backgroundColor: "var(--border)", marginLeft: "2.75rem" }} />
+
+        {/* Prerequisites */}
+        <div className="mb-8 p-5 rounded-xl border" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+          <div className="flex items-center gap-3 mb-3">
+            <div className="w-8 h-8 rounded-lg bg-[#15b8a7]/10 flex items-center justify-center text-[#15b8a7]">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
+              </svg>
+            </div>
+            <span className="text-sm font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+              Before You Start
+            </span>
+          </div>
+          <p className="text-sm leading-relaxed mb-3" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+            All plugins require two environment variables:
+          </p>
+          <div className="rounded-lg p-4 space-y-1" style={{ backgroundColor: "var(--code-bg)" }}>
+            <code className="block text-sm" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--code-text)" }}>
+              export DUAL_API_URL=&quot;https://your-dual-api-endpoint&quot;
+            </code>
+            <code className="block text-sm" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--code-text)" }}>
+              export DUAL_TOKEN=&quot;your_authentication_token&quot;
+            </code>
+          </div>
+        </div>
+
+        {/* Plugin cards */}
+        <div className="space-y-6">
+          {plugins.map((plugin) => (
+            <div
+              key={plugin.id}
+              id={plugin.id}
+              className="rounded-xl border overflow-hidden"
+              style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+            >
+              {/* Header */}
+              <div className="p-6">
+                <div className="flex items-start justify-between gap-4 mb-4">
+                  <div>
+                    <div className="flex items-center gap-3 mb-1">
+                      <h3 className="text-lg font-bold" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+                        {plugin.name}
+                      </h3>
+                      <span
+                        className={`text-[10px] font-bold tracking-wider px-2.5 py-1 rounded-full ${audienceColors[plugin.audience] || ""}`}
+                        style={{ fontFamily: "var(--font-dm-mono)" }}
+                      >
+                        {plugin.audience}
+                      </span>
+                    </div>
+                    <p className="text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                      {plugin.tagline}
+                    </p>
+                  </div>
+                  <a
+                    href={plugin.downloadPath}
+                    download
+                    className="shrink-0 flex items-center gap-2 px-4 py-2 rounded-lg text-sm font-medium transition-all hover:opacity-90"
+                    style={{ fontFamily: "var(--font-satoshi)", backgroundColor: "#15b8a7", color: "#fff" }}
+                  >
+                    <DownloadIcon />
+                    Download
+                    <span className="text-xs opacity-70">({plugin.fileSize})</span>
+                  </a>
+                </div>
+
+                {/* Commands */}
+                <div className="space-y-2">
+                  {plugin.commands.map((cmd) => (
+                    <div key={cmd.name} className="flex items-center gap-3">
+                      <code
+                        className="shrink-0 text-xs font-bold px-2 py-1 rounded"
+                        style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--code-bg)", color: "#15b8a7" }}
+                      >
+                        {cmd.name}
+                      </code>
+                      <p className="text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                        {cmd.desc}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Full details link */}
+        <div className="mt-6 text-center">
+          <Link
+            href="/docs/plugins"
+            className="inline-flex items-center gap-2 text-sm font-medium px-5 py-2.5 rounded-lg border transition-all hover:border-[#15b8a7]/40 hover:text-[#15b8a7]"
+            style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)", borderColor: "var(--border)" }}
+          >
+            View full plugin documentation
+            <ArrowIcon />
+          </Link>
+        </div>
+
+        {/* Install steps */}
+        <div className="mt-10">
+          <h3 className="text-base font-bold mb-4" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+            How to Install
+          </h3>
+          <div className="space-y-3">
+            {[
+              "Download the .plugin file from any card above.",
+              "Open Claude desktop → Settings → Plugins.",
+              "Drag the file into the plugins panel.",
+              "Set your environment variables and restart Claude.",
+              "Test with a slash command (e.g. /my-tokens).",
+            ].map((text, i) => (
+              <div key={i} className="flex items-start gap-3">
+                <span
+                  className="shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold"
+                  style={{ backgroundColor: "rgba(21,184,167,0.1)", color: "#15b8a7", fontFamily: "var(--font-dm-mono)" }}
+                >
+                  {i + 1}
+                </span>
+                <p className="text-sm leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                  {text}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}

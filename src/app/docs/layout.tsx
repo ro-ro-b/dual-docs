@@ -1,1 +1,41 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBIZWFkZXIgZnJvbSAiQC9jb21wb25lbnRzL0hlYWRlciI7CmltcG9ydCBTaWRlYmFyIGZyb20gIkAvY29tcG9uZW50cy9TaWRlYmFyIjsKaW1wb3J0IFNlYXJjaE1vZGFsIGZyb20gIkAvY29tcG9uZW50cy9TZWFyY2hNb2RhbCI7CmltcG9ydCBGb290ZXIgZnJvbSAiQC9jb21wb25lbnRzL0Zvb3RlciI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBEb2NzTGF5b3V0KHsKICBjaGlsZHJlbiwKfTogewogIGNoaWxkcmVuOiBSZWFjdC5SZWFjdE5vZGU7Cn0pIHsKICBjb25zdCBbc2lkZWJhck9wZW4sIHNldFNpZGViYXJPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gZmxleCBmbGV4LWNvbCI+CiAgICAgIDxIZWFkZXIgb25NZW51VG9nZ2xlPXsoKSA9PiBzZXRTaWRlYmFyT3Blbighc2lkZWJhck9wZW4pfSAvPgogICAgICA8U2VhcmNoTW9kYWwgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC0xIj4KICAgICAgICB7LyogRGVza3RvcCBzaWRlYmFyICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoaWRkZW4gbGc6YmxvY2siPgogICAgICAgICAgPFNpZGViYXIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICB7LyogTW9iaWxlIHNpZGViYXIgb3ZlcmxheSAqL30KICAgICAgICB7c2lkZWJhck9wZW4gJiYgKAogICAgICAgICAgPD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGluc2V0LTAgei00MCBiZy1ibGFjay8zMCBsZzpoaWRkZW4iIG9uQ2xpY2s9eygpID0+IHNldFNpZGViYXJPcGVuKGZhbHNlKX0gLz4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGluc2V0LXktMCBsZWZ0LTAgei01MCB3LVsyODBweF0gbGc6aGlkZGVuIG92ZXJmbG93LXktYXV0byIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCB0b3A6ICI3MnB4IiB9fT4KICAgICAgICAgICAgICA8U2lkZWJhciBvbk5hdmlnYXRlPXsoKSA9PiBzZXRTaWRlYmFyT3BlbihmYWxzZSl9IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC8+CiAgICAgICAgKX0KICAgICAgICA8bWFpbiBjbGFzc05hbWU9ImZsZXgtMSBtaW4tdy0wIGZsZXggZmxleC1jb2wiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+e2NoaWxkcmVufTwvZGl2PgogICAgICAgICAgPEZvb3RlciAvPgogICAgICAgIDwvbWFpbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useState } from "react";
+import Header from "@/components/Header";
+import Sidebar from "@/components/Sidebar";
+import SearchModal from "@/components/SearchModal";
+import Footer from "@/components/Footer";
+
+export default function DocsLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  return (
+    <div className="min-h-screen flex flex-col">
+      <Header onMenuToggle={() => setSidebarOpen(!sidebarOpen)} />
+      <SearchModal />
+      <div className="flex flex-1">
+        {/* Desktop sidebar */}
+        <div className="hidden lg:block">
+          <Sidebar />
+        </div>
+        {/* Mobile sidebar overlay */}
+        {sidebarOpen && (
+          <>
+            <div className="fixed inset-0 z-40 bg-black/30 lg:hidden" onClick={() => setSidebarOpen(false)} />
+            <div className="fixed inset-y-0 left-0 z-50 w-[280px] lg:hidden overflow-y-auto" style={{ backgroundColor: "var(--surface)", top: "72px" }}>
+              <Sidebar onNavigate={() => setSidebarOpen(false)} />
+            </div>
+          </>
+        )}
+        <main className="flex-1 min-w-0 flex flex-col">
+          <div className="flex-1">{children}</div>
+          <Footer />
+        </main>
+      </div>
+    </div>
+  );
+}

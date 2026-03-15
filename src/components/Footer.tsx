@@ -1,1 +1,40 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKCmNvbnN0IGZvb3RlckxpbmtzID0gWwogIHsgbGFiZWw6ICJRdWljayBTdGFydCIsIGhyZWY6ICIvZG9jcy9nZXR0aW5nLXN0YXJ0ZWQvcXVpY2tzdGFydCIgfSwKICB7IGxhYmVsOiAiQVBJIFJlZmVyZW5jZSIsIGhyZWY6ICIvZG9jcy9hcGkvb2JqZWN0cyIgfSwKICB7IGxhYmVsOiAiVHV0b3JpYWxzIiwgaHJlZjogIi9kb2NzL3R1dG9yaWFscyIgfSwKICB7IGxhYmVsOiAiQUkgVG9vbHMiLCBocmVmOiAiL2RvY3MvYWktdG9vbHMiIH0sCiAgeyBsYWJlbDogIlN1cHBvcnQiLCBocmVmOiAiL2RvY3Mvc3VwcG9ydCIgfSwKICB7IGxhYmVsOiAiVXBkYXRlcyIsIGhyZWY6ICIvZG9jcy91cGRhdGVzIiB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRm9vdGVyKCkgewogIHJldHVybiAoCiAgICA8Zm9vdGVyIGNsYXNzTmFtZT0ibXQtYXV0byBib3JkZXItdCBweS04IHB4LTEyIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBzbTpmbGV4LXJvdyBpdGVtcy1zdGFydCBzbTppdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIGdhcC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSI+CiAgICAgICAgICAgIDxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjE0IiBzdHJva2U9IiMxNUI4QTciIHN0cm9rZVdpZHRoPSIyLjUiIC8+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMCAxNmgxMk0xNiAxMHYxMiIgc3Ryb2tlPSIjMTVCOEE3IiBzdHJva2VXaWR0aD0iMi41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgLz4KICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAmY29weTsge25ldyBEYXRlKCkuZ2V0RnVsbFllYXIoKX0gRFVBTC4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8bmF2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgICAgIHtmb290ZXJMaW5rcy5tYXAoKGxpbmspID0+ICgKICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICBrZXk9e2xpbmsuaHJlZn0KICAgICAgICAgICAgICBocmVmPXtsaW5rLmhyZWZ9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOnRleHQtWyMxNWI4YTddIgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtsaW5rLmxhYmVsfQogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICApKX0KICAgICAgICA8L25hdj4KICAgICAgPC9kaXY+CiAgICA8L2Zvb3Rlcj4KICApOwp9Cg=="}
+import Link from "next/link";
+
+const footerLinks = [
+  { label: "Quick Start", href: "/docs/getting-started/quickstart" },
+  { label: "API Reference", href: "/docs/api/objects" },
+  { label: "Tutorials", href: "/docs/tutorials" },
+  { label: "AI Tools", href: "/docs/ai-tools" },
+  { label: "Support", href: "/docs/support" },
+  { label: "Updates", href: "/docs/updates" },
+];
+
+export default function Footer() {
+  return (
+    <footer className="mt-auto border-t py-8 px-12" style={{ borderColor: "var(--border)" }}>
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+        <div className="flex items-center gap-2">
+          <svg width="20" height="20" viewBox="0 0 32 32" fill="none">
+            <circle cx="16" cy="16" r="14" stroke="#15B8A7" strokeWidth="2.5" />
+            <path d="M10 16h12M16 10v12" stroke="#15B8A7" strokeWidth="2.5" strokeLinecap="round" />
+          </svg>
+          <span className="text-xs" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+            &copy; {new Date().getFullYear()} DUAL. All rights reserved.
+          </span>
+        </div>
+        <nav className="flex flex-wrap items-center gap-4">
+          {footerLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className="text-xs transition-colors hover:text-[#15b8a7]"
+              style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+            >
+              {link.label}
+            </Link>
+          ))}
+        </nav>
+      </div>
+    </footer>
+  );
+}

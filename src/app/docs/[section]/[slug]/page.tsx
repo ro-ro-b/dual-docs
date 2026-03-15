@@ -1,1 +1,252 @@
-{"data":"aW1wb3J0IHsgbm90Rm91bmQgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgQnJlYWRjcnVtYiBmcm9tICJAL2NvbXBvbmVudHMvQnJlYWRjcnVtYiI7CmltcG9ydCBFbmRwb2ludENhcmQgZnJvbSAiQC9jb21wb25lbnRzL0VuZHBvaW50Q2FyZCI7CmltcG9ydCBUYWJsZU9mQ29udGVudHMgZnJvbSAiQC9jb21wb25lbnRzL1RhYmxlT2ZDb250ZW50cyI7CmltcG9ydCB7IGVuZHBvaW50R3JvdXBzLCBnZW5lcmF0ZUdyb3VwTWFya2Rvd24gfSBmcm9tICJAL2RhdGEvYXBpLWVuZHBvaW50cyI7CmltcG9ydCB7IGNvbmNlcHRQYWdlcyB9IGZyb20gIkAvZGF0YS9jb25jZXB0LXBhZ2VzIjsKaW1wb3J0IHsgZG9jc05hdmlnYXRpb24gfSBmcm9tICJAL2RhdGEvbmF2aWdhdGlvbiI7CmltcG9ydCBDb3B5TWFya2Rvd25CdXR0b24gZnJvbSAiQC9jb21wb25lbnRzL0NvcHlNYXJrZG93bkJ1dHRvbiI7CmltcG9ydCBQcm9zZUNvbnRlbnQgZnJvbSAiQC9jb21wb25lbnRzL1Byb3NlQ29udGVudCI7CgppbnRlcmZhY2UgUGFnZVByb3BzIHsKICBwYXJhbXM6IFByb21pc2U8eyBzZWN0aW9uOiBzdHJpbmc7IHNsdWc6IHN0cmluZyB9PjsKfQoKLyog4pSA4pSAIEJ1aWxkIGZsYXQgb3JkZXJlZCBwYWdlIGxpc3QgZnJvbSBuYXZpZ2F0aW9uIOKUgOKUgCAqLwpmdW5jdGlvbiBnZXRPcmRlcmVkUGFnZXMoKSB7CiAgY29uc3QgcGFnZXM6IHsgdGl0bGU6IHN0cmluZzsgaHJlZjogc3RyaW5nIH1bXSA9IFtdOwogIGZvciAoY29uc3Qgc2VjdGlvbiBvZiBkb2NzTmF2aWdhdGlvbikgewogICAgZm9yIChjb25zdCBpdGVtIG9mIHNlY3Rpb24uaXRlbXMpIHsKICAgICAgLy8gT25seSBpbmNsdWRlIHBhZ2VzIHRoYXQgcmVzb2x2ZSB0byBbc2VjdGlvbl0vW3NsdWddIHBhdHRlcm4KICAgICAgY29uc3QgbWF0Y2ggPSBpdGVtLmhyZWYubWF0Y2goL15cL2RvY3NcLyhbXi9dKylcLyhbXi9dKykkLyk7CiAgICAgIGlmIChtYXRjaCkgewogICAgICAgIGNvbnN0IGtleSA9IGAke21hdGNoWzFdfS8ke21hdGNoWzJdfWA7CiAgICAgICAgaWYgKGNvbmNlcHRQYWdlc1trZXldIHx8IGVuZHBvaW50R3JvdXBzLmZpbmQoKGcpID0+IG1hdGNoWzFdID09PSAiYXBpIiAmJiBnLnRhZyA9PT0gbWF0Y2hbMl0pKSB7CiAgICAgICAgICBwYWdlcy5wdXNoKHsgdGl0bGU6IGl0ZW0udGl0bGUsIGhyZWY6IGl0ZW0uaHJlZiB9KTsKICAgICAgICB9CiAgICAgIH0KICAgIH0KICB9CiAgcmV0dXJuIHBhZ2VzOwp9CgovKiDilIDilIAgUGFyc2UgaDIvaDMgaGVhZGluZ3MgZnJvbSBIVE1MIGZvciBUT0Mg4pSA4pSAICovCmZ1bmN0aW9uIHBhcnNlSGVhZGluZ3MoaHRtbDogc3RyaW5nKSB7CiAgY29uc3QgaGVhZGluZ3M6IHsgaWQ6IHN0cmluZzsgbGFiZWw6IHN0cmluZzsgbGV2ZWw6IG51bWJlciB9W10gPSBbXTsKICBjb25zdCByZWdleCA9IC88aChbMjNdKVtePl0qPihbXjxdKyk8XC9oWzIzXT4vZ2k7CiAgbGV0IG1hdGNoOwogIHdoaWxlICgobWF0Y2ggPSByZWdleC5leGVjKGh0bWwpKSAhPT0gbnVsbCkgewogICAgY29uc3QgbGV2ZWwgPSBwYXJzZUludChtYXRjaFsxXSk7CiAgICBjb25zdCB0ZXh0ID0gbWF0Y2hbMl0udHJpbSgpOwogICAgY29uc3QgaWQgPSB0ZXh0LnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvW15hLXowLTldKy9nLCAiLSIpLnJlcGxhY2UoL14tfC0kL2csICIiKTsKICAgIGhlYWRpbmdzLnB1c2goeyBpZCwgbGFiZWw6IHRleHQsIGxldmVsIH0pOwogIH0KICByZXR1cm4gaGVhZGluZ3M7Cn0KCi8qIOKUgOKUgCBJbmplY3QgSURzIGludG8gaDIvaDMgdGFncyBzbyBUT0MgbGlua3Mgd29yayDilIDilIAgKi8KZnVuY3Rpb24gaW5qZWN0SGVhZGluZ0lkcyhodG1sOiBzdHJpbmcpIHsKICByZXR1cm4gaHRtbC5yZXBsYWNlKC88aChbMjNdKShbXj5dKik+KFtePF0rKTxcL2hbMjNdPi9naSwgKF9tYXRjaCwgbGV2ZWwsIGF0dHJzLCB0ZXh0KSA9PiB7CiAgICBjb25zdCBpZCA9IHRleHQudHJpbSgpLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvW15hLXowLTldKy9nLCAiLSIpLnJlcGxhY2UoL14tfC0kL2csICIiKTsKICAgIHJldHVybiBgPGgke2xldmVsfSR7YXR0cnN9IGlkPSIke2lkfSI+JHt0ZXh0fTwvaCR7bGV2ZWx9PmA7CiAgfSk7Cn0KCmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIERvY1BhZ2UoeyBwYXJhbXMgfTogUGFnZVByb3BzKSB7CiAgY29uc3QgeyBzZWN0aW9uLCBzbHVnIH0gPSBhd2FpdCBwYXJhbXM7CiAgY29uc3Qgb3JkZXJlZFBhZ2VzID0gZ2V0T3JkZXJlZFBhZ2VzKCk7CgogIC8vIEFQSSByZWZlcmVuY2UgcGFnZXMKICBpZiAoc2VjdGlvbiA9PT0gImFwaSIpIHsKICAgIGNvbnN0IGdyb3VwID0gZW5kcG9pbnRHcm91cHMuZmluZCgoZykgPT4gZy50YWcgPT09IHNsdWcpOwogICAgaWYgKCFncm91cCkgcmV0dXJuIG5vdEZvdW5kKCk7CgogICAgY29uc3QgdG9jSXRlbXMgPSBncm91cC5lbmRwb2ludHMubWFwKChlKSA9PiAoewogICAgICBpZDogYCR7ZS5tZXRob2QudG9Mb3dlckNhc2UoKX0tJHtlLnBhdGgucmVwbGFjZSgvW15hLXowLTldL2dpLCAiLSIpfWAsCiAgICAgIGxhYmVsOiBgJHtlLm1ldGhvZH0gJHtlLnBhdGh9YCwKICAgIH0pKTsKCiAgICBjb25zdCBtYXJrZG93biA9IGdlbmVyYXRlR3JvdXBNYXJrZG93bihncm91cCk7CgogICAgY29uc3QgY3VycmVudEhyZWYgPSBgL2RvY3MvYXBpLyR7c2x1Z31gOwogICAgY29uc3QgY3VycmVudElkeCA9IG9yZGVyZWRQYWdlcy5maW5kSW5kZXgoKHApID0+IHAuaHJlZiA9PT0gY3VycmVudEhyZWYpOwogICAgY29uc3QgcHJldiA9IGN1cnJlbnRJZHggPiAwID8gb3JkZXJlZFBhZ2VzW2N1cnJlbnRJZHggLSAxXSA6IG51bGw7CiAgICBjb25zdCBuZXh0ID0gY3VycmVudElkeCA8IG9yZGVyZWRQYWdlcy5sZW5ndGggLSAxID8gb3JkZXJlZFBhZ2VzW2N1cnJlbnRJZHggKyAxXSA6IG51bGw7CgogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgbWluLXctMCBweC02IHNtOnB4LTEyIHB5LTggbWF4LXctNHhsIj4KICAgICAgICAgIDxCcmVhZGNydW1iCiAgICAgICAgICAgIGl0ZW1zPXtbCiAgICAgICAgICAgICAgeyBsYWJlbDogIkRvY3MiLCBocmVmOiAiL2RvY3MiIH0sCiAgICAgICAgICAgICAgeyBsYWJlbDogIkFQSSBSZWZlcmVuY2UiLCBocmVmOiAiL2RvY3MvYXBpL3BheW1lbnRzIiB9LAogICAgICAgICAgICAgIHsgbGFiZWw6IGdyb3VwLmxhYmVsIH0sCiAgICAgICAgICAgIF19CiAgICAgICAgICAvPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBtYi0yIj4KICAgICAgICAgICAgPGgxCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LTR4bCBmb250LXNlbWlib2xkIgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtncm91cC5sYWJlbH0KICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPENvcHlNYXJrZG93bkJ1dHRvbiBjb250ZW50PXttYXJrZG93bn0gLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtYi04IHRleHQtYmFzZSBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICB7Z3JvdXAuZGVzY3JpcHRpb259CiAgICAgICAgICA8L3A+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTYgcC00IHJvdW5kZWQtbGcgYm9yZGVyIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIj4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT5CYXNlIFVSTDo8L3NwYW4+CiAgICAgICAgICAgICAgPGNvZGUKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LVsjMTViOGE3XSBiZy1bIzE1YjhhN10vMTAgcHgtMiBweS0wLjUgcm91bmRlZCIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIGh0dHBzOi8vYmxvY2t2LWxhYnMuaW8KICAgICAgICAgICAgICA8L2NvZGU+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBtdC0yIj4KICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT5BdXRoOjwvc3Bhbj4KICAgICAgICAgICAgICA8Y29kZQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHB4LTIgcHktMC41IHJvdW5kZWQiCiAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLWNvZGUtYmcpIiwgY29sb3I6ICJ2YXIoLS1jb2RlLXRleHQpIiB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIEJlYXJlciBKV1QKICAgICAgICAgICAgICA8L2NvZGU+CiAgICAgICAgICAgICAgPGNvZGUKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC14cyBweC0yIHB5LTAuNSByb3VuZGVkIgogICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1jb2RlLWJnKSIsIGNvbG9yOiAidmFyKC0tY29kZS10ZXh0KSIgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICB4LWFwaS1rZXkKICAgICAgICAgICAgICA8L2NvZGU+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIG1iLTQiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgIEVuZHBvaW50cyAoe2dyb3VwLmVuZHBvaW50cy5sZW5ndGh9KQogICAgICAgICAgPC9oMj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTMiPgogICAgICAgICAgICB7Z3JvdXAuZW5kcG9pbnRzLm1hcCgoZW5kcG9pbnQsIGkpID0+ICgKICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgICBpZD17YCR7ZW5kcG9pbnQubWV0aG9kLnRvTG93ZXJDYXNlKCl9LSR7ZW5kcG9pbnQucGF0aC5yZXBsYWNlKC9bXmEtejAtOV0vZ2ksICItIil9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8RW5kcG9pbnRDYXJkIGVuZHBvaW50PXtlbmRwb2ludH0gLz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogUHJldiAvIE5leHQgbmF2aWdhdGlvbiAqL30KICAgICAgICAgIHsocHJldiB8fCBuZXh0KSAmJiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYmV0d2VlbiBpdGVtcy1jZW50ZXIgbXQtMTIgcHQtNiIgc3R5bGU9e3sgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICAgIHtwcmV2ID8gKAogICAgICAgICAgICAgICAgPExpbmsgaHJlZj17cHJldi5ocmVmfSBjbGFzc05hbWU9Imdyb3VwIGZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHRleHQtc20gdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6b3BhY2l0eS04MCIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS10ZXh0LXNlY29uZGFyeSkiIH19PgogICAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIiBjbGFzc05hbWU9InRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOi10cmFuc2xhdGUteC0wLjUiPjxwYXRoIGQ9Ik0xMCAxMkw2IDhMMTAgNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiLz48L3N2Zz4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtcmlnaHQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT5QcmV2aW91czwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgY29sb3I6ICIjMTViOGE3IiB9fT57cHJldi50aXRsZX08L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgKSA6IDxkaXYgLz59CiAgICAgICAgICAgICAge25leHQgPyAoCiAgICAgICAgICAgICAgICA8TGluayBocmVmPXtuZXh0LmhyZWZ9IGNsYXNzTmFtZT0iZ3JvdXAgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpvcGFjaXR5LTgwIG1sLWF1dG8iIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1zZWNvbmRhcnkpIiB9fT4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtbGVmdCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQteHMiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19Pk5leHQ8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGNvbG9yOiAiIzE1YjhhNyIgfX0+e25leHQudGl0bGV9PC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIiBjbGFzc05hbWU9InRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LTAuNSI+PHBhdGggZD0iTTYgNEwxMCA4TDYgMTIiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIi8+PC9zdmc+CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgKSA6IDxkaXYgLz59CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8VGFibGVPZkNvbnRlbnRzIGl0ZW1zPXt0b2NJdGVtc30gLz4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgLy8gQ29uY2VwdCAvIGdldHRpbmctc3RhcnRlZCBwYWdlcwogIGNvbnN0IHBhZ2VLZXkgPSBgJHtzZWN0aW9ufS8ke3NsdWd9YDsKICBjb25zdCBwYWdlID0gY29uY2VwdFBhZ2VzW3BhZ2VLZXldOwogIGlmICghcGFnZSkgcmV0dXJuIG5vdEZvdW5kKCk7CgogIC8vIFBhcnNlIGhlYWRpbmdzIGZvciByaWdodC1zaWRlIFRPQwogIGNvbnN0IGhlYWRpbmdzID0gcGFyc2VIZWFkaW5ncyhwYWdlLmNvbnRlbnQpOwogIGNvbnN0IHRvY0l0ZW1zID0gaGVhZGluZ3MubWFwKChoKSA9PiAoeyBpZDogaC5pZCwgbGFiZWw6IGgubGFiZWwgfSkpOwogIGNvbnN0IGNvbnRlbnRXaXRoSWRzID0gaW5qZWN0SGVhZGluZ0lkcyhwYWdlLmNvbnRlbnQpOwoKICAvLyBQcmV2L25leHQKICBjb25zdCBjdXJyZW50SHJlZiA9IGAvZG9jcy8ke3NlY3Rpb259LyR7c2x1Z31gOwogIGNvbnN0IGN1cnJlbnRJZHggPSBvcmRlcmVkUGFnZXMuZmluZEluZGV4KChwKSA9PiBwLmhyZWYgPT09IGN1cnJlbnRIcmVmKTsKICBjb25zdCBwcmV2ID0gY3VycmVudElkeCA+IDAgPyBvcmRlcmVkUGFnZXNbY3VycmVudElkeCAtIDFdIDogbnVsbDsKICBjb25zdCBuZXh0ID0gY3VycmVudElkeCA8IG9yZGVyZWRQYWdlcy5sZW5ndGggLSAxID8gb3JkZXJlZFBhZ2VzW2N1cnJlbnRJZHggKyAxXSA6IG51bGw7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgbWluLXctMCBweC02IHNtOnB4LTEyIHB5LTggbWF4LXctNHhsIj4KICAgICAgICA8QnJlYWRjcnVtYgogICAgICAgICAgaXRlbXM9e1sKICAgICAgICAgICAgeyBsYWJlbDogIkRvY3MiLCBocmVmOiAiL2RvY3MiIH0sCiAgICAgICAgICAgIHsgbGFiZWw6IHBhZ2Uuc2VjdGlvbkxhYmVsLCBocmVmOiBwYWdlLnNlY3Rpb25IcmVmIH0sCiAgICAgICAgICAgIHsgbGFiZWw6IHBhZ2UudGl0bGUgfSwKICAgICAgICAgIF19CiAgICAgICAgLz4KICAgICAgICA8aDEKICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC00eGwgZm9udC1zZW1pYm9sZCBtYi00IgogICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgID4KICAgICAgICAgIHtwYWdlLnRpdGxlfQogICAgICAgIDwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtYi04IHRleHQtYmFzZSBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAge3BhZ2UuZGVzY3JpcHRpb259CiAgICAgICAgPC9wPgogICAgICAgIDxQcm9zZUNvbnRlbnQKICAgICAgICAgIGh0bWw9e2NvbnRlbnRXaXRoSWRzfQogICAgICAgICAgY2xhc3NOYW1lPSJwcm9zZSBwcm9zZS1uZXV0cmFsIG1heC13LW5vbmUgWyZfaDJdOnRleHQtMnhsIFsmX2gyXTpmb250LXNlbWlib2xkIFsmX2gyXTptdC0xMCBbJl9oMl06bWItNCBbJl9oM106dGV4dC1sZyBbJl9oM106Zm9udC1tZWRpdW0gWyZfaDNdOm10LTYgWyZfaDNdOm1iLTMgWyZfcF06bGVhZGluZy1yZWxheGVkIFsmX3BdOm1iLTQgWyZfY29kZV06dGV4dC1bIzE1YjhhN10gWyZfY29kZV06YmctWyMxNWI4YTddLzEwIFsmX2NvZGVdOnB4LTEuNSBbJl9jb2RlXTpweS0wLjUgWyZfY29kZV06cm91bmRlZCBbJl9jb2RlXTp0ZXh0LXNtIFsmX3VsXTpsaXN0LWRpc2MgWyZfdWxdOnBsLTYgWyZfdWxdOm1iLTQgWyZfbGldOm1iLTEgWyZfcHJlXTpyb3VuZGVkLWxnIFsmX3ByZV06cC00IFsmX3ByZV06b3ZlcmZsb3cteC1hdXRvIFsmX2FdOnRleHQtWyMxNWI4YTddIFsmX2FdOnVuZGVybGluZSIKICAgICAgICAgIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgLz4KCiAgICAgICAgey8qIFByZXYgLyBOZXh0IG5hdmlnYXRpb24gKi99CiAgICAgICAgeyhwcmV2IHx8IG5leHQpICYmICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYmV0d2VlbiBpdGVtcy1jZW50ZXIgbXQtMTIgcHQtNiIgc3R5bGU9e3sgYm9yZGVyVG9wOiAiMXB4IHNvbGlkIHZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICB7cHJldiA/ICgKICAgICAgICAgICAgICA8TGluayBocmVmPXtwcmV2LmhyZWZ9IGNsYXNzTmFtZT0iZ3JvdXAgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSB0cmFuc2l0aW9uLWNvbG9ycyBob3ZlcjpvcGFjaXR5LTgwIiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtc2Vjb25kYXJ5KSIgfX0+CiAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIiBjbGFzc05hbWU9InRyYW5zaXRpb24tdHJhbnNmb3JtIGdyb3VwLWhvdmVyOi10cmFuc2xhdGUteC0wLjUiPjxwYXRoIGQ9Ik0xMCAxMkw2IDhMMTAgNCIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiLz48L3N2Zz4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQteHMiIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PlByZXZpb3VzPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgY29sb3I6ICIjMTViOGE3IiB9fT57cHJldi50aXRsZX08L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgKSA6IDxkaXYgLz59CiAgICAgICAgICAgIHtuZXh0ID8gKAogICAgICAgICAgICAgIDxMaW5rIGhyZWY9e25leHQuaHJlZn0gY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIHRyYW5zaXRpb24tY29sb3JzIGhvdmVyOm9wYWNpdHktODAgbWwtYXV0byIgc3R5bGU9e3sgY29sb3I6ICJ2YXIoLS10ZXh0LXNlY29uZGFyeSkiIH19PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtbGVmdCI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT5OZXh0PC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgY29sb3I6ICIjMTViOGE3IiB9fT57bmV4dC50aXRsZX08L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgY2xhc3NOYW1lPSJ0cmFuc2l0aW9uLXRyYW5zZm9ybSBncm91cC1ob3Zlcjp0cmFuc2xhdGUteC0wLjUiPjxwYXRoIGQ9Ik02IDRMMTAgOEw2IDEyIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPgogICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgKSA6IDxkaXYgLz59CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L2Rpdj4KICAgICAge3RvY0l0ZW1zLmxlbmd0aCA+IDAgJiYgPFRhYmxlT2ZDb250ZW50cyBpdGVtcz17dG9jSXRlbXN9IC8+fQogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIGdlbmVyYXRlU3RhdGljUGFyYW1zKCkgewogIGNvbnN0IGFwaVBhcmFtcyA9IGVuZHBvaW50R3JvdXBzLm1hcCgoZykgPT4gKHsKICAgIHNlY3Rpb246ICJhcGkiLAogICAgc2x1ZzogZy50YWcsCiAgfSkpOwoKICBjb25zdCBjb25jZXB0UGFyYW1zID0gT2JqZWN0LmtleXMoY29uY2VwdFBhZ2VzKS5tYXAoKGtleSkgPT4gewogICAgY29uc3QgW3NlY3Rpb24sIHNsdWddID0ga2V5LnNwbGl0KCIvIik7CiAgICByZXR1cm4geyBzZWN0aW9uLCBzbHVnIH07CiAgfSk7CgogIHJldHVybiBbLi4uYXBpUGFyYW1zLCAuLi5jb25jZXB0UGFyYW1zXTsKfQo="}
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import Breadcrumb from "@/components/Breadcrumb";
+import EndpointCard from "@/components/EndpointCard";
+import TableOfContents from "@/components/TableOfContents";
+import { endpointGroups, generateGroupMarkdown } from "@/data/api-endpoints";
+import { conceptPages } from "@/data/concept-pages";
+import { docsNavigation } from "@/data/navigation";
+import CopyMarkdownButton from "@/components/CopyMarkdownButton";
+import ProseContent from "@/components/ProseContent";
+
+interface PageProps {
+  params: Promise<{ section: string; slug: string }>;
+}
+
+/* ── Build flat ordered page list from navigation ── */
+function getOrderedPages() {
+  const pages: { title: string; href: string }[] = [];
+  for (const section of docsNavigation) {
+    for (const item of section.items) {
+      // Only include pages that resolve to [section]/[slug] pattern
+      const match = item.href.match(/^\/docs\/([^/]+)\/([^/]+)$/);
+      if (match) {
+        const key = `${match[1]}/${match[2]}`;
+        if (conceptPages[key] || endpointGroups.find((g) => match[1] === "api" && g.tag === match[2])) {
+          pages.push({ title: item.title, href: item.href });
+        }
+      }
+    }
+  }
+  return pages;
+}
+
+/* ── Parse h2/h3 headings from HTML for TOC ── */
+function parseHeadings(html: string) {
+  const headings: { id: string; label: string; level: number }[] = [];
+  const regex = /<h([23])[^>]*>([^<]+)<\/h[23]>/gi;
+  let match;
+  while ((match = regex.exec(html)) !== null) {
+    const level = parseInt(match[1]);
+    const text = match[2].trim();
+    const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    headings.push({ id, label: text, level });
+  }
+  return headings;
+}
+
+/* ── Inject IDs into h2/h3 tags so TOC links work ── */
+function injectHeadingIds(html: string) {
+  return html.replace(/<h([23])([^>]*)>([^<]+)<\/h[23]>/gi, (_match, level, attrs, text) => {
+    const id = text.trim().toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    return `<h${level}${attrs} id="${id}">${text}</h${level}>`;
+  });
+}
+
+export default async function DocPage({ params }: PageProps) {
+  const { section, slug } = await params;
+  const orderedPages = getOrderedPages();
+
+  // API reference pages
+  if (section === "api") {
+    const group = endpointGroups.find((g) => g.tag === slug);
+    if (!group) return notFound();
+
+    const tocItems = group.endpoints.map((e) => ({
+      id: `${e.method.toLowerCase()}-${e.path.replace(/[^a-z0-9]/gi, "-")}`,
+      label: `${e.method} ${e.path}`,
+    }));
+
+    const markdown = generateGroupMarkdown(group);
+
+    const currentHref = `/docs/api/${slug}`;
+    const currentIdx = orderedPages.findIndex((p) => p.href === currentHref);
+    const prev = currentIdx > 0 ? orderedPages[currentIdx - 1] : null;
+    const next = currentIdx < orderedPages.length - 1 ? orderedPages[currentIdx + 1] : null;
+
+    return (
+      <div className="flex">
+        <div className="flex-1 min-w-0 px-6 sm:px-12 py-8 max-w-4xl">
+          <Breadcrumb
+            items={[
+              { label: "Docs", href: "/docs" },
+              { label: "API Reference", href: "/docs/api/payments" },
+              { label: group.label },
+            ]}
+          />
+          <div className="flex items-center justify-between mb-2">
+            <h1
+              className="text-4xl font-semibold"
+              style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+            >
+              {group.label}
+            </h1>
+            <CopyMarkdownButton content={markdown} />
+          </div>
+          <p className="mb-8 text-base leading-relaxed" style={{ color: "var(--text-muted)" }}>
+            {group.description}
+          </p>
+
+          <div className="mb-6 p-4 rounded-lg border" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+            <div className="flex items-center gap-2 text-sm">
+              <span style={{ color: "var(--text-muted)" }}>Base URL:</span>
+              <code
+                className="text-sm text-[#15b8a7] bg-[#15b8a7]/10 px-2 py-0.5 rounded"
+                style={{ fontFamily: "var(--font-dm-mono)" }}
+              >
+                https://blockv-labs.io
+              </code>
+            </div>
+            <div className="flex items-center gap-2 text-sm mt-2">
+              <span style={{ color: "var(--text-muted)" }}>Auth:</span>
+              <code
+                className="text-xs px-2 py-0.5 rounded"
+                style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--code-bg)", color: "var(--code-text)" }}
+              >
+                Bearer JWT
+              </code>
+              <code
+                className="text-xs px-2 py-0.5 rounded"
+                style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--code-bg)", color: "var(--code-text)" }}
+              >
+                x-api-key
+              </code>
+            </div>
+          </div>
+
+          <h2 className="text-lg font-semibold mb-4" style={{ color: "var(--text-primary)" }}>
+            Endpoints ({group.endpoints.length})
+          </h2>
+          <div className="space-y-3">
+            {group.endpoints.map((endpoint, i) => (
+              <div
+                key={i}
+                id={`${endpoint.method.toLowerCase()}-${endpoint.path.replace(/[^a-z0-9]/gi, "-")}`}
+              >
+                <EndpointCard endpoint={endpoint} />
+              </div>
+            ))}
+          </div>
+
+          {/* Prev / Next navigation */}
+          {(prev || next) && (
+            <div className="flex justify-between items-center mt-12 pt-6" style={{ borderTop: "1px solid var(--border)" }}>
+              {prev ? (
+                <Link href={prev.href} className="group flex items-center gap-2 text-sm transition-colors hover:opacity-80" style={{ color: "var(--text-secondary)" }}>
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="transition-transform group-hover:-translate-x-0.5"><path d="M10 12L6 8L10 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+                  <div className="text-right">
+                    <div className="text-xs" style={{ color: "var(--text-muted)" }}>Previous</div>
+                    <div style={{ color: "#15b8a7" }}>{prev.title}</div>
+                  </div>
+                </Link>
+              ) : <div />}
+              {next ? (
+                <Link href={next.href} className="group flex items-center gap-2 text-sm transition-colors hover:opacity-80 ml-auto" style={{ color: "var(--text-secondary)" }}>
+                  <div className="text-left">
+                    <div className="text-xs" style={{ color: "var(--text-muted)" }}>Next</div>
+                    <div style={{ color: "#15b8a7" }}>{next.title}</div>
+                  </div>
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="transition-transform group-hover:translate-x-0.5"><path d="M6 4L10 8L6 12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+                </Link>
+              ) : <div />}
+            </div>
+          )}
+        </div>
+        <TableOfContents items={tocItems} />
+      </div>
+    );
+  }
+
+  // Concept / getting-started pages
+  const pageKey = `${section}/${slug}`;
+  const page = conceptPages[pageKey];
+  if (!page) return notFound();
+
+  // Parse headings for right-side TOC
+  const headings = parseHeadings(page.content);
+  const tocItems = headings.map((h) => ({ id: h.id, label: h.label }));
+  const contentWithIds = injectHeadingIds(page.content);
+
+  // Prev/next
+  const currentHref = `/docs/${section}/${slug}`;
+  const currentIdx = orderedPages.findIndex((p) => p.href === currentHref);
+  const prev = currentIdx > 0 ? orderedPages[currentIdx - 1] : null;
+  const next = currentIdx < orderedPages.length - 1 ? orderedPages[currentIdx + 1] : null;
+
+  return (
+    <div className="flex">
+      <div className="flex-1 min-w-0 px-6 sm:px-12 py-8 max-w-4xl">
+        <Breadcrumb
+          items={[
+            { label: "Docs", href: "/docs" },
+            { label: page.sectionLabel, href: page.sectionHref },
+            { label: page.title },
+          ]}
+        />
+        <h1
+          className="text-4xl font-semibold mb-4"
+          style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+        >
+          {page.title}
+        </h1>
+        <p className="mb-8 text-base leading-relaxed" style={{ color: "var(--text-muted)" }}>
+          {page.description}
+        </p>
+        <ProseContent
+          html={contentWithIds}
+          className="prose prose-neutral max-w-none [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-medium [&_h3]:mt-6 [&_h3]:mb-3 [&_p]:leading-relaxed [&_p]:mb-4 [&_code]:text-[#15b8a7] [&_code]:bg-[#15b8a7]/10 [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:rounded [&_code]:text-sm [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-4 [&_li]:mb-1 [&_pre]:rounded-lg [&_pre]:p-4 [&_pre]:overflow-x-auto [&_a]:text-[#15b8a7] [&_a]:underline"
+          style={{ color: "var(--text-muted)" }}
+        />
+
+        {/* Prev / Next navigation */}
+        {(prev || next) && (
+          <div className="flex justify-between items-center mt-12 pt-6" style={{ borderTop: "1px solid var(--border)" }}>
+            {prev ? (
+              <Link href={prev.href} className="group flex items-center gap-2 text-sm transition-colors hover:opacity-80" style={{ color: "var(--text-secondary)" }}>
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="transition-transform group-hover:-translate-x-0.5"><path d="M10 12L6 8L10 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+                <div className="text-right">
+                  <div className="text-xs" style={{ color: "var(--text-muted)" }}>Previous</div>
+                  <div style={{ color: "#15b8a7" }}>{prev.title}</div>
+                </div>
+              </Link>
+            ) : <div />}
+            {next ? (
+              <Link href={next.href} className="group flex items-center gap-2 text-sm transition-colors hover:opacity-80 ml-auto" style={{ color: "var(--text-secondary)" }}>
+                <div className="text-left">
+                  <div className="text-xs" style={{ color: "var(--text-muted)" }}>Next</div>
+                  <div style={{ color: "#15b8a7" }}>{next.title}</div>
+                </div>
+                <svg width="16" height="16" viewBox="0 0 16 16" fill="none" className="transition-transform group-hover:translate-x-0.5"><path d="M6 4L10 8L6 12" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+              </Link>
+            ) : <div />}
+          </div>
+        )}
+      </div>
+      {tocItems.length > 0 && <TableOfContents items={tocItems} />}
+    </div>
+  );
+}
+
+export function generateStaticParams() {
+  const apiParams = endpointGroups.map((g) => ({
+    section: "api",
+    slug: g.tag,
+  }));
+
+  const conceptParams = Object.keys(conceptPages).map((key) => {
+    const [section, slug] = key.split("/");
+    return { section, slug };
+  });
+
+  return [...apiParams, ...conceptParams];
+}

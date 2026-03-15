@@ -1,1 +1,194 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHsgdGl0bGU6ICJVcGRhdGVzIOKAlCBEVUFMIERvY3MiIH07Cgp0eXBlIENoYW5nZUtpbmQgPSAiYWRkZWQiIHwgImltcHJvdmVkIiB8ICJmaXhlZCIgfCAiYnJlYWtpbmciIHwgImRlcHJlY2F0ZWQiOwoKaW50ZXJmYWNlIFJlbGVhc2UgewogIHZlcnNpb246IHN0cmluZzsKICBkYXRlOiBzdHJpbmc7CiAgc3VtbWFyeTogc3RyaW5nOwogIGNoYW5nZXM6IHsga2luZDogQ2hhbmdlS2luZDsgdGV4dDogc3RyaW5nIH1bXTsKfQoKY29uc3Qga2luZEJhZGdlOiBSZWNvcmQ8Q2hhbmdlS2luZCwgeyBiZzogc3RyaW5nOyB0ZXh0OiBzdHJpbmc7IGxhYmVsOiBzdHJpbmcgfT4gPSB7CiAgYWRkZWQ6ICAgICAgeyBiZzogImJnLWVtZXJhbGQtNTAiLCB0ZXh0OiAidGV4dC1lbWVyYWxkLTcwMCIsIGxhYmVsOiAiTmV3IiB9LAogIGltcHJvdmVkOiAgIHsgYmc6ICJiZy1ibHVlLTUwIiwgICAgdGV4dDogInRleHQtYmx1ZS03MDAiLCAgICBsYWJlbDogIkltcHJvdmVkIiB9LAogIGZpeGVkOiAgICAgIHsgYmc6ICJiZy1hbWJlci01MCIsICAgdGV4dDogInRleHQtYW1iZXItNzAwIiwgICBsYWJlbDogIkZpeGVkIiB9LAogIGJyZWFraW5nOiAgIHsgYmc6ICJiZy1yZWQtNTAiLCAgICAgdGV4dDogInRleHQtcmVkLTcwMCIsICAgICBsYWJlbDogIkJyZWFraW5nIiB9LAogIGRlcHJlY2F0ZWQ6IHsgYmc6ICJiZy1ncmF5LTEwMCIsICAgdGV4dDogInRleHQtZ3JheS02MDAiLCAgICBsYWJlbDogIkRlcHJlY2F0ZWQiIH0sCn07Cgpjb25zdCByZWxlYXNlczogUmVsZWFzZVtdID0gWwogIHsKICAgIHZlcnNpb246ICJ2My4yLjAiLAogICAgZGF0ZTogIk1hcmNoIDEwLCAyMDI2IiwKICAgIHN1bW1hcnk6ICJCYXRjaCBhY3Rpb25zLCB3ZWJob29rIHRlc3RpbmcsIGFuZCB0ZW1wbGF0ZSB2YXJpYXRpb25zIOKAlCB0aGlzIHJlbGVhc2UgZm9jdXNlcyBvbiBkZXZlbG9wZXIgcHJvZHVjdGl2aXR5IGFuZCB0aHJvdWdocHV0LiIsCiAgICBjaGFuZ2VzOiBbCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIkJhdGNoIGFjdGlvbiBleGVjdXRpb24gZW5kcG9pbnQgKFBPU1QgL2FjdGlvbnMvYmF0Y2gpIOKAlCBzdWJtaXQgdXAgdG8gMTAwIGFjdGlvbnMgaW4gYSBzaW5nbGUgcmVxdWVzdCBmb3IgMTB4IHRocm91Z2hwdXQuIiB9LAogICAgICB7IGtpbmQ6ICJhZGRlZCIsIHRleHQ6ICJXZWJob29rIHRlc3QgZW5kcG9pbnQgKFBPU1QgL3dlYmhvb2tzL3tpZH0vdGVzdCkg4oCUIHZhbGlkYXRlIGNvbm5lY3Rpdml0eSBhbmQgaW5zcGVjdCBwYXlsb2FkIGZvcm1hdCB3aXRob3V0IHRyaWdnZXJpbmcgcmVhbCBldmVudHMuIiB9LAogICAgICB7IGtpbmQ6ICJhZGRlZCIsIHRleHQ6ICJUZW1wbGF0ZSB2YXJpYXRpb25zIOKAlCBjcmVhdGUgZGVyaXZlZCB0ZW1wbGF0ZXMgdGhhdCBpbmhlcml0IGJhc2UgZmllbGRzIHdoaWxlIG92ZXJyaWRpbmcgc3BlY2lmaWMgcHJvcGVydGllcy4iIH0sCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIlB1YmxpYyBzdGF0cyBlbmRwb2ludCAoR0VUIC9pbmRleGVyL3N0YXRzKSDigJQgcGxhdGZvcm0td2lkZSBtZXRyaWNzIGluY2x1ZGluZyB0b3RhbCBvYmplY3RzLCBhY3RpdmUgdGVtcGxhdGVzLCBhbmQgc2VxdWVuY2VyIHRocm91Z2hwdXQuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJBY3Rpb24gcXVldWUgdGhyb3VnaHB1dCBpbmNyZWFzZWQgZnJvbSA1MDAgdG8gMiwwMDAgYWN0aW9ucy9zZWNvbmQgcGVyIG9yZ2FuaXphdGlvbi4iIH0sCiAgICAgIHsga2luZDogImZpeGVkIiwgdGV4dDogIkZpeGVkIHJhY2UgY29uZGl0aW9uIGluIGNvbmN1cnJlbnQgb2JqZWN0IHN0YXRlIHRyYW5zaXRpb25zIHRoYXQgY291bGQgY2F1c2Ugc3RhbGUgcmVhZHMgZm9yIDIwMG1zIGFmdGVyIGEgd3JpdGUuIiB9LAogICAgXSwKICB9LAogIHsKICAgIHZlcnNpb246ICJ2My4xLjAiLAogICAgZGF0ZTogIkZlYnJ1YXJ5IDE1LCAyMDI2IiwKICAgIHN1bW1hcnk6ICJTREsgaW1wcm92ZW1lbnRzLCBuZXcgaW5kZXhlciBmaWx0ZXJzLCBhbmQgYmF0Y2ggYWN0aW9uIGVuaGFuY2VtZW50cy4iLAogICAgY2hhbmdlczogWwogICAgICB7IGtpbmQ6ICJhZGRlZCIsIHRleHQ6ICJUeXBlU2NyaXB0IFNESyB2Mi4wIHdpdGggZnVsbCB0eXBlIGNvdmVyYWdlIGZvciBhbGwgMTAyIGVuZHBvaW50cy4iIH0sCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIkdlby1yYWRpdXMgc2VhcmNoIGZpbHRlciBmb3Igb2JqZWN0cyB3aXRoIGxvY2F0aW9uIHByb3BlcnRpZXMuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJCYXRjaCBhY3Rpb24gZW5kcG9pbnQgbm93IHN1cHBvcnRzIHVwIHRvIDUwMCBhY3Rpb25zIHBlciByZXF1ZXN0IChwcmV2aW91c2x5IDEwMCkuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJXZWJob29rIHJldHJ5IGxvZ2ljIHdpdGggZXhwb25lbnRpYWwgYmFja29mZiDigJQgZmFpbGVkIGRlbGl2ZXJpZXMgcmV0cnkgdXAgdG8gNSB0aW1lcy4iIH0sCiAgICAgIHsga2luZDogImZpeGVkIiwgdGV4dDogIk9iamVjdCB0cmFuc2ZlciBldmVudHMgbm93IGNvcnJlY3RseSBmaXJlIHdlYmhvb2tzIGZvciBib3RoIHNlbmRlciBhbmQgcmVjZWl2ZXIgb3Jncy4iIH0sCiAgICAgIHsga2luZDogImRlcHJlY2F0ZWQiLCB0ZXh0OiAiTGVnYWN5IC92Mi9vYmplY3RzIGVuZHBvaW50IHdpbGwgYmUgcmVtb3ZlZCBpbiB2NC4wLiBVc2UgL29iamVjdHMgd2l0aCBBUEkgdmVyc2lvbiBoZWFkZXIgaW5zdGVhZC4iIH0sCiAgICBdLAogIH0sCiAgewogICAgdmVyc2lvbjogInYzLjAuMCIsCiAgICBkYXRlOiAiSmFudWFyeSA4LCAyMDI2IiwKICAgIHN1bW1hcnk6ICJNYWpvciByZWxlYXNlOiBuZXcgYXV0aGVudGljYXRpb24gbW9kZWwsIHRlbXBsYXRlIHZlcnNpb25pbmcsIGFuZCBFdmVudCBCdXMgcmVkZXNpZ24uIiwKICAgIGNoYW5nZXM6IFsKICAgICAgeyBraW5kOiAiYWRkZWQiLCB0ZXh0OiAiRUlQLTcxMiB0eXBlZCBkYXRhIHNpZ25hdHVyZXMgZm9yIGFsbCBtdXRhdGlvbiByZXF1ZXN0cy4iIH0sCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIlRlbXBsYXRlIHZlcnNpb25pbmcg4oCUIHRlbXBsYXRlcyBub3cgc3VwcG9ydCBzZW12ZXIgbmFtaW5nIChlLmcuLCBteS1vcmc6OmFzc2V0Ojp2MikuIiB9LAogICAgICB7IGtpbmQ6ICJhZGRlZCIsIHRleHQ6ICJTZXF1ZW5jZXIgY2hlY2twb2ludHMgd2l0aCBvbi1jaGFpbiBhbmNob3JpbmcgZXZlcnkgMTUgbWludXRlcy4iIH0sCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIlJvbGUtYmFzZWQgYWNjZXNzIGNvbnRyb2wgd2l0aCBjdXN0b20gcGVybWlzc2lvbiBzZXRzIHBlciBvcmdhbml6YXRpb24uIiB9LAogICAgICB7IGtpbmQ6ICJicmVha2luZyIsIHRleHQ6ICJBdXRoIGhlYWRlciBjaGFuZ2VkIGZyb20gWC1BcGktS2V5IHRvIHN0YW5kYXJkIEF1dGhvcml6YXRpb246IEJlYXJlciBmb3JtYXQuIE1pZ3JhdGlvbjogUmVwbGFjZSBhbGwgWC1BcGktS2V5IGhlYWRlcnMgd2l0aCBBdXRob3JpemF0aW9uOiBCZWFyZXIgPHRva2VuPi4gQVBJIGtleXMgYXJlIG5vdyBwYXNzZWQgYXMgQmVhcmVyIHRva2Vucy4iIH0sCiAgICAgIHsga2luZDogImJyZWFraW5nIiwgdGV4dDogIlRlbXBsYXRlIHByb3BlcnRpZXMgZmllbGQgcmVuYW1lZCBmcm9tICdhdHRycycgdG8gJ3Byb3BlcnRpZXMnLiBNaWdyYXRpb246IFVwZGF0ZSBhbGwgdGVtcGxhdGUgY3JlYXRpb24gYW5kIHVwZGF0ZSBwYXlsb2Fkcy4gRXhpc3RpbmcgdGVtcGxhdGVzIGFyZSBhdXRvLW1pZ3JhdGVkLCBidXQgY2xpZW50IGNvZGUgbXVzdCB1c2UgdGhlIG5ldyBmaWVsZCBuYW1lLiIgfSwKICAgICAgeyBraW5kOiAiYnJlYWtpbmciLCB0ZXh0OiAiRXZlbnQgQnVzIGVuZHBvaW50IG1vdmVkIGZyb20gL2FjdGlvbnMgdG8gL2VidXMvYWN0aW9ucy4gTWlncmF0aW9uOiBVcGRhdGUgYWxsIGFjdGlvbiBleGVjdXRpb24gY2FsbHMuIFRoZSBvbGQgL2FjdGlvbnMgZW5kcG9pbnQgcmV0dXJucyAzMDEgcmVkaXJlY3RzIGZvciA5MCBkYXlzLiIgfSwKICAgICAgeyBraW5kOiAiYnJlYWtpbmciLCB0ZXh0OiAiT2JqZWN0IHJlc3BvbnNlIHNoYXBlIGNoYW5nZWQg4oCUICd2QXRvbScgd3JhcHBlciByZW1vdmVkLCBwcm9wZXJ0aWVzIG5vdyBhdCB0b3AgbGV2ZWwuIE1pZ3JhdGlvbjogUmVtb3ZlIC52QXRvbSBhY2Nlc3NvciBmcm9tIHJlc3BvbnNlIHBhcnNpbmcuIFNESyB2Mi4wKyBoYW5kbGVzIHRoaXMgYXV0b21hdGljYWxseS4iIH0sCiAgICAgIHsga2luZDogImZpeGVkIiwgdGV4dDogIlJhY2UgY29uZGl0aW9uIGluIGNvbmN1cnJlbnQgb2JqZWN0IHRyYW5zZmVycyByZXNvbHZlZCB3aXRoIG9wdGltaXN0aWMgbG9ja2luZy4iIH0sCiAgICAgIHsga2luZDogImltcHJvdmVkIiwgdGV4dDogIkFQSSByZXNwb25zZSB0aW1lcyByZWR1Y2VkIGJ5IDQwJSB0aHJvdWdoIHF1ZXJ5IG9wdGltaXNhdGlvbiBhbmQgY29ubmVjdGlvbiBwb29saW5nLiIgfSwKICAgIF0sCiAgfSwKICB7CiAgICB2ZXJzaW9uOiAidjIuNC4xIiwKICAgIGRhdGU6ICJEZWNlbWJlciAxMiwgMjAyNSIsCiAgICBzdW1tYXJ5OiAiU2VjdXJpdHkgcGF0Y2ggYW5kIG1pbm9yIGltcHJvdmVtZW50cyBiZWZvcmUgdGhlIHYzIG1pZ3JhdGlvbi4iLAogICAgY2hhbmdlczogWwogICAgICB7IGtpbmQ6ICJmaXhlZCIsIHRleHQ6ICJQYXRjaGVkIEpXVCB2YWxpZGF0aW9uIHRvIHJlamVjdCB0b2tlbnMgd2l0aCBhbGdvcml0aG06IG5vbmUg4oCUIENWRS0yMDI1LURVQUwtMDAxLiIgfSwKICAgICAgeyBraW5kOiAiZml4ZWQiLCB0ZXh0OiAiU3RvcmFnZSB1cGxvYWQgZW5kcG9pbnQgbm93IGVuZm9yY2VzIENvbnRlbnQtTGVuZ3RoIGxpbWl0cyBiZWZvcmUgYnVmZmVyaW5nIHRoZSBmdWxsIGJvZHkuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJSYXRlIGxpbWl0ZXIgbm93IHJldHVybnMgUmV0cnktQWZ0ZXIgaGVhZGVyIHdpdGggdGhlIGV4YWN0IHJlc2V0IHRpbWVzdGFtcC4iIH0sCiAgICBdLAogIH0sCiAgewogICAgdmVyc2lvbjogInYyLjQuMCIsCiAgICBkYXRlOiAiTm92ZW1iZXIgMjAsIDIwMjUiLAogICAgc3VtbWFyeTogIldlYmhvb2tzIHYyLCBpbXByb3ZlZCBzZWFyY2gsIGFuZCBub3RpZmljYXRpb24gY2hhbm5lbHMuIiwKICAgIGNoYW5nZXM6IFsKICAgICAgeyBraW5kOiAiYWRkZWQiLCB0ZXh0OiAiV2ViaG9va3MgdjIgd2l0aCBITUFDLVNIQTI1NiBzaWduYXR1cmUgdmVyaWZpY2F0aW9uIOKAlCBldmVyeSBkZWxpdmVyeSBpbmNsdWRlcyBhbiBYLUR1YWwtU2lnbmF0dXJlIGhlYWRlci4iIH0sCiAgICAgIHsga2luZDogImFkZGVkIiwgdGV4dDogIk5vdGlmaWNhdGlvbiBjaGFubmVscyDigJQgcm91dGUgYWxlcnRzIHRvIGVtYWlsLCB3ZWJob29rLCBvciBpbi1hcHAgYmFzZWQgb24gZXZlbnQgdHlwZSBhbmQgc2V2ZXJpdHkuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJPYmplY3Qgc2VhcmNoIG5vdyBzdXBwb3J0cyBmdWxsLXRleHQgcXVlcmllcyBhY3Jvc3MgbWV0YWRhdGEgZmllbGRzIHdpdGggcmVsZXZhbmNlIHNjb3JpbmcuIiB9LAogICAgICB7IGtpbmQ6ICJpbXByb3ZlZCIsIHRleHQ6ICJEYXNoYm9hcmQgQVBJIGtleSBtYW5hZ2VtZW50IOKAlCByb3RhdGUga2V5cyB3aXRoIHplcm8tZG93bnRpbWUgZ3JhY2UgcGVyaW9kIChvbGQga2V5IHZhbGlkIGZvciA1IG1pbnV0ZXMgYWZ0ZXIgcm90YXRpb24pLiIgfSwKICAgIF0sCiAgfSwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIFVwZGF0ZXNQYWdlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctM3hsIG14LWF1dG8gcHgtOCBweS0xMiI+CiAgICAgIHsvKiBCcmVhZGNydW1iICovfQogICAgICA8bmF2CiAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIHRleHQtWyMxNDBlMWNdLzQwIG1iLTYiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19CiAgICAgID4KICAgICAgICA8TGluayBocmVmPSIvZG9jcyIgY2xhc3NOYW1lPSJob3Zlcjp0ZXh0LVsjMTQwZTFjXS83MCB0cmFuc2l0aW9uLWNvbG9ycyI+RG9jczwvTGluaz4KICAgICAgICA8c3Bhbj7igLo8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsjMTQwZTFjXS83MCI+VXBkYXRlczwvc3Bhbj4KICAgICAgPC9uYXY+CgogICAgICA8aDEKICAgICAgICBjbGFzc05hbWU9InRleHQtM3hsIGZvbnQtYm9sZCB0ZXh0LVsjMTQwZTFjXSBtYi0zIgogICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIgfX0KICAgICAgPgogICAgICAgIFVwZGF0ZXMKICAgICAgPC9oMT4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVsjMTQwZTFjXS81MCBtYi0xMCBsZWFkaW5nLXJlbGF4ZWQgbWF4LXcteGwiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiB9fT4KICAgICAgICBDaGFuZ2Vsb2cgYW5kIHJlbGVhc2Ugbm90ZXMgZm9yIHRoZSBEVUFMIHBsYXRmb3JtIGFuZCBBUEkuIFN1YnNjcmliZSB0byB0aGUKICAgICAgICB7IiAifTxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9yby1yby1iL2R1YWwtc2RrIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub29wZW5lciBub3JlZmVycmVyIiBjbGFzc05hbWU9InRleHQtWyMxNWI4YTddIGhvdmVyOnVuZGVybGluZSI+R2l0SHViIHJlcG9zaXRvcnk8L2E+eyIgIn0KICAgICAgICBmb3IgcmVhbC10aW1lIG5vdGlmaWNhdGlvbnMuCiAgICAgIDwvcD4KCiAgICAgIHsvKiBUaW1lbGluZSAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgICB7LyogVmVydGljYWwgbGluZSAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgbGVmdC1bMTFweF0gdG9wLTYgYm90dG9tLTYgdy1weCBiZy1ncmFkaWVudC10by1iIGZyb20tWyMxNWI4YTddLzQwIHZpYS1bIzE1YjhhN10vMjAgdG8tdHJhbnNwYXJlbnQiIC8+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTgiPgogICAgICAgICAge3JlbGVhc2VzLm1hcCgocmVsZWFzZSwgaSkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17cmVsZWFzZS52ZXJzaW9ufSBjbGFzc05hbWU9InJlbGF0aXZlIHBsLTEwIj4KICAgICAgICAgICAgICB7LyogRG90ICovfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgYWJzb2x1dGUgbGVmdC0wIHRvcC1bMjJweF0gdy1bMjNweF0gaC1bMjNweF0gcm91bmRlZC1mdWxsIGJvcmRlci0yICR7CiAgICAgICAgICAgICAgICBpID09PSAwID8gImJvcmRlci1bIzE1YjhhN10gYmctWyMxNWI4YTddLzEwIiA6ICJib3JkZXItWyMxNDBlMWNdLzE1IGJnLXdoaXRlIgogICAgICAgICAgICAgIH0gZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXJgfT4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgdy0yIGgtMiByb3VuZGVkLWZ1bGwgJHtpID09PSAwID8gImJnLVsjMTViOGE3XSIgOiAiYmctWyMxNDBlMWNdLzIwIn1gfSAvPgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci1ibGFjay9bMC4wNl0gcm91bmRlZC1sZyBwLTUgYmctd2hpdGUiPgogICAgICAgICAgICAgICAgey8qIEhlYWRlciAqL30KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0yIj4KICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtc20gZm9udC1ib2xkIHRleHQtWyMxNWI4YTddIHB4LTIuNSBweS0wLjUgYmctWyMxNWI4YTddLzEwIHJvdW5kZWQiCiAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiIH19CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICB7cmVsZWFzZS52ZXJzaW9ufQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LVsjMTQwZTFjXS80MCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgICAgICAgICAgIHtyZWxlYXNlLmRhdGV9CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAge2kgPT09IDAgJiYgKAogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gZm9udC1ib2xkIHRyYWNraW5nLXdpZGVyIHVwcGVyY2FzZSB0ZXh0LXdoaXRlIGJnLVsjMTViOGE3XSBweC0yIHB5LTAuNSByb3VuZGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICBMYXRlc3QKICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICB7LyogU3VtbWFyeSAqL30KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LVsjMTQwZTFjXS82MCBtYi00IGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgICAgICAgICB7cmVsZWFzZS5zdW1tYXJ5fQogICAgICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgICAgIHsvKiBDaGFuZ2VzICovfQogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgICAgICAgIHtyZWxlYXNlLmNoYW5nZXMubWFwKChjaGFuZ2UsIGopID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBiYWRnZSA9IGtpbmRCYWRnZVtjaGFuZ2Uua2luZF07CiAgICAgICAgICAgICAgICAgICAgY29uc3QgaXNCcmVha2lubmdDaGFuZ2UgPSBjaGFuZ2Uua2luZCA9PT0gImJyZWFraW5nIjsKICAgICAgICAgICAgICAgICAgICBjb25zdCBtaWdyYXRpb25NYXRjaCA9IGNoYW5nZS50ZXh0Lm1hdGNoKC9NaWdyYXRpb246XHMqKC4rPykoPz1ccyokKS8pOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICAgICAgPGRpdiBrZXk9e2p9IGNsYXNzTmFtZT17YGZsZXggaXRlbXMtc3RhcnQgZ2FwLTIuNSAke2lzQnJlYWtpbm5nQ2hhbmdlID8gInAtMyByb3VuZGVkLW1kIGJvcmRlciBib3JkZXItcmVkLTIwMCBiZy1yZWQtNTAvNTAiIDogIiJ9YH0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgc2hyaW5rLTAgbXQtMC41IHRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciBweC0xLjUgcHktMC41IHJvdW5kZWQgJHtiYWRnZS5iZ30gJHtiYWRnZS50ZXh0fWB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBtaW5XaWR0aDogIjU2cHgiLCB0ZXh0QWxpZ246ICJjZW50ZXIiIH19CiAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICB7YmFkZ2UubGFiZWx9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtWyMxNDBlMWNdLzcwIGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAge2lzQnJlYWtpbm5nQ2hhbmdlICYmIG1pZ3JhdGlvbk1hdGNoID8gY2hhbmdlLnRleHQuc3BsaXQoIk1pZ3JhdGlvbjoiKVswXS50cmltKCkgOiBjaGFuZ2UudGV4dH0KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAge21pZ3JhdGlvbk1hdGNoICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0yIHB0LTIgYm9yZGVyLXQgYm9yZGVyLXJlZC0yMDAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgZm9udC1zZW1pYm9sZCB0ZXh0LXJlZC03MDAgbWItMSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1pZ3JhdGlvbiBSZXF1aXJlZDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1yZWQtNjAwIGxlYWRpbmctcmVsYXhlZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHttaWdyYXRpb25NYXRjaFsxXX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICB9KX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import Link from "next/link";
+
+export const metadata = { title: "Updates — DUAL Docs" };
+
+type ChangeKind = "added" | "improved" | "fixed" | "breaking" | "deprecated";
+
+interface Release {
+  version: string;
+  date: string;
+  summary: string;
+  changes: { kind: ChangeKind; text: string }[];
+}
+
+const kindBadge: Record<ChangeKind, { bg: string; text: string; label: string }> = {
+  added:      { bg: "bg-emerald-50", text: "text-emerald-700", label: "New" },
+  improved:   { bg: "bg-blue-50",    text: "text-blue-700",    label: "Improved" },
+  fixed:      { bg: "bg-amber-50",   text: "text-amber-700",   label: "Fixed" },
+  breaking:   { bg: "bg-red-50",     text: "text-red-700",     label: "Breaking" },
+  deprecated: { bg: "bg-gray-100",   text: "text-gray-600",    label: "Deprecated" },
+};
+
+const releases: Release[] = [
+  {
+    version: "v3.2.0",
+    date: "March 10, 2026",
+    summary: "Batch actions, webhook testing, and template variations — this release focuses on developer productivity and throughput.",
+    changes: [
+      { kind: "added", text: "Batch action execution endpoint (POST /actions/batch) — submit up to 100 actions in a single request for 10x throughput." },
+      { kind: "added", text: "Webhook test endpoint (POST /webhooks/{id}/test) — validate connectivity and inspect payload format without triggering real events." },
+      { kind: "added", text: "Template variations — create derived templates that inherit base fields while overriding specific properties." },
+      { kind: "added", text: "Public stats endpoint (GET /indexer/stats) — platform-wide metrics including total objects, active templates, and sequencer throughput." },
+      { kind: "improved", text: "Action queue throughput increased from 500 to 2,000 actions/second per organization." },
+      { kind: "fixed", text: "Fixed race condition in concurrent object state transitions that could cause stale reads for 200ms after a write." },
+    ],
+  },
+  {
+    version: "v3.1.0",
+    date: "February 15, 2026",
+    summary: "SDK improvements, new indexer filters, and batch action enhancements.",
+    changes: [
+      { kind: "added", text: "TypeScript SDK v2.0 with full type coverage for all 102 endpoints." },
+      { kind: "added", text: "Geo-radius search filter for objects with location properties." },
+      { kind: "improved", text: "Batch action endpoint now supports up to 500 actions per request (previously 100)." },
+      { kind: "improved", text: "Webhook retry logic with exponential backoff — failed deliveries retry up to 5 times." },
+      { kind: "fixed", text: "Object transfer events now correctly fire webhooks for both sender and receiver orgs." },
+      { kind: "deprecated", text: "Legacy /v2/objects endpoint will be removed in v4.0. Use /objects with API version header instead." },
+    ],
+  },
+  {
+    version: "v3.0.0",
+    date: "January 8, 2026",
+    summary: "Major release: new authentication model, template versioning, and Event Bus redesign.",
+    changes: [
+      { kind: "added", text: "EIP-712 typed data signatures for all mutation requests." },
+      { kind: "added", text: "Template versioning — templates now support semver naming (e.g., my-org::asset::v2)." },
+      { kind: "added", text: "Sequencer checkpoints with on-chain anchoring every 15 minutes." },
+      { kind: "added", text: "Role-based access control with custom permission sets per organization." },
+      { kind: "breaking", text: "Auth header changed from X-Api-Key to standard Authorization: Bearer format. Migration: Replace all X-Api-Key headers with Authorization: Bearer <token>. API keys are now passed as Bearer tokens." },
+      { kind: "breaking", text: "Template properties field renamed from 'attrs' to 'properties'. Migration: Update all template creation and update payloads. Existing templates are auto-migrated, but client code must use the new field name." },
+      { kind: "breaking", text: "Event Bus endpoint moved from /actions to /ebus/actions. Migration: Update all action execution calls. The old /actions endpoint returns 301 redirects for 90 days." },
+      { kind: "breaking", text: "Object response shape changed — 'vAtom' wrapper removed, properties now at top level. Migration: Remove .vAtom accessor from response parsing. SDK v2.0+ handles this automatically." },
+      { kind: "fixed", text: "Race condition in concurrent object transfers resolved with optimistic locking." },
+      { kind: "improved", text: "API response times reduced by 40% through query optimisation and connection pooling." },
+    ],
+  },
+  {
+    version: "v2.4.1",
+    date: "December 12, 2025",
+    summary: "Security patch and minor improvements before the v3 migration.",
+    changes: [
+      { kind: "fixed", text: "Patched JWT validation to reject tokens with algorithm: none — CVE-2025-DUAL-001." },
+      { kind: "fixed", text: "Storage upload endpoint now enforces Content-Length limits before buffering the full body." },
+      { kind: "improved", text: "Rate limiter now returns Retry-After header with the exact reset timestamp." },
+    ],
+  },
+  {
+    version: "v2.4.0",
+    date: "November 20, 2025",
+    summary: "Webhooks v2, improved search, and notification channels.",
+    changes: [
+      { kind: "added", text: "Webhooks v2 with HMAC-SHA256 signature verification — every delivery includes an X-Dual-Signature header." },
+      { kind: "added", text: "Notification channels — route alerts to email, webhook, or in-app based on event type and severity." },
+      { kind: "improved", text: "Object search now supports full-text queries across metadata fields with relevance scoring." },
+      { kind: "improved", text: "Dashboard API key management — rotate keys with zero-downtime grace period (old key valid for 5 minutes after rotation)." },
+    ],
+  },
+];
+
+export default function UpdatesPage() {
+  return (
+    <div className="max-w-3xl mx-auto px-8 py-12">
+      {/* Breadcrumb */}
+      <nav
+        className="flex items-center gap-2 text-sm text-[#140e1c]/40 mb-6"
+        style={{ fontFamily: "var(--font-satoshi)" }}
+      >
+        <Link href="/docs" className="hover:text-[#140e1c]/70 transition-colors">Docs</Link>
+        <span>›</span>
+        <span className="text-[#140e1c]/70">Updates</span>
+      </nav>
+
+      <h1
+        className="text-3xl font-bold text-[#140e1c] mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)" }}
+      >
+        Updates
+      </h1>
+      <p className="text-[#140e1c]/50 mb-10 leading-relaxed max-w-xl" style={{ fontFamily: "var(--font-satoshi)" }}>
+        Changelog and release notes for the DUAL platform and API. Subscribe to the
+        {" "}<a href="https://github.com/ro-ro-b/dual-sdk" target="_blank" rel="noopener noreferrer" className="text-[#15b8a7] hover:underline">GitHub repository</a>{" "}
+        for real-time notifications.
+      </p>
+
+      {/* Timeline */}
+      <div className="relative">
+        {/* Vertical line */}
+        <div className="absolute left-[11px] top-6 bottom-6 w-px bg-gradient-to-b from-[#15b8a7]/40 via-[#15b8a7]/20 to-transparent" />
+
+        <div className="space-y-8">
+          {releases.map((release, i) => (
+            <div key={release.version} className="relative pl-10">
+              {/* Dot */}
+              <div className={`absolute left-0 top-[22px] w-[23px] h-[23px] rounded-full border-2 ${
+                i === 0 ? "border-[#15b8a7] bg-[#15b8a7]/10" : "border-[#140e1c]/15 bg-white"
+              } flex items-center justify-center`}>
+                <div className={`w-2 h-2 rounded-full ${i === 0 ? "bg-[#15b8a7]" : "bg-[#140e1c]/20"}`} />
+              </div>
+
+              <div className="border border-black/[0.06] rounded-lg p-5 bg-white">
+                {/* Header */}
+                <div className="flex items-center gap-3 mb-2">
+                  <span
+                    className="text-sm font-bold text-[#15b8a7] px-2.5 py-0.5 bg-[#15b8a7]/10 rounded"
+                    style={{ fontFamily: "var(--font-dm-mono)" }}
+                  >
+                    {release.version}
+                  </span>
+                  <span className="text-xs text-[#140e1c]/40" style={{ fontFamily: "var(--font-satoshi)" }}>
+                    {release.date}
+                  </span>
+                  {i === 0 && (
+                    <span className="text-[10px] font-bold tracking-wider uppercase text-white bg-[#15b8a7] px-2 py-0.5 rounded" style={{ fontFamily: "var(--font-satoshi)" }}>
+                      Latest
+                    </span>
+                  )}
+                </div>
+
+                {/* Summary */}
+                <p className="text-sm text-[#140e1c]/60 mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)" }}>
+                  {release.summary}
+                </p>
+
+                {/* Changes */}
+                <div className="space-y-3">
+                  {release.changes.map((change, j) => {
+                    const badge = kindBadge[change.kind];
+                    const isBreakinngChange = change.kind === "breaking";
+                    const migrationMatch = change.text.match(/Migration:\s*(.+?)(?=\s*$)/);
+
+                    return (
+                      <div key={j} className={`flex items-start gap-2.5 ${isBreakinngChange ? "p-3 rounded-md border border-red-200 bg-red-50/50" : ""}`}>
+                        <span
+                          className={`shrink-0 mt-0.5 text-[10px] font-bold tracking-wider px-1.5 py-0.5 rounded ${badge.bg} ${badge.text}`}
+                          style={{ fontFamily: "var(--font-dm-mono)", minWidth: "56px", textAlign: "center" }}
+                        >
+                          {badge.label}
+                        </span>
+                        <div className="flex-1">
+                          <span className="text-sm text-[#140e1c]/70 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)" }}>
+                            {isBreakinngChange && migrationMatch ? change.text.split("Migration:")[0].trim() : change.text}
+                          </span>
+                          {migrationMatch && (
+                            <div className="mt-2 pt-2 border-t border-red-200">
+                              <p className="text-xs font-semibold text-red-700 mb-1" style={{ fontFamily: "var(--font-satoshi)" }}>
+                                Migration Required:
+                              </p>
+                              <p className="text-xs text-red-600 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)" }}>
+                                {migrationMatch[1]}
+                              </p>
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}

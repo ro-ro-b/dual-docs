@@ -1,1 +1,161 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEJyZWFkY3J1bWIgZnJvbSAiQC9jb21wb25lbnRzL0JyZWFkY3J1bWIiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhID0geyB0aXRsZTogIk9wZW5BUEkgUmVmZXJlbmNlIOKAlCBEVUFMIERvY3MiIH07Cgpjb25zdCBzdGF0cyA9IFsKICB7IGxhYmVsOiAiUGF0aHMiLCB2YWx1ZTogIjcwIiB9LAogIHsgbGFiZWw6ICJPcGVyYXRpb25zIiwgdmFsdWU6ICIxMDAiIH0sCiAgeyBsYWJlbDogIlRhZ3MiLCB2YWx1ZTogIjE0IiB9LAogIHsgbGFiZWw6ICJTcGVjIFZlcnNpb24iLCB2YWx1ZTogIjMuMS4wIiB9LApdOwoKY29uc3QgdGFncyA9IFsKICB7IG5hbWU6ICJXYWxsZXRzIiwgb3BzOiAxMCwgZGVzYzogIlVzZXIgYXV0aGVudGljYXRpb24sIHJlZ2lzdHJhdGlvbiwgcHJvZmlsZSBtYW5hZ2VtZW50IiB9LAogIHsgbmFtZTogIlRlbXBsYXRlcyIsIG9wczogNywgZGVzYzogIlRlbXBsYXRlIENSVUQsIHNlYXJjaCwgdmFyaWF0aW9ucyIgfSwKICB7IG5hbWU6ICJPYmplY3RzIiwgb3BzOiA5LCBkZXNjOiAiRGlnaXRhbCBvYmplY3QgbGlmZWN5Y2xlIG1hbmFnZW1lbnQiIH0sCiAgeyBuYW1lOiAiUGF5bWVudHMiLCBvcHM6IDYsIGRlc2M6ICJQYXltZW50IHByb2Nlc3NpbmcgYW5kIHN1YnNjcmlwdGlvbnMiIH0sCiAgeyBuYW1lOiAiT3JnYW5pemF0aW9ucyIsIG9wczogMTAsIGRlc2M6ICJNdWx0aS10ZW5hbnQgb3JnYW5pemF0aW9uIG1hbmFnZW1lbnQiIH0sCiAgeyBuYW1lOiAiU3RvcmFnZSIsIG9wczogNiwgZGVzYzogIkZpbGUgdXBsb2FkLCBkb3dubG9hZCwgYW5kIG1hbmFnZW1lbnQiIH0sCiAgeyBuYW1lOiAiV2ViaG9va3MiLCBvcHM6IDcsIGRlc2M6ICJFdmVudCBub3RpZmljYXRpb24gZGVsaXZlcnkiIH0sCiAgeyBuYW1lOiAiTm90aWZpY2F0aW9ucyIsIG9wczogNSwgZGVzYzogIlB1c2ggbm90aWZpY2F0aW9uIG1hbmFnZW1lbnQiIH0sCiAgeyBuYW1lOiAiRXZlbnQgQnVzIiwgb3BzOiA4LCBkZXNjOiAiQWN0aW9uIGV4ZWN1dGlvbiBhbmQgZXZlbnQgc3RyZWFtaW5nIiB9LAogIHsgbmFtZTogIkZhY2VzIiwgb3BzOiA1LCBkZXNjOiAiVmlzdWFsIGZhY2UgcmVnaXN0cmF0aW9uIGFuZCByZW5kZXJpbmciIH0sCiAgeyBuYW1lOiAiU2VxdWVuY2VyIiwgb3BzOiA1LCBkZXNjOiAiVHJhbnNhY3Rpb24gb3JkZXJpbmcgYW5kIGNoZWNrcG9pbnRpbmciIH0sCiAgeyBuYW1lOiAiUHVibGljIEFQSSIsIG9wczogNSwgZGVzYzogIlB1YmxpYyBpbmRleGVyIGFuZCBzdGF0aXN0aWNzIiB9LAogIHsgbmFtZTogIkFQSSBLZXlzIiwgb3BzOiA1LCBkZXNjOiAiS2V5IG1hbmFnZW1lbnQgYW5kIHJvdGF0aW9uIiB9LAogIHsgbmFtZTogIlN1cHBvcnQiLCBvcHM6IDQsIGRlc2M6ICJTdXBwb3J0IHRpY2tldCBtYW5hZ2VtZW50IiB9LApdOwoKY29uc3QgY29kZUdlbkV4YW1wbGVzID0gWwogIHsgbGFuZzogIlR5cGVTY3JpcHQiLCBjbWQ6ICJucHggQG9wZW5hcGl0b29scy9vcGVuYXBpLWdlbmVyYXRvci1jbGkgZ2VuZXJhdGUgLWkgb3BlbmFwaS5qc29uIC1nIHR5cGVzY3JpcHQtZmV0Y2ggLW8gLi9zZGsiIH0sCiAgeyBsYW5nOiAiUHl0aG9uIiwgY21kOiAibnB4IEBvcGVuYXBpdG9vbHMvb3BlbmFwaS1nZW5lcmF0b3ItY2xpIGdlbmVyYXRlIC1pIG9wZW5hcGkuanNvbiAtZyBweXRob24gLW8gLi9zZGstcHl0aG9uIiB9LAogIHsgbGFuZzogIkdvIiwgY21kOiAibnB4IEBvcGVuYXBpdG9vbHMvb3BlbmFwaS1nZW5lcmF0b3ItY2xpIGdlbmVyYXRlIC1pIG9wZW5hcGkuanNvbiAtZyBnbyAtbyAuL3Nkay1nbyIgfSwKICB7IGxhbmc6ICJKYXZhIiwgY21kOiAibnB4IEBvcGVuYXBpdG9vbHMvb3BlbmFwaS1nZW5lcmF0b3ItY2xpIGdlbmVyYXRlIC1pIG9wZW5hcGkuanNvbiAtZyBqYXZhIC1vIC4vc2RrLWphdmEiIH0sCl07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBBcGlSZWZlcmVuY2VQYWdlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctM3hsIG14LWF1dG8gcHgtOCBweS0xMiI+CiAgICAgIDxCcmVhZGNydW1iIGl0ZW1zPXtbeyBsYWJlbDogIkRvY3MiLCBocmVmOiAiL2RvY3MiIH0sIHsgbGFiZWw6ICJEZXZlbG9wZXIgS2l0IiwgaHJlZjogIi9kb2NzL2RldmVsb3Blci1raXQiIH0sIHsgbGFiZWw6ICJPcGVuQVBJIFJlZmVyZW5jZSIgfV19IC8+CgogICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgbWItMyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT4KICAgICAgICBPcGVuQVBJIFJlZmVyZW5jZQogICAgICA8L2gxPgogICAgICA8cCBjbGFzc05hbWU9Im1iLTggbGVhZGluZy1yZWxheGVkIG1heC13LXhsIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIENvbXBsZXRlIE9wZW5BUEkgMy4xLjAgc3BlY2lmaWNhdGlvbiBmb3IgdGhlIERVQUwgUGxhdGZvcm0gQVBJLiBVc2UgaXQgdG8gZ2VuZXJhdGUgY2xpZW50IFNES3MsIGV4cGxvcmUgZW5kcG9pbnRzIGludGVyYWN0aXZlbHksIG9yIGltcG9ydCBpbnRvIHlvdXIgZmF2b3JpdGUgQVBJIHRvb2wuCiAgICAgIDwvcD4KCiAgICAgIHsvKiBTdGF0cyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTQgZ2FwLTMgbWItMTAiPgogICAgICAgIHtzdGF0cy5tYXAoKHMpID0+ICgKICAgICAgICAgIDxkaXYga2V5PXtzLmxhYmVsfSBjbGFzc05hbWU9InAtNCByb3VuZGVkLWxnIGJvcmRlciB0ZXh0LWNlbnRlciIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIHRleHQtWyMxNWI4YTddIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiIH19PntzLnZhbHVlfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC14cyBtdC0xIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PntzLmxhYmVsfTwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgoKICAgICAgey8qIERvd25sb2FkICsgUmVkb2MgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMyBtYi0xMCI+CiAgICAgICAgPGEKICAgICAgICAgIGhyZWY9Ii9kb3dubG9hZHMvb3BlbmFwaS5qc29uIgogICAgICAgICAgZG93bmxvYWQKICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTUgcHktMi41IHJvdW5kZWQtbGcgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LXdoaXRlIGJnLVsjMTViOGE3XSBob3ZlcjpiZy1bIzEyOWU5MF0gdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0KICAgICAgICA+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgICAgICAgICA8cGF0aCBkPSJNMjEgMTV2NGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNCIgLz4KICAgICAgICAgICAgPHBvbHlsaW5lIHBvaW50cz0iNyAxMCAxMiAxNSAxNyAxMCIgLz4KICAgICAgICAgICAgPGxpbmUgeDE9IjEyIiB5MT0iMTUiIHgyPSIxMiIgeTI9IjMiIC8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICAgIERvd25sb2FkIE9wZW5BUEkgU3BlYwogICAgICAgIDwvYT4KICAgICAgICA8YQogICAgICAgICAgaHJlZj0iaHR0cHM6Ly9yZWRvY2x5LmdpdGh1Yi5pby9yZWRvYy8/dXJsPWh0dHBzOi8vZHVhbC1kb2NzLnZlcmNlbC5hcHAvZG93bmxvYWRzL29wZW5hcGkuanNvbiIKICAgICAgICAgIHRhcmdldD0iX2JsYW5rIgogICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcHgtNSBweS0yLjUgcm91bmRlZC1sZyB0ZXh0LXNtIGZvbnQtbWVkaXVtIGJvcmRlciB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiIH19CiAgICAgICAgPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgICAgICAgPHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMi0yaDYiIC8+CiAgICAgICAgICAgIDxwb2x5bGluZSBwb2ludHM9IjE1IDMgMjEgMyAyMSA5IiAvPgogICAgICAgICAgICA8bGluZSB4MT0iMTAiIHkxPSIxNCIgeDI9IjIxIiB5Mj0iMyIgLz4KICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgVmlldyBpbiBSZWRvYwogICAgICAgIDwvYT4KICAgICAgPC9kaXY+CgogICAgICB7LyogQXV0aCBTY2hlbWVzICovfQogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCBtYi00IiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PkF1dGhlbnRpY2F0aW9uIFNjaGVtZXM8L2gyPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMiBnYXAtMyBtYi0xMCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InAtNCByb3VuZGVkLWxnIGJvcmRlciIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0yIGgtMiByb3VuZGVkLWZ1bGwgYmctWyMxNWI4YTddIiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PkJlYXJlckF1dGg8L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgSldUIHRva2VuIGluIEF1dGhvcml6YXRpb24gaGVhZGVyLiBVc2VkIGJ5IG1vc3QgZW5kcG9pbnRzLgogICAgICAgICAgPC9wPgogICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSBtdC0yIGJsb2NrIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICBBdXRob3JpemF0aW9uOiBCZWFyZXIgJmx0O3Rva2VuJmd0OwogICAgICAgICAgPC9jb2RlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgcm91bmRlZC1sZyBib3JkZXIiIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0yIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMiBoLTIgcm91bmRlZC1mdWxsIGJnLVsjMTViOGE3XSIgLz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT5BcGlLZXlBdXRoPC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgIEFQSSBrZXkgaW4gWC1BUEktS2V5IGhlYWRlci4gRm9yIHNlcnZlci10by1zZXJ2ZXIgaW50ZWdyYXRpb25zLgogICAgICAgICAgPC9wPgogICAgICAgICAgPGNvZGUgY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSBtdC0yIGJsb2NrIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICBYLUFQSS1LZXk6ICZsdDthcGkta2V5Jmd0OwogICAgICAgICAgPC9jb2RlPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBUYWdzICovfQogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCBtYi00IiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PkFQSSBUYWdzPC9oMj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImJvcmRlciByb3VuZGVkLWxnIG92ZXJmbG93LWhpZGRlbiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fT4KICAgICAgICA8dGFibGUgY2xhc3NOYW1lPSJ3LWZ1bGwgdGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICA8dHIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiIH19PgogICAgICAgICAgICAgIDx0aCBjbGFzc05hbWU9InRleHQtbGVmdCBweC00IHB5LTIuNSBmb250LXNlbWlib2xkIGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19PlRhZzwvdGg+CiAgICAgICAgICAgICAgPHRoIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcHgtNCBweS0yLjUgZm9udC1zZW1pYm9sZCBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT5PcGVyYXRpb25zPC90aD4KICAgICAgICAgICAgICA8dGggY2xhc3NOYW1lPSJ0ZXh0LWxlZnQgcHgtNCBweS0yLjUgZm9udC1zZW1pYm9sZCBib3JkZXItYiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT5EZXNjcmlwdGlvbjwvdGg+CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgPHRib2R5PgogICAgICAgICAgICB7dGFncy5tYXAoKHQsIGkpID0+ICgKICAgICAgICAgICAgICA8dHIga2V5PXt0Lm5hbWV9IHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogaSAlIDIgPT09IDEgPyAidmFyKC0tc3VyZmFjZSkiIDogInRyYW5zcGFyZW50IiB9fT4KICAgICAgICAgICAgICAgIDx0ZCBjbGFzc05hbWU9InB4LTQgcHktMiBib3JkZXItYiBmb250LW1lZGl1bSIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT57dC5uYW1lfTwvdGQ+CiAgICAgICAgICAgICAgICA8dGQgY2xhc3NOYW1lPSJweC00IHB5LTIgYm9yZGVyLWIgdGV4dC1jZW50ZXIiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19Pnt0Lm9wc308L3RkPgogICAgICAgICAgICAgICAgPHRkIGNsYXNzTmFtZT0icHgtNCBweS0yIGJvcmRlci1iIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT57dC5kZXNjfTwvdGQ+CiAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L3Rib2R5PgogICAgICAgIDwvdGFibGU+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIENvZGUgR2VuICovfQogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtYm9sZCBtdC04IG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+R2VuZXJhdGUgQ2xpZW50IFNES3M8L2gyPgogICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbWItNCBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgVXNlIHRoZSBPcGVuQVBJIHNwZWMgd2l0aCBhbnkgY29kZSBnZW5lcmF0b3IgdG8gY3JlYXRlIHR5cGVkIGNsaWVudHMgaW4geW91ciBsYW5ndWFnZSBvZiBjaG9pY2UuCiAgICAgIDwvcD4KICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAge2NvZGVHZW5FeGFtcGxlcy5tYXAoKGV4KSA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17ZXgubGFuZ30gY2xhc3NOYW1lPSJyb3VuZGVkLWxnIG92ZXJmbG93LWhpZGRlbiBib3JkZXIiIHN0eWxlPXt7IGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIgfX0+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweC00IHB5LTEuNSBib3JkZXItYiB0ZXh0LXhzIGZvbnQtbWVkaXVtIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAge2V4Lmxhbmd9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cHJlIGNsYXNzTmFtZT0icHgtNCBweS0zIG92ZXJmbG93LXgtYXV0byB0ZXh0LXhzIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1jb2RlLWJnKSIsIGNvbG9yOiAidmFyKC0tY29kZS10ZXh0KSIsIGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fT4KICAgICAgICAgICAgICB7ZXguY21kfQogICAgICAgICAgICA8L3ByZT4KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import Link from "next/link";
+import Breadcrumb from "@/components/Breadcrumb";
+
+export const metadata = { title: "OpenAPI Reference — DUAL Docs" };
+
+const stats = [
+  { label: "Paths", value: "70" },
+  { label: "Operations", value: "100" },
+  { label: "Tags", value: "14" },
+  { label: "Spec Version", value: "3.1.0" },
+];
+
+const tags = [
+  { name: "Wallets", ops: 10, desc: "User authentication, registration, profile management" },
+  { name: "Templates", ops: 7, desc: "Template CRUD, search, variations" },
+  { name: "Objects", ops: 9, desc: "Digital object lifecycle management" },
+  { name: "Payments", ops: 6, desc: "Payment processing and subscriptions" },
+  { name: "Organizations", ops: 10, desc: "Multi-tenant organization management" },
+  { name: "Storage", ops: 6, desc: "File upload, download, and management" },
+  { name: "Webhooks", ops: 7, desc: "Event notification delivery" },
+  { name: "Notifications", ops: 5, desc: "Push notification management" },
+  { name: "Event Bus", ops: 8, desc: "Action execution and event streaming" },
+  { name: "Faces", ops: 5, desc: "Visual face registration and rendering" },
+  { name: "Sequencer", ops: 5, desc: "Transaction ordering and checkpointing" },
+  { name: "Public API", ops: 5, desc: "Public indexer and statistics" },
+  { name: "API Keys", ops: 5, desc: "Key management and rotation" },
+  { name: "Support", ops: 4, desc: "Support ticket management" },
+];
+
+const codeGenExamples = [
+  { lang: "TypeScript", cmd: "npx @openapitools/openapi-generator-cli generate -i openapi.json -g typescript-fetch -o ./sdk" },
+  { lang: "Python", cmd: "npx @openapitools/openapi-generator-cli generate -i openapi.json -g python -o ./sdk-python" },
+  { lang: "Go", cmd: "npx @openapitools/openapi-generator-cli generate -i openapi.json -g go -o ./sdk-go" },
+  { lang: "Java", cmd: "npx @openapitools/openapi-generator-cli generate -i openapi.json -g java -o ./sdk-java" },
+];
+
+export default function ApiReferencePage() {
+  return (
+    <div className="max-w-3xl mx-auto px-8 py-12">
+      <Breadcrumb items={[{ label: "Docs", href: "/docs" }, { label: "Developer Kit", href: "/docs/developer-kit" }, { label: "OpenAPI Reference" }]} />
+
+      <h1 className="text-3xl font-bold mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+        OpenAPI Reference
+      </h1>
+      <p className="mb-8 leading-relaxed max-w-xl" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Complete OpenAPI 3.1.0 specification for the DUAL Platform API. Use it to generate client SDKs, explore endpoints interactively, or import into your favorite API tool.
+      </p>
+
+      {/* Stats */}
+      <div className="grid grid-cols-4 gap-3 mb-10">
+        {stats.map((s) => (
+          <div key={s.label} className="p-4 rounded-lg border text-center" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+            <div className="text-2xl font-bold text-[#15b8a7]" style={{ fontFamily: "var(--font-rajdhani)" }}>{s.value}</div>
+            <div className="text-xs mt-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>{s.label}</div>
+          </div>
+        ))}
+      </div>
+
+      {/* Download + Redoc */}
+      <div className="flex flex-wrap gap-3 mb-10">
+        <a
+          href="/downloads/openapi.json"
+          download
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-medium text-white bg-[#15b8a7] hover:bg-[#129e90] transition-colors"
+          style={{ fontFamily: "var(--font-satoshi)" }}
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+            <polyline points="7 10 12 15 17 10" />
+            <line x1="12" y1="15" x2="12" y2="3" />
+          </svg>
+          Download OpenAPI Spec
+        </a>
+        <a
+          href="https://redocly.github.io/redoc/?url=https://dual-docs.vercel.app/downloads/openapi.json"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-medium border transition-colors"
+          style={{ fontFamily: "var(--font-satoshi)", borderColor: "var(--border)", color: "var(--text-primary)", backgroundColor: "var(--surface)" }}
+        >
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+            <polyline points="15 3 21 3 21 9" />
+            <line x1="10" y1="14" x2="21" y2="3" />
+          </svg>
+          View in Redoc
+        </a>
+      </div>
+
+      {/* Auth Schemes */}
+      <h2 className="text-lg font-bold mb-4" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>Authentication Schemes</h2>
+      <div className="grid grid-cols-2 gap-3 mb-10">
+        <div className="p-4 rounded-lg border" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+          <div className="flex items-center gap-2 mb-2">
+            <div className="w-2 h-2 rounded-full bg-[#15b8a7]" />
+            <span className="text-sm font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>BearerAuth</span>
+          </div>
+          <p className="text-xs" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+            JWT token in Authorization header. Used by most endpoints.
+          </p>
+          <code className="text-[10px] mt-2 block" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+            Authorization: Bearer &lt;token&gt;
+          </code>
+        </div>
+        <div className="p-4 rounded-lg border" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}>
+          <div className="flex items-center gap-2 mb-2">
+            <div className="w-2 h-2 rounded-full bg-[#15b8a7]" />
+            <span className="text-sm font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>ApiKeyAuth</span>
+          </div>
+          <p className="text-xs" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+            API key in X-API-Key header. For server-to-server integrations.
+          </p>
+          <code className="text-[10px] mt-2 block" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+            X-API-Key: &lt;api-key&gt;
+          </code>
+        </div>
+      </div>
+
+      {/* Tags */}
+      <h2 className="text-lg font-bold mb-4" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>API Tags</h2>
+      <div className="border rounded-lg overflow-hidden" style={{ borderColor: "var(--border)" }}>
+        <table className="w-full text-sm" style={{ fontFamily: "var(--font-satoshi)" }}>
+          <thead>
+            <tr style={{ backgroundColor: "var(--surface)" }}>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>Tag</th>
+              <th className="text-center px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>Operations</th>
+              <th className="text-left px-4 py-2.5 font-semibold border-b" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            {tags.map((t, i) => (
+              <tr key={t.name} style={{ backgroundColor: i % 2 === 1 ? "var(--surface)" : "transparent" }}>
+                <td className="px-4 py-2 border-b font-medium" style={{ borderColor: "var(--border)", color: "var(--text-primary)" }}>{t.name}</td>
+                <td className="px-4 py-2 border-b text-center" style={{ borderColor: "var(--border)", color: "var(--text-muted)" }}>{t.ops}</td>
+                <td className="px-4 py-2 border-b" style={{ borderColor: "var(--border)", color: "var(--text-muted)" }}>{t.desc}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      {/* Code Gen */}
+      <h2 className="text-lg font-bold mt-8 mb-3" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>Generate Client SDKs</h2>
+      <p className="text-sm mb-4 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Use the OpenAPI spec with any code generator to create typed clients in your language of choice.
+      </p>
+      <div className="space-y-2">
+        {codeGenExamples.map((ex) => (
+          <div key={ex.lang} className="rounded-lg overflow-hidden border" style={{ borderColor: "var(--border)" }}>
+            <div className="px-4 py-1.5 border-b text-xs font-medium" style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)", fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              {ex.lang}
+            </div>
+            <pre className="px-4 py-3 overflow-x-auto text-xs" style={{ backgroundColor: "var(--code-bg)", color: "var(--code-text)", fontFamily: "var(--font-dm-mono)" }}>
+              {ex.cmd}
+            </pre>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}

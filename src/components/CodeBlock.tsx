@@ -1,1 +1,57 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgppbnRlcmZhY2UgQ29kZUJsb2NrUHJvcHMgewogIGNvZGU6IHN0cmluZzsKICBsYW5ndWFnZT86IHN0cmluZzsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ29kZUJsb2NrKHsgY29kZSwgbGFuZ3VhZ2UgPSAiYmFzaCIgfTogQ29kZUJsb2NrUHJvcHMpIHsKICBjb25zdCBbY29waWVkLCBzZXRDb3BpZWRdID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCBoYW5kbGVDb3B5ID0gYXN5bmMgKCkgPT4gewogICAgYXdhaXQgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQoY29kZSk7CiAgICBzZXRDb3BpZWQodHJ1ZSk7CiAgICBzZXRUaW1lb3V0KCgpID0+IHNldENvcGllZChmYWxzZSksIDIwMDApOwogIH07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgZ3JvdXAgcm91bmRlZC1sZyBvdmVyZmxvdy1oaWRkZW4gYm9yZGVyIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICB7LyogTGFuZ3VhZ2UgbGFiZWwgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcHgtNCBweS0yIGJnLVsjMWUxZTJlXSBib3JkZXItYiBib3JkZXItd2hpdGUvMTAiPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LXdoaXRlLzQwIHVwcGVyY2FzZSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiIH19PgogICAgICAgICAge2xhbmd1YWdlfQogICAgICAgIDwvc3Bhbj4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVDb3B5fQogICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41IHRleHQteHMgdGV4dC13aGl0ZS80MCBob3Zlcjp0ZXh0LXdoaXRlLzgwIHRyYW5zaXRpb24tY29sb3JzIGN1cnNvci1wb2ludGVyIgogICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiIH19CiAgICAgICAgPgogICAgICAgICAge2NvcGllZCA/ICgKICAgICAgICAgICAgPD4KICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiPgogICAgICAgICAgICAgICAgPHBvbHlsaW5lIHBvaW50cz0iMjAgNiA5IDE3IDQgMTIiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgQ29waWVkIQogICAgICAgICAgICA8Lz4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgICAgICAgIDxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjIiIHJ5PSIyIiAvPgogICAgICAgICAgICAgICAgPHBhdGggZD0iTTUgMTVINGEyIDIgMCAwMS0yLTJWNGEyIDIgMCAwMTItMmg5YTIgMiAwIDAxMiAydjEiIC8+CiAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgQ29weQogICAgICAgICAgICA8Lz4KICAgICAgICAgICl9CiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgogICAgICB7LyogQ29kZSBjb250ZW50ICovfQogICAgICA8cHJlIGNsYXNzTmFtZT0iYmctWyMxZTFlMmVdIHAtNCBvdmVyZmxvdy14LWF1dG8gdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgIDxjb2RlIGNsYXNzTmFtZT0idGV4dC1bI2NkZDZmNF0iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fT4KICAgICAgICAgIHtjb2RlfQogICAgICAgIDwvY29kZT4KICAgICAgPC9wcmU+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+"use client";
+
+import { useState } from "react";
+
+interface CodeBlockProps {
+  code: string;
+  language?: string;
+}
+
+export default function CodeBlock({ code, language = "bash" }: CodeBlockProps) {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = async () => {
+    await navigator.clipboard.writeText(code);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  return (
+    <div className="relative group rounded-lg overflow-hidden border" style={{ borderColor: "var(--border)" }}>
+      {/* Language label */}
+      <div className="flex items-center justify-between px-4 py-2 bg-[#1e1e2e] border-b border-white/10">
+        <span className="text-xs font-medium text-white/40 uppercase" style={{ fontFamily: "var(--font-dm-mono)" }}>
+          {language}
+        </span>
+        <button
+          onClick={handleCopy}
+          className="flex items-center gap-1.5 text-xs text-white/40 hover:text-white/80 transition-colors cursor-pointer"
+          style={{ fontFamily: "var(--font-dm-mono)" }}
+        >
+          {copied ? (
+            <>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <polyline points="20 6 9 17 4 12" />
+              </svg>
+              Copied!
+            </>
+          ) : (
+            <>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <rect x="9" y="9" width="13" height="13" rx="2" ry="2" />
+                <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1" />
+              </svg>
+              Copy
+            </>
+          )}
+        </button>
+      </div>
+      {/* Code content */}
+      <pre className="bg-[#1e1e2e] p-4 overflow-x-auto text-sm leading-relaxed">
+        <code className="text-[#cdd6f4]" style={{ fontFamily: "var(--font-dm-mono)" }}>
+          {code}
+        </code>
+      </pre>
+    </div>
+  );
+}

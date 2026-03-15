@@ -1,1 +1,77 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdXNlUGF0aG5hbWUgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwppbXBvcnQgeyB1c2VTdGF0ZSwgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IGRvY3NOYXZpZ2F0aW9uLCB0eXBlIE5hdlNlY3Rpb24gfSBmcm9tICJAL2RhdGEvbmF2aWdhdGlvbiI7CgpmdW5jdGlvbiBTaWRlYmFyU2VjdGlvbih7IHNlY3Rpb24sIG9uTmF2aWdhdGUgfTogeyBzZWN0aW9uOiBOYXZTZWN0aW9uOyBvbk5hdmlnYXRlPzogKCkgPT4gdm9pZCB9KSB7CiAgY29uc3QgcGF0aG5hbWUgPSB1c2VQYXRobmFtZSgpOwogIGNvbnN0IGhhc0FjdGl2ZSA9IHNlY3Rpb24uaXRlbXMuc29tZSgoaXRlbSkgPT4gcGF0aG5hbWUgPT09IGl0ZW0uaHJlZik7CiAgY29uc3QgW2lzT3Blbiwgc2V0SXNPcGVuXSA9IHVzZVN0YXRlKGhhc0FjdGl2ZSk7CiAgY29uc3QgYWN0aXZlUmVmID0gdXNlUmVmPEhUTUxBbmNob3JFbGVtZW50PihudWxsKTsKCiAgLy8gQXV0by1zY3JvbGwgYWN0aXZlIGxpbmsgaW50byB2aWV3IG9uIG1vdW50CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChoYXNBY3RpdmUgJiYgYWN0aXZlUmVmLmN1cnJlbnQpIHsKICAgICAgYWN0aXZlUmVmLmN1cnJlbnQuc2Nyb2xsSW50b1ZpZXcoeyBibG9jazogImNlbnRlciIsIGJlaGF2aW9yOiAic21vb3RoIiB9KTsKICAgIH0KICB9LCBbaGFzQWN0aXZlXSk7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWItNiI+CiAgICAgIDxidXR0b24KICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRJc09wZW4oIWlzT3Blbil9CiAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSB3LWZ1bGwgdGV4dC1sZWZ0IHRleHQteHMgZm9udC1ib2xkIHRyYWNraW5nLXdpZGVyIG1iLTIgdXBwZXJjYXNlIGN1cnNvci1wb2ludGVyIgogICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgPgogICAgICAgIHtzZWN0aW9uLnRpdGxlfQogICAgICAgIDxzdmcKICAgICAgICAgIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiCiAgICAgICAgICBjbGFzc05hbWU9e2B0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0yMDAgJHtpc09wZW4gPyAicm90YXRlLTAiIDogIi1yb3RhdGUtOTAifWB9CiAgICAgICAgPgogICAgICAgICAgPHBhdGggZD0iTTYgOWw2IDYgNi02IiAvPgogICAgICAgIDwvc3ZnPgogICAgICA8L2J1dHRvbj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJmbG93LWhpZGRlbiB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0yMDAiIHN0eWxlPXt7IG1heEhlaWdodDogaXNPcGVuID8gIjYwMHB4IiA6ICIwcHgiLCBvcGFjaXR5OiBpc09wZW4gPyAxIDogMCB9fT4KICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTAuNSI+CiAgICAgICAgICB7c2VjdGlvbi5pdGVtcy5tYXAoKGl0ZW0pID0+IHsKICAgICAgICAgICAgY29uc3QgaXNBY3RpdmUgPSBwYXRobmFtZSA9PT0gaXRlbS5ocmVmOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxsaSBrZXk9e2l0ZW0uaHJlZn0+CiAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICByZWY9e2lzQWN0aXZlID8gYWN0aXZlUmVmIDogdW5kZWZpbmVkfQogICAgICAgICAgICAgICAgICBocmVmPXtpdGVtLmhyZWZ9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uTmF2aWdhdGV9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGJsb2NrIHB4LTMgcHktMS41IHRleHQtc20gcm91bmRlZC1tZCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0xNTAgYm9yZGVyLWwtMiAkewogICAgICAgICAgICAgICAgICAgIGlzQWN0aXZlID8gInRleHQtWyMxNWI4YTddIGZvbnQtbWVkaXVtIGJvcmRlci1bIzE1YjhhN10iIDogImJvcmRlci10cmFuc3BhcmVudCIKICAgICAgICAgICAgICAgICAgfWB9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLAogICAgICAgICAgICAgICAgICAgIGNvbG9yOiBpc0FjdGl2ZSA/ICIjMTViOGE3IiA6ICJ2YXIoLS10ZXh0LW11dGVkKSIsCiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiBpc0FjdGl2ZSA/ICJyZ2JhKDIxLCAxODQsIDE2NywgMC4wOCkiIDogInRyYW5zcGFyZW50IiwKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge2l0ZW0udGl0bGV9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pfQogICAgICAgIDwvdWw+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU2lkZWJhcih7IG9uTmF2aWdhdGUgfTogeyBvbk5hdmlnYXRlPzogKCkgPT4gdm9pZCB9KSB7CiAgcmV0dXJuICgKICAgIDxhc2lkZQogICAgICBjbGFzc05hbWU9InctWzI2MHB4XSBzaHJpbmstMCBvdmVyZmxvdy15LWF1dG8gaC1bY2FsYygxMDB2aC03MnB4KV0gc3RpY2t5IHRvcC1bNzJweF0gcHktNiBweC00IgogICAgICBzdHlsZT17eyBib3JkZXJSaWdodDogIjFweCBzb2xpZCB2YXIoLS1ib3JkZXIpIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc2lkZWJhci1iZywgdmFyKC0tc3VyZmFjZSkpIiB9fQogICAgPgogICAgICB7ZG9jc05hdmlnYXRpb24ubWFwKChzZWN0aW9uKSA9PiAoCiAgICAgICAgPFNpZGViYXJTZWN0aW9uIGtleT17c2VjdGlvbi50aXRsZX0gc2VjdGlvbj17c2VjdGlvbn0gb25OYXZpZ2F0ZT17b25OYXZpZ2F0ZX0gLz4KICAgICAgKSl9CiAgICA8L2FzaWRlPgogICk7Cn0K"}
+"use client";
+
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useState, useEffect, useRef } from "react";
+import { docsNavigation, type NavSection } from "@/data/navigation";
+
+function SidebarSection({ section, onNavigate }: { section: NavSection; onNavigate?: () => void }) {
+  const pathname = usePathname();
+  const hasActive = section.items.some((item) => pathname === item.href);
+  const [isOpen, setIsOpen] = useState(hasActive);
+  const activeRef = useRef<HTMLAnchorElement>(null);
+
+  // Auto-scroll active link into view on mount
+  useEffect(() => {
+    if (hasActive && activeRef.current) {
+      activeRef.current.scrollIntoView({ block: "center", behavior: "smooth" });
+    }
+  }, [hasActive]);
+
+  return (
+    <div className="mb-6">
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="flex items-center gap-1 w-full text-left text-xs font-bold tracking-wider mb-2 uppercase cursor-pointer"
+        style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+      >
+        {section.title}
+        <svg
+          width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"
+          className={`transition-transform duration-200 ${isOpen ? "rotate-0" : "-rotate-90"}`}
+        >
+          <path d="M6 9l6 6 6-6" />
+        </svg>
+      </button>
+      <div className="overflow-hidden transition-all duration-200" style={{ maxHeight: isOpen ? "600px" : "0px", opacity: isOpen ? 1 : 0 }}>
+        <ul className="space-y-0.5">
+          {section.items.map((item) => {
+            const isActive = pathname === item.href;
+            return (
+              <li key={item.href}>
+                <Link
+                  ref={isActive ? activeRef : undefined}
+                  href={item.href}
+                  onClick={onNavigate}
+                  className={`block px-3 py-1.5 text-sm rounded-md transition-all duration-150 border-l-2 ${
+                    isActive ? "text-[#15b8a7] font-medium border-[#15b8a7]" : "border-transparent"
+                  }`}
+                  style={{
+                    fontFamily: "var(--font-satoshi)",
+                    color: isActive ? "#15b8a7" : "var(--text-muted)",
+                    backgroundColor: isActive ? "rgba(21, 184, 167, 0.08)" : "transparent",
+                  }}
+                >
+                  {item.title}
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    </div>
+  );
+}
+
+export default function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
+  return (
+    <aside
+      className="w-[260px] shrink-0 overflow-y-auto h-[calc(100vh-72px)] sticky top-[72px] py-6 px-4"
+      style={{ borderRight: "1px solid var(--border)", backgroundColor: "var(--sidebar-bg, var(--surface))" }}
+    >
+      {docsNavigation.map((section) => (
+        <SidebarSection key={section.title} section={section} onNavigate={onNavigate} />
+      ))}
+    </aside>
+  );
+}

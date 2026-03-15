@@ -1,1 +1,188 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YSA9IHsgdGl0bGU6ICJTdXBwb3J0IOKAlCBEVUFMIERvY3MiIH07Cgpjb25zdCBjaGFubmVscyA9IFsKICB7CiAgICBpY29uOiAiTTIxIDE1YTIgMiAwIDAxLTIgMkg3bC00IDRWNWEyIDIgMCAwMTItMmgxNGEyIDIgMCAwMTIgMnoiLAogICAgdGl0bGU6ICJDb21tdW5pdHkgRGlzY29yZCIsCiAgICBkZXNjOiAiSm9pbiA0LDAwMCsgZGV2ZWxvcGVycyBidWlsZGluZyBvbiBEVUFMLiBHZXQgcmVhbC10aW1lIGhlbHAsIHNoYXJlIHByb2plY3RzLCBhbmQgY29ubmVjdCB3aXRoIHRoZSBjb3JlIHRlYW0uIiwKICAgIGFjdGlvbjogIkpvaW4gRGlzY29yZCIsCiAgICBocmVmOiAiaHR0cHM6Ly9kaXNjb3JkLmdnL2R1YWwiLAogICAgY29sb3I6ICJiZy1pbmRpZ28tNTAgYm9yZGVyLWluZGlnby0xMDAiLAogICAgaWNvbkNvbG9yOiAiIzYzNjZmMSIsCiAgfSwKICB7CiAgICBpY29uOiAiTTQgNGgxNmMxLjEgMCAyIC45IDIgMnYxMmMwIDEuMS0uOSAyLTIgMkg0Yy0xLjEgMC0yLS45LTItMlY2YzAtMS4xLjktMiAyLTJ6TTIyIDZsLTEwIDdMMiA2IiwKICAgIHRpdGxlOiAiRW1haWwgU3VwcG9ydCIsCiAgICBkZXNjOiAiRm9yIGFjY291bnQgaXNzdWVzLCBiaWxsaW5nIHF1ZXN0aW9ucywgb3IgZW50ZXJwcmlzZSBpbnF1aXJpZXMuIFdlIHJlc3BvbmQgd2l0aGluIG9uZSBidXNpbmVzcyBkYXkuIiwKICAgIGFjdGlvbjogInN1cHBvcnRAZHVhbC54eXoiLAogICAgaHJlZjogIm1haWx0bzpzdXBwb3J0QGR1YWwueHl6IiwKICAgIGNvbG9yOiAiYmctZW1lcmFsZC01MCBib3JkZXItZW1lcmFsZC0xMDAiLAogICAgaWNvbkNvbG9yOiAiIzE1YjhhNyIsCiAgfSwKICB7CiAgICBpY29uOiAiTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDE3LjkzYy0zLjk1LS40OS03LTMuODUtNy03LjkzIDAtLjYyLjA4LTEuMjEuMjEtMS43OUw5IDE1djFjMCAxLjEuOSAyIDIgMnYxLjkzem02LjktMi41NGMtLjI2LS44MS0xLTEuMzktMS45LTEuMzloLTF2LTNjMC0uNTUtLjQ1LTEtMS0xSDh2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuMzl6IiwKICAgIHRpdGxlOiAiR2l0SHViIElzc3VlcyIsCiAgICBkZXNjOiAiUmVwb3J0IGJ1Z3MsIHJlcXVlc3QgZmVhdHVyZXMsIG9yIGJyb3dzZSBleGlzdGluZyBpc3N1ZXMgb24gb3VyIG9wZW4tc291cmNlIHJlcG9zaXRvcmllcy4iLAogICAgYWN0aW9uOiAiT3BlbiBHaXRIdWIiLAogICAgaHJlZjogImh0dHBzOi8vZ2l0aHViLmNvbS9yby1yby1iL2R1YWwtc2RrIiwKICAgIGNvbG9yOiAiYmctZ3JheS01MCBib3JkZXItZ3JheS0xMDAiLAogICAgaWNvbkNvbG9yOiAiIzM3NDE1MSIsCiAgfSwKICB7CiAgICBpY29uOiAiTTkgMTl2LTZhMiAyIDAgMDAtMi0ySDVhMiAyIDAgMDAtMiAydjZhMiAyIDAgMDAyIDJoMmEyIDIgMCAwMDItMnptMCAwVjlhMiAyIDAgMDEyLTJoMmEyIDIgMCAwMTIgMnYxMG0tNiAwYTIgMiAwIDAwMiAyaDJhMiAyIDAgMDAyLTJtMCAwVjVhMiAyIDAgMDEyLTJoMmEyIDIgMCAwMTIgMnYxNGEyIDIgMCAwMS0yIDJoLTJhMiAyIDAgMDEtMi0yeiIsCiAgICB0aXRsZTogIlN0YXR1cyBQYWdlIiwKICAgIGRlc2M6ICJSZWFsLXRpbWUgbW9uaXRvcmluZyBvZiBEVUFMIEFQSSwgc2VxdWVuY2VyLCBhbmQgaW5mcmFzdHJ1Y3R1cmUgc2VydmljZXMuIFN1YnNjcmliZSBmb3IgaW5jaWRlbnQgYWxlcnRzLiIsCiAgICBhY3Rpb246ICJWaWV3IFN0YXR1cyIsCiAgICBocmVmOiAiaHR0cHM6Ly9zdGF0dXMuZHVhbC54eXoiLAogICAgY29sb3I6ICJiZy1hbWJlci01MCBib3JkZXItYW1iZXItMTAwIiwKICAgIGljb25Db2xvcjogIiNkOTc3MDYiLAogIH0sCl07Cgpjb25zdCBmYXEgPSBbCiAgewogICAgcTogIkhvdyBkbyBJIGdldCBhbiBBUEkga2V5PyIsCiAgICBhOiAiQ3JlYXRlIGFuIG9yZ2FuaXphdGlvbiB0aHJvdWdoIHRoZSBkYXNoYm9hcmQsIHRoZW4gbmF2aWdhdGUgdG8gU2V0dGluZ3Mg4oaSIEFQSSBLZXlzLiBZb3UgY2FuIGdlbmVyYXRlIGJvdGggdGVzdCBhbmQgcHJvZHVjdGlvbiBrZXlzLiIsCiAgfSwKICB7CiAgICBxOiAiV2hhdCBhcmUgdGhlIEFQSSByYXRlIGxpbWl0cz8iLAogICAgYTogIkZyZWUgdGllcjogMTAwIHJlcXVlc3RzL21pbnV0ZS4gR3Jvd3RoIHBsYW46IDEsMDAwIHJlcXVlc3RzL21pbnV0ZS4gRW50ZXJwcmlzZTogY3VzdG9tIGxpbWl0cy4gQWxsIHBsYW5zIGluY2x1ZGUgYnVyc3QgYWxsb3dhbmNlcyBvZiAyeCB0aGUgYmFzZSBsaW1pdCBmb3IgMTAtc2Vjb25kIHdpbmRvd3MuIiwKICB9LAogIHsKICAgIHE6ICJEbyB5b3Ugc3VwcG9ydCBXZWJTb2NrZXQgY29ubmVjdGlvbnM/IiwKICAgIGE6ICJZZXMuIFRoZSBFdmVudCBCdXMgc3VwcG9ydHMgcmVhbC10aW1lIFdlYlNvY2tldCBzdWJzY3JpcHRpb25zIGZvciBvYmplY3Qgc3RhdGUgY2hhbmdlcywgYWN0aW9uIGNvbXBsZXRpb25zLCBhbmQgd2ViaG9vayBkZWxpdmVyeSBub3RpZmljYXRpb25zLiIsCiAgfSwKICB7CiAgICBxOiAiSXMgdGhlcmUgYSBzYW5kYm94IGVudmlyb25tZW50PyIsCiAgICBhOiAiWWVzLiBBbGwgdGVzdC1tb2RlIEFQSSBrZXlzIHBvaW50IHRvIGEgc2VwYXJhdGUgc2FuZGJveCB0aGF0IG1pcnJvcnMgcHJvZHVjdGlvbi4gRGF0YSBpbiBzYW5kYm94IHJlc2V0cyB3ZWVrbHkuIFVzZSB0aGUgeC1kdWFsLWVudmlyb25tZW50OiB0ZXN0IGhlYWRlciB0byBleHBsaWNpdGx5IHRhcmdldCBzYW5kYm94LiIsCiAgfSwKICB7CiAgICBxOiAiSG93IGRvIEkgaGFuZGxlIGF1dGhlbnRpY2F0aW9uIHRva2VuIGV4cGlyeT8iLAogICAgYTogIkFjY2VzcyB0b2tlbnMgZXhwaXJlIGFmdGVyIDEgaG91ci4gVXNlIHRoZSByZWZyZXNoIHRva2VuIGZsb3cgKFBPU1QgL2F1dGgvdG9rZW4vcmVmcmVzaCkgdG8gb2J0YWluIG5ldyB0b2tlbnMgd2l0aG91dCByZXF1aXJpbmcgdGhlIHVzZXIgdG8gbG9nIGluIGFnYWluLiIsCiAgfSwKICB7CiAgICBxOiAiV2hhdCBoYXBwZW5zIGlmIHRoZSBzZXF1ZW5jZXIgZ29lcyBkb3duPyIsCiAgICBhOiAiQWN0aW9ucyBhcmUgcXVldWVkIGluIGEgZHVyYWJsZSBtZXNzYWdlIGJ1ZmZlci4gT25jZSB0aGUgc2VxdWVuY2VyIHJlY292ZXJzLCBhbGwgcGVuZGluZyBhY3Rpb25zIGFyZSBwcm9jZXNzZWQgaW4gb3JkZXIuIFRoZSBaSy1yb2xsdXAgY2hlY2twb2ludCBzeXN0ZW0gZW5zdXJlcyBubyBkYXRhIGxvc3MuIiwKICB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU3VwcG9ydFBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy0zeGwgbXgtYXV0byBweC04IHB5LTEyIj4KICAgICAgey8qIEJyZWFkY3J1bWIgKi99CiAgICAgIDxuYXYKICAgICAgICBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHRleHQtc20gdGV4dC1bIzE0MGUxY10vNDAgbWItNiIKICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0KICAgICAgPgogICAgICAgIDxMaW5rIGhyZWY9Ii9kb2NzIiBjbGFzc05hbWU9ImhvdmVyOnRleHQtWyMxNDBlMWNdLzcwIHRyYW5zaXRpb24tY29sb3JzIj5Eb2NzPC9MaW5rPgogICAgICAgIDxzcGFuPuKAujwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWyMxNDBlMWNdLzcwIj5TdXBwb3J0PC9zcGFuPgogICAgICA8L25hdj4KCiAgICAgIDxoMQogICAgICAgIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIHRleHQtWyMxNDBlMWNdIG1iLTMiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiB9fQogICAgICA+CiAgICAgICAgU3VwcG9ydAogICAgICA8L2gxPgogICAgICA8cCBjbGFzc05hbWU9InRleHQtWyMxNDBlMWNdLzUwIG1iLTEwIGxlYWRpbmctcmVsYXhlZCBtYXgtdy14bCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19PgogICAgICAgIEdldCBoZWxwIHdpdGggdGhlIERVQUwgcGxhdGZvcm0uIFdoZXRoZXIgeW91JmFwb3M7cmUgc3R1Y2sgb24gaW50ZWdyYXRpb24sIGZvdW5kIGEgYnVnLCBvciBuZWVkCiAgICAgICAgZW50ZXJwcmlzZS1sZXZlbCBhc3Npc3RhbmNlIOKAlCB3ZSZhcG9zO3JlIGhlcmUgdG8gaGVscC4KICAgICAgPC9wPgoKICAgICAgey8qIENvbnRhY3QgY2hhbm5lbHMgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0xIHNtOmdyaWQtY29scy0yIGdhcC00IG1iLTEyIj4KICAgICAgICB7Y2hhbm5lbHMubWFwKChjaCkgPT4gKAogICAgICAgICAgPGEKICAgICAgICAgICAga2V5PXtjaC50aXRsZX0KICAgICAgICAgICAgaHJlZj17Y2guaHJlZn0KICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgICAgY2xhc3NOYW1lPXtgZ3JvdXAgYmxvY2sgYm9yZGVyIHJvdW5kZWQtbGcgcC01IGhvdmVyOnNoYWRvdy1tZCB0cmFuc2l0aW9uLWFsbCBiZy13aGl0ZSAke2NoLmNvbG9yfWB9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT17Y2guaWNvbkNvbG9yfSBzdHJva2VXaWR0aD0iMS41IiBjbGFzc05hbWU9Im1iLTMiPgogICAgICAgICAgICAgIDxwYXRoIGQ9e2NoLmljb259IHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiIC8+CiAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWJhc2UgZm9udC1zZW1pYm9sZCB0ZXh0LVsjMTQwZTFjXSBtYi0xIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAge2NoLnRpdGxlfQogICAgICAgICAgICA8L2gzPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1bIzE0MGUxY10vNTAgbWItMyBsZWFkaW5nLXJlbGF4ZWQiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiB9fT4KICAgICAgICAgICAgICB7Y2guZGVzY30KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgdGV4dC14cyBmb250LW1lZGl1bSB0ZXh0LVsjMTViOGE3XSBncm91cC1ob3ZlcjpnYXAtMiB0cmFuc2l0aW9uLWFsbCIKICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtjaC5hY3Rpb259CiAgICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik01IDEyaDE0TTEyIDVsNyA3LTcgNyIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9hPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBTTEEgaW5mbyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTEyIHAtNSByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItWyMxNWI4YTddLzIwIGJnLVsjMTViOGE3XS9bMC4wMl0iPgogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1ib2xkIHRleHQtWyMxNDBlMWNdIG1iLTMiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIgfX0+CiAgICAgICAgICBSZXNwb25zZSBUaW1lcwogICAgICAgIDwvaDI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAge1sKICAgICAgICAgICAgeyBwbGFuOiAiRnJlZSIsIHRpbWU6ICI0OCBob3VycyIsIG5vdGU6ICJDb21tdW5pdHkgKyBlbWFpbCIgfSwKICAgICAgICAgICAgeyBwbGFuOiAiR3Jvd3RoIiwgdGltZTogIjEyIGhvdXJzIiwgbm90ZTogIlByaW9yaXR5IGVtYWlsIiB9LAogICAgICAgICAgICB7IHBsYW46ICJFbnRlcnByaXNlIiwgdGltZTogIjEgaG91ciIsIG5vdGU6ICJEZWRpY2F0ZWQgU2xhY2sgY2hhbm5lbCIgfSwKICAgICAgICAgIF0ubWFwKChzbGEpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e3NsYS5wbGFufSBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJsb2NrIHRleHQteHMgZm9udC1ib2xkIHRyYWNraW5nLXdpZGVyIHRleHQtWyMxNDBlMWNdLzQwIHVwcGVyY2FzZSBtYi0xIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAgICB7c2xhLnBsYW59CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC14bCBmb250LWJvbGQgdGV4dC1bIzE1YjhhN10iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIgfX0+CiAgICAgICAgICAgICAgICB7c2xhLnRpbWV9CiAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC14cyB0ZXh0LVsjMTQwZTFjXS80MCBtdC0wLjUiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiB9fT4KICAgICAgICAgICAgICAgIHtzbGEubm90ZX0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIEZBUSAqL30KICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWJvbGQgdGV4dC1bIzE0MGUxY10gbWItNCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiB9fT4KICAgICAgICBGcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9ucwogICAgICA8L2gyPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIG1iLTgiPgogICAgICAgIHtmYXEubWFwKChpdGVtKSA9PiAoCiAgICAgICAgICA8ZGV0YWlscwogICAgICAgICAgICBrZXk9e2l0ZW0ucX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBib3JkZXIgYm9yZGVyLWJsYWNrL1swLjA2XSByb3VuZGVkLWxnIGJnLXdoaXRlIG92ZXJmbG93LWhpZGRlbiIKICAgICAgICAgID4KICAgICAgICAgICAgPHN1bW1hcnkKICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBweC01IHB5LTMuNSBjdXJzb3ItcG9pbnRlciB0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtWyMxNDBlMWNdIGhvdmVyOmJnLWJsYWNrL1swLjAxXSB0cmFuc2l0aW9uLWNvbG9ycyBsaXN0LW5vbmUiCiAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7aXRlbS5xfQogICAgICAgICAgICAgIDxzdmcKICAgICAgICAgICAgICAgIHdpZHRoPSIxNiIKICAgICAgICAgICAgICAgIGhlaWdodD0iMTYiCiAgICAgICAgICAgICAgICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgICAgICAgICAgICAgICBmaWxsPSJub25lIgogICAgICAgICAgICAgICAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgICAgICAgICAgICAgICBzdHJva2VXaWR0aD0iMiIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ic2hyaW5rLTAgdGV4dC1bIzE0MGUxY10vMzAgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAtb3Blbjpyb3RhdGUtMTgwIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik02IDlsNiA2IDYtNiIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgPC9zdW1tYXJ5PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNSBwYi00IHRleHQtc20gdGV4dC1bIzE0MGUxY10vNjAgbGVhZGluZy1yZWxheGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICAgICAge2l0ZW0uYX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2RldGFpbHM+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+import Link from "next/link";
+
+export const metadata = { title: "Support — DUAL Docs" };
+
+const channels = [
+  {
+    icon: "M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z",
+    title: "Community Discord",
+    desc: "Join 4,000+ developers building on DUAL. Get real-time help, share projects, and connect with the core team.",
+    action: "Join Discord",
+    href: "https://discord.gg/dual",
+    color: "bg-indigo-50 border-indigo-100",
+    iconColor: "#6366f1",
+  },
+  {
+    icon: "M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zM22 6l-10 7L2 6",
+    title: "Email Support",
+    desc: "For account issues, billing questions, or enterprise inquiries. We respond within one business day.",
+    action: "support@dual.xyz",
+    href: "mailto:support@dual.xyz",
+    color: "bg-emerald-50 border-emerald-100",
+    iconColor: "#15b8a7",
+  },
+  {
+    icon: "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z",
+    title: "GitHub Issues",
+    desc: "Report bugs, request features, or browse existing issues on our open-source repositories.",
+    action: "Open GitHub",
+    href: "https://github.com/ro-ro-b/dual-sdk",
+    color: "bg-gray-50 border-gray-100",
+    iconColor: "#374151",
+  },
+  {
+    icon: "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z",
+    title: "Status Page",
+    desc: "Real-time monitoring of DUAL API, sequencer, and infrastructure services. Subscribe for incident alerts.",
+    action: "View Status",
+    href: "https://status.dual.xyz",
+    color: "bg-amber-50 border-amber-100",
+    iconColor: "#d97706",
+  },
+];
+
+const faq = [
+  {
+    q: "How do I get an API key?",
+    a: "Create an organization through the dashboard, then navigate to Settings → API Keys. You can generate both test and production keys.",
+  },
+  {
+    q: "What are the API rate limits?",
+    a: "Free tier: 100 requests/minute. Growth plan: 1,000 requests/minute. Enterprise: custom limits. All plans include burst allowances of 2x the base limit for 10-second windows.",
+  },
+  {
+    q: "Do you support WebSocket connections?",
+    a: "Yes. The Event Bus supports real-time WebSocket subscriptions for object state changes, action completions, and webhook delivery notifications.",
+  },
+  {
+    q: "Is there a sandbox environment?",
+    a: "Yes. All test-mode API keys point to a separate sandbox that mirrors production. Data in sandbox resets weekly. Use the x-dual-environment: test header to explicitly target sandbox.",
+  },
+  {
+    q: "How do I handle authentication token expiry?",
+    a: "Access tokens expire after 1 hour. Use the refresh token flow (POST /auth/token/refresh) to obtain new tokens without requiring the user to log in again.",
+  },
+  {
+    q: "What happens if the sequencer goes down?",
+    a: "Actions are queued in a durable message buffer. Once the sequencer recovers, all pending actions are processed in order. The ZK-rollup checkpoint system ensures no data loss.",
+  },
+];
+
+export default function SupportPage() {
+  return (
+    <div className="max-w-3xl mx-auto px-8 py-12">
+      {/* Breadcrumb */}
+      <nav
+        className="flex items-center gap-2 text-sm text-[#140e1c]/40 mb-6"
+        style={{ fontFamily: "var(--font-satoshi)" }}
+      >
+        <Link href="/docs" className="hover:text-[#140e1c]/70 transition-colors">Docs</Link>
+        <span>›</span>
+        <span className="text-[#140e1c]/70">Support</span>
+      </nav>
+
+      <h1
+        className="text-3xl font-bold text-[#140e1c] mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)" }}
+      >
+        Support
+      </h1>
+      <p className="text-[#140e1c]/50 mb-10 leading-relaxed max-w-xl" style={{ fontFamily: "var(--font-satoshi)" }}>
+        Get help with the DUAL platform. Whether you&apos;re stuck on integration, found a bug, or need
+        enterprise-level assistance — we&apos;re here to help.
+      </p>
+
+      {/* Contact channels */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-12">
+        {channels.map((ch) => (
+          <a
+            key={ch.title}
+            href={ch.href}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`group block border rounded-lg p-5 hover:shadow-md transition-all bg-white ${ch.color}`}
+          >
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke={ch.iconColor} strokeWidth="1.5" className="mb-3">
+              <path d={ch.icon} strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            <h3 className="text-base font-semibold text-[#140e1c] mb-1" style={{ fontFamily: "var(--font-satoshi)" }}>
+              {ch.title}
+            </h3>
+            <p className="text-sm text-[#140e1c]/50 mb-3 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)" }}>
+              {ch.desc}
+            </p>
+            <span
+              className="inline-flex items-center gap-1.5 text-xs font-medium text-[#15b8a7] group-hover:gap-2 transition-all"
+              style={{ fontFamily: "var(--font-satoshi)" }}
+            >
+              {ch.action}
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+              </svg>
+            </span>
+          </a>
+        ))}
+      </div>
+
+      {/* SLA info */}
+      <div className="mb-12 p-5 rounded-lg border border-[#15b8a7]/20 bg-[#15b8a7]/[0.02]">
+        <h2 className="text-lg font-bold text-[#140e1c] mb-3" style={{ fontFamily: "var(--font-rajdhani)" }}>
+          Response Times
+        </h2>
+        <div className="grid grid-cols-3 gap-4">
+          {[
+            { plan: "Free", time: "48 hours", note: "Community + email" },
+            { plan: "Growth", time: "12 hours", note: "Priority email" },
+            { plan: "Enterprise", time: "1 hour", note: "Dedicated Slack channel" },
+          ].map((sla) => (
+            <div key={sla.plan} className="text-center">
+              <span className="block text-xs font-bold tracking-wider text-[#140e1c]/40 uppercase mb-1" style={{ fontFamily: "var(--font-satoshi)" }}>
+                {sla.plan}
+              </span>
+              <span className="block text-xl font-bold text-[#15b8a7]" style={{ fontFamily: "var(--font-rajdhani)" }}>
+                {sla.time}
+              </span>
+              <span className="block text-xs text-[#140e1c]/40 mt-0.5" style={{ fontFamily: "var(--font-satoshi)" }}>
+                {sla.note}
+              </span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* FAQ */}
+      <h2 className="text-lg font-bold text-[#140e1c] mb-4" style={{ fontFamily: "var(--font-rajdhani)" }}>
+        Frequently Asked Questions
+      </h2>
+      <div className="space-y-3 mb-8">
+        {faq.map((item) => (
+          <details
+            key={item.q}
+            className="group border border-black/[0.06] rounded-lg bg-white overflow-hidden"
+          >
+            <summary
+              className="flex items-center justify-between px-5 py-3.5 cursor-pointer text-sm font-medium text-[#140e1c] hover:bg-black/[0.01] transition-colors list-none"
+              style={{ fontFamily: "var(--font-satoshi)" }}
+            >
+              {item.q}
+              <svg
+                width="16"
+                height="16"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                className="shrink-0 text-[#140e1c]/30 transition-transform group-open:rotate-180"
+              >
+                <path d="M6 9l6 6 6-6" />
+              </svg>
+            </summary>
+            <div className="px-5 pb-4 text-sm text-[#140e1c]/60 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)" }}>
+              {item.a}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  );
+}

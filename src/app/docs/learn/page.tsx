@@ -1,1 +1,466 @@
-{"data":"aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IEJyZWFkY3J1bWIgZnJvbSAiQC9jb21wb25lbnRzL0JyZWFkY3J1bWIiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhID0geyB0aXRsZTogIkxlYXJuIOKAlCBEVUFMIERvY3MiIH07Cgpjb25zdCBub3RlYm9va1VybCA9ICJodHRwczovL25vdGVib29rbG0uZ29vZ2xlLmNvbS9ub3RlYm9vay9kN2Q1MTkxMS1kZWRhLTRmZDAtODJhOS1hZmVmZjZmZjViODkiOwoKLyog4pSA4pSAIEljb24gY29tcG9uZW50cyDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAgKi8KCmNvbnN0IEF1ZGlvSWNvbiA9ICgpID0+ICgKICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNOSAxOFY1bDEyLTJ2MTMiIC8+CiAgICA8Y2lyY2xlIGN4PSI2IiBjeT0iMTgiIHI9IjMiIC8+CiAgICA8Y2lyY2xlIGN4PSIxOCIgY3k9IjE2IiByPSIzIiAvPgogIDwvc3ZnPgopOwpjb25zdCBWaWRlb0ljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPHBvbHlnb24gcG9pbnRzPSI1IDMgMTkgMTIgNSAyMSA1IDMiIC8+CiAgPC9zdmc+Cik7CmNvbnN0IE1pbmRNYXBJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIC8+CiAgICA8cGF0aCBkPSJNMTIgMnY0bTAgMTJ2NE0yIDEyaDRtMTIgMGg0TTQuOTMgNC45M2wyLjgzIDIuODNtOC40OCA4LjQ4bDIuODMgMi44M000LjkzIDE5LjA3bDIuODMtMi44M204LjQ4LTguNDhsMi44My0yLjgzIiAvPgogIDwvc3ZnPgopOwpjb25zdCBJbmZvZ3JhcGhpY0ljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMiIgLz4KICAgIDxwYXRoIGQ9Ik0zIDloMTgiIC8+CiAgICA8cGF0aCBkPSJNOSAyMVY5IiAvPgogIDwvc3ZnPgopOwpjb25zdCBEb2NJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiIC8+CiAgICA8cG9seWxpbmUgcG9pbnRzPSIxNCAyIDE0IDggMjAgOCIgLz4KICAgIDxsaW5lIHgxPSIxNiIgeTE9IjEzIiB4Mj0iOCIgeTI9IjEzIiAvPgogICAgPGxpbmUgeDE9IjE2IiB5MT0iMTciIHgyPSI4IiB5Mj0iMTciIC8+CiAgPC9zdmc+Cik7CmNvbnN0IEJvb2tJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxwYXRoIGQ9Ik0yIDNoNmE0IDQgMCAwIDEgNCA0djE0YTMgMyAwIDAgMC0zLTNIMnoiIC8+CiAgICA8cGF0aCBkPSJNMjIgM2gtNmE0IDQgMCAwIDAtNCA0djE0YTMgMyAwIDAgMSAzLTNoN3oiIC8+CiAgPC9zdmc+Cik7CmNvbnN0IEJ1bGJJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIiAvPgogICAgPHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzIiAvPgogICAgPGxpbmUgeDE9IjEyIiB5MT0iMTciIHgyPSIxMi4wMSIgeTI9IjE3IiAvPgogIDwvc3ZnPgopOwpjb25zdCBCb2x0SWNvbiA9ICgpID0+ICgKICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCI+CiAgICA8cGF0aCBkPSJNMTMgMkwzIDE0aDlsLTEgOCAxMC0xMmgtOWwxLTh6IiAvPgogIDwvc3ZnPgopOwpjb25zdCBTaGllbGRJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxwYXRoIGQ9Ik0xMiAyMnM4LTQgOC0xMFY1bC04LTMtOCAzdjdjMCA2IDggMTAgOCAxMHoiIC8+CiAgPC9zdmc+Cik7CmNvbnN0IENvZGVJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxwb2x5bGluZSBwb2ludHM9IjE2IDE4IDIyIDEyIDE2IDYiIC8+CiAgICA8cG9seWxpbmUgcG9pbnRzPSI4IDYgMiAxMiA4IDE4IiAvPgogIDwvc3ZnPgopOwpjb25zdCBCYXJDaGFydEljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPGxpbmUgeDE9IjE4IiB5MT0iMjAiIHgyPSIxOCIgeTI9IjEwIiAvPgogICAgPGxpbmUgeDE9IjEyIiB5MT0iMjAiIHgyPSIxMiIgeTI9IjQiIC8+CiAgICA8bGluZSB4MT0iNiIgeTE9IjIwIiB4Mj0iNiIgeTI9IjE0IiAvPgogIDwvc3ZnPgopOwpjb25zdCBMYXllcnNJY29uID0gKCkgPT4gKAogIDxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMS41IiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgIDxwb2x5Z29uIHBvaW50cz0iMTIgMiAyIDcgMTIgMTIgMjIgNyAxMiAyIiAvPgogICAgPHBvbHlsaW5lIHBvaW50cz0iMiAxNyAxMiAyMiAyMiAxNyIgLz4KICAgIDxwb2x5bGluZSBwb2ludHM9IjIgMTIgMTIgMTcgMjIgMTIiIC8+CiAgPC9zdmc+Cik7CmNvbnN0IFRhcmdldEljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgICA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2IiAvPgogICAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIgLz4KICA8L3N2Zz4KKTsKY29uc3QgVG9vbGJveEljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTE0LjcgNi4zYTEgMSAwIDAgMCAwIDEuNGwxLjYgMS42YTEgMSAwIDAgMCAxLjQgMGwzLjc3LTMuNzdhNiA2IDAgMCAxLTcuOTQgNy45NGwtNi45MSA2LjkxYTIuMTIgMi4xMiAwIDAgMS0zLTNsNi45MS02LjkxYTYgNiAwIDAgMSA3Ljk0LTcuOTRsLTMuNzYgMy43NnoiIC8+CiAgPC9zdmc+Cik7CmNvbnN0IFJvY2tldEljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPHBhdGggZD0iTTQuNSAxNi41Yy0xLjUgMS4yNi0yIDUtMiA1czMuNzQtLjUgNS0yYy43MS0uODQuNy0yLjEzLS4wOS0yLjkxYTIuMTggMi4xOCAwIDAgMC0yLjkxLS4wOXoiIC8+CiAgICA8cGF0aCBkPSJNMTIgMTVsLTMtM2EyMiAyMiAwIDAgMSAyLTMuOTVBMTIuODggMTIuODggMCAwIDEgMjIgMmMwIDIuNzItLjc4IDcuNS02IDExYTIyLjM1IDIyLjM1IDAgMCAxLTQgMnoiIC8+CiAgICA8cGF0aCBkPSJNOSAxMkg0cy41NS0zLjAzIDItNGMxLjYyLTEuMDggNSAwIDUgMCIgLz4KICAgIDxwYXRoIGQ9Ik0xMiAxNXY1czMuMDMtLjU1IDQtMmMxLjA4LTEuNjIgMC01IDAtNSIgLz4KICA8L3N2Zz4KKTsKY29uc3QgQnJpZWZjYXNlSWNvbiA9ICgpID0+ICgKICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCI+CiAgICA8cmVjdCB4PSIyIiB5PSI3IiB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIHJ4PSIyIiByeT0iMiIgLz4KICAgIDxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiIgLz4KICA8L3N2Zz4KKTsKY29uc3QgQ3B1SWNvbiA9ICgpID0+ICgKICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjEuNSIgc3Ryb2tlTGluZWNhcD0icm91bmQiIHN0cm9rZUxpbmVqb2luPSJyb3VuZCI+CiAgICA8cmVjdCB4PSI0IiB5PSI0IiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHJ4PSIyIiAvPgogICAgPHJlY3QgeD0iOSIgeT0iOSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgLz4KICAgIDxsaW5lIHgxPSI5IiB5MT0iMSIgeDI9IjkiIHkyPSI0IiAvPgogICAgPGxpbmUgeDE9IjE1IiB5MT0iMSIgeDI9IjE1IiB5Mj0iNCIgLz4KICAgIDxsaW5lIHgxPSI5IiB5MT0iMjAiIHgyPSI5IiB5Mj0iMjMiIC8+CiAgICA8bGluZSB4MT0iMTUiIHkxPSIyMCIgeDI9IjE1IiB5Mj0iMjMiIC8+CiAgICA8bGluZSB4MT0iMjAiIHkxPSI5IiB4Mj0iMjMiIHkyPSI5IiAvPgogICAgPGxpbmUgeDE9IjIwIiB5MT0iMTQiIHgyPSIyMyIgeTI9IjE0IiAvPgogICAgPGxpbmUgeDE9IjEiIHkxPSI5IiB4Mj0iNCIgeTI9IjkiIC8+CiAgICA8bGluZSB4MT0iMSIgeTE9IjE0IiB4Mj0iNCIgeTI9IjE0IiAvPgogIDwvc3ZnPgopOwpjb25zdCBHbG9iZUljb24gPSAoKSA9PiAoCiAgPHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIxLjUiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiPgogICAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgICA8bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIgLz4KICAgIDxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIgLz4KICA8L3N2Zz4KKTsKCi8qIOKUgOKUgCBSZXNvdXJjZSBkYXRhIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCAqLwoKdHlwZSBSZXNvdXJjZSA9IHsKICB0aXRsZTogc3RyaW5nOwogIGRlc2M6IHN0cmluZzsKICB0eXBlOiBzdHJpbmc7CiAgZHVyYXRpb246IHN0cmluZzsKICBpY29uOiBSZWFjdC5SZWFjdE5vZGU7Cn07Cgpjb25zdCBtdWx0aW1lZGlhOiBSZXNvdXJjZVtdID0gWwogIHsKICAgIHRpdGxlOiAiQXVkaW8gRGVlcCBEaXZlIiwKICAgIGRlc2M6ICJEVUFMIE1vZHVsYXIgSW5mcmFzdHJ1Y3R1cmUgZm9yIEFJIEFnZW50cyDigJQgYSBjb252ZXJzYXRpb25hbCBwb2RjYXN0LXN0eWxlIGJyZWFrZG93biBjb3ZlcmluZyB0aGUgcGxhdGZvcm0ncyBhcmNoaXRlY3R1cmUsIGRldmVsb3BlciB0b29scywgYW5kIEFJLW5hdGl2ZSBpbnRlZ3JhdGlvbiBsYXllci4iLAogICAgdHlwZTogIkF1ZGlvIiwKICAgIGR1cmF0aW9uOiAiUG9kY2FzdCIsCiAgICBpY29uOiA8QXVkaW9JY29uIC8+LAogIH0sCiAgewogICAgdGl0bGU6ICJWaWRlbyBFeHBsYWluZXIiLAogICAgZGVzYzogIkFuIGFuaW1hdGVkIHZpc3VhbCB3YWxrdGhyb3VnaCBvZiBEVUFMIOKAlCBmcm9tIHdhbGxldHMgYW5kIHRlbXBsYXRlcyB0byBaSyByb2xsdXBzLCBzbWFydCBjb250cmFjdHMsIGFuZCB0aGUgTUNQIGludGVncmF0aW9uIGxheWVyLiIsCiAgICB0eXBlOiAiVmlkZW8iLAogICAgZHVyYXRpb246ICJBbmltYXRlZCIsCiAgICBpY29uOiA8VmlkZW9JY29uIC8+LAogIH0sCiAgewogICAgdGl0bGU6ICJNaW5kIE1hcCIsCiAgICBkZXNjOiAiQXJjaGl0ZWN0dXJhbCBCbHVlcHJpbnQgZm9yIHRoZSBEVUFMIERldmVsb3BlciBQbGF5Z3JvdW5kIOKAlCBhIHZpc3VhbCBtYXAgc2hvd2luZyBob3cgdGhlIFNESywgQ0xJLCBBUEkgbW9kdWxlcywgTUNQIHNlcnZlciwgYW5kIGluZnJhc3RydWN0dXJlIGNvbXBvbmVudHMgY29ubmVjdC4iLAogICAgdHlwZTogIkludGVyYWN0aXZlIiwKICAgIGR1cmF0aW9uOiAiRXhwbG9yZSIsCiAgICBpY29uOiA8TWluZE1hcEljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkluZm9ncmFwaGljIiwKICAgIGRlc2M6ICJNb2R1bGFyIEJsb2NrY2hhaW4gSW5mcmFzdHJ1Y3R1cmUg4oCUIGEgdmlzdWFsIG92ZXJ2aWV3IG9mIERVQUwncyBhcmNoaXRlY3R1cmUsIHNlcnZpY2UgbGF5ZXJzLCBhbmQgaG93IHRoZSBjb21wb25lbnRzIGZpdCB0b2dldGhlciBhdCBhIGdsYW5jZS4iLAogICAgdHlwZTogIlZpc3VhbCIsCiAgICBkdXJhdGlvbjogIk9uZS1wYWdlciIsCiAgICBpY29uOiA8SW5mb2dyYXBoaWNJY29uIC8+LAogIH0sCl07Cgpjb25zdCBmb3VuZGF0aW9uUmVwb3J0czogUmVzb3VyY2VbXSA9IFsKICB7CiAgICB0aXRsZTogIkV4ZWN1dGl2ZSBQbGF0Zm9ybSBPdmVydmlldyIsCiAgICBkZXNjOiAiRFVBTCBNb2R1bGFyIEJsb2NrY2hhaW4gSW5mcmFzdHJ1Y3R1cmUg4oCUIGEgQy1zdWl0ZSBhbmQgaW52ZXN0b3IgYnJpZWZpbmcgY292ZXJpbmcgdGhlIHZhbHVlIHByb3Bvc2l0aW9uLCBjYXBhYmlsaXRpZXMsIGFuZCBzdHJhdGVnaWMgcG9zaXRpb25pbmcuIiwKICAgIHR5cGU6ICJSZXBvcnQiLAogICAgZHVyYXRpb246ICJFeGVjdXRpdmUgQnJpZWYiLAogICAgaWNvbjogPEJyaWVmY2FzZUljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkRldmVsb3BlciBPbmJvYXJkaW5nIEpvdXJuZXkiLAogICAgZGVzYzogIlRoZSBEVUFMIE9keXNzZXk6IEZyb20gWmVybyB0byBPbi1DaGFpbiBNYXN0ZXJ5IOKAlCBhIG1pbGVzdG9uZS1ieS1taWxlc3RvbmUgZ3VpZGUgZm9sbG93aW5nIGEgZGV2ZWxvcGVyIGZyb20gZmlyc3QgQVBJIGNhbGwgdG8gcHJvZHVjdGlvbiBkZXBsb3ltZW50LiIsCiAgICB0eXBlOiAiUmVwb3J0IiwKICAgIGR1cmF0aW9uOiAiSm91cm5leSBNYXAiLAogICAgaWNvbjogPFJvY2tldEljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkNvbmNlcHR1YWwgRnJhbWV3b3JrIiwKICAgIGRlc2M6ICJEZW15c3RpZnlpbmcgRFVBTDogQSBGb3VuZGF0aW9uIGZvciBNb2R1bGFyIEJsb2NrY2hhaW4gRGV2ZWxvcG1lbnQg4oCUIGJyZWFrIGRvd24gRFVBTCdzIGNvcmUgY29uY2VwdHMsIHByaW1pdGl2ZXMsIGFuZCBkZXNpZ24gcGhpbG9zb3BoeSBmb3IgbmV3Y29tZXJzLiIsCiAgICB0eXBlOiAiUmVwb3J0IiwKICAgIGR1cmF0aW9uOiAiR3VpZGUiLAogICAgaWNvbjogPEJ1bGJJY29uIC8+LAogIH0sCiAgewogICAgdGl0bGU6ICJXb3JrZmxvdyBOYXJyYXRpdmUiLAogICAgZGVzYzogIlRoZSBMaWZlIG9mIGEgRGlnaXRhbCBBc3NldDogQSBOYXJyYXRpdmUgSm91cm5leSB0aHJvdWdoIERVQUwg4oCUIGZvbGxvdyBhIHRva2VuIGZyb20gY3JlYXRpb24gdG8gdHJhbnNmZXIsIGV4cGxvcmluZyBldmVyeSBzZXJ2aWNlIGl0IHRvdWNoZXMgYWxvbmcgdGhlIHdheS4iLAogICAgdHlwZTogIlJlcG9ydCIsCiAgICBkdXJhdGlvbjogIlN0b3J5IiwKICAgIGljb246IDxCb29rSWNvbiAvPiwKICB9LApdOwoKY29uc3QgdGVjaG5pY2FsUmVwb3J0czogUmVzb3VyY2VbXSA9IFsKICB7CiAgICB0aXRsZTogIkFJIEludGVncmF0aW9uIERlZXAgRGl2ZSIsCiAgICBkZXNjOiAiQnJpZGdpbmcgdGhlIEZyb250aWVyIG9mIEFJIGFuZCBCbG9ja2NoYWluIEluZnJhc3RydWN0dXJlIOKAlCBjb3ZlcmluZyB0aGUgTUNQIFNlcnZlciwgQ2xhdWRlIHBsdWdpbnMsIEFJLXBvd2VyZWQgYXV0b21hdGlvbiwgYW5kIHRoZSBjb252ZXJnZW5jZSBvZiBBSSArIGJsb2NrY2hhaW4uIiwKICAgIHR5cGU6ICJSZXBvcnQiLAogICAgZHVyYXRpb246ICJEZWVwIERpdmUiLAogICAgaWNvbjogPENwdUljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIlNlY3VyaXR5ICYgSWRlbnRpdHkgQXJjaGl0ZWN0dXJlIiwKICAgIGRlc2M6ICJFbnRlcnByaXNlLWdyYWRlIHNlY3VyaXR5IGFuYWx5c2lzIGNvdmVyaW5nIGF1dGhlbnRpY2F0aW9uLCB3YWxsZXQtYmFzZWQgaWRlbnRpdHksIHdvcmtzcGFjZSBpc29sYXRpb24sIFpLIHJvbGx1cCBwcml2YWN5LCBhbmQgdGhlIGNyeXB0b2dyYXBoaWMgdHJ1c3QgbW9kZWwuIiwKICAgIHR5cGU6ICJSZXBvcnQiLAogICAgZHVyYXRpb246ICJBcmNoaXRlY3R1cmUiLAogICAgaWNvbjogPFNoaWVsZEljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkFQSSBUZWNobmljYWwgUmVmZXJlbmNlIEd1aWRlIiwKICAgIGRlc2M6ICJUaGUgZGVmaW5pdGl2ZSBjb21wYW5pb24gZG9jdW1lbnQg4oCUIGV2ZXJ5IEFQSSBtb2R1bGUgZnJvbSBhdXRoZW50aWNhdGlvbiB0byB3ZWJob29rcywgd2l0aCByZXF1ZXN0L3Jlc3BvbnNlIHBhdHRlcm5zLCBwYWdpbmF0aW9uLCBlcnJvciBoYW5kbGluZywgYW5kIGJlc3QgcHJhY3RpY2VzLiIsCiAgICB0eXBlOiAiUmVwb3J0IiwKICAgIGR1cmF0aW9uOiAiUmVmZXJlbmNlIiwKICAgIGljb246IDxDb2RlSWNvbiAvPiwKICB9LAogIHsKICAgIHRpdGxlOiAiSW5mcmFzdHJ1Y3R1cmUgJiBTY2FsYWJpbGl0eSIsCiAgICBkZXNjOiAiQSB0ZWNobmljYWwgZGVlcCBkaXZlIGludG8gdGhlIFNlcXVlbmNlciwgWksgUm9sbHVwIGxheWVyLCBzbWFydCBjb250cmFjdHMsIGFuZCBob3cgRFVBTCdzIG1vZHVsYXIgZGVzaWduIGVuYWJsZXMgaW5kZXBlbmRlbnQgaG9yaXpvbnRhbCBzY2FsaW5nLiIsCiAgICB0eXBlOiAiUmVwb3J0IiwKICAgIGR1cmF0aW9uOiAiRGVlcCBEaXZlIiwKICAgIGljb246IDxMYXllcnNJY29uIC8+LAogIH0sCl07Cgpjb25zdCBzdHJhdGVneVJlcG9ydHM6IFJlc291cmNlW10gPSBbCiAgewogICAgdGl0bGU6ICJFbnRlcnByaXNlIFVzZSBDYXNlcyAmIFJPSSIsCiAgICBkZXNjOiAiQ29tcGVsbGluZyByZWFsLXdvcmxkIHVzZSBjYXNlcyBhY3Jvc3MgaW5kdXN0cmllcyDigJQgZGlnaXRhbCBpZGVudGl0eSwgc3VwcGx5IGNoYWluLCBsb3lhbHR5IHByb2dyYW1zLCBnYW1pbmcgYXNzZXRzLCBhbmQgbW9yZSDigJQgd2l0aCBidXNpbmVzcyB2YWx1ZSBhbmFseXNpcy4iLAogICAgdHlwZTogIlJlcG9ydCIsCiAgICBkdXJhdGlvbjogIkFuYWx5c2lzIiwKICAgIGljb246IDxCYXJDaGFydEljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkNvbXBldGl0aXZlIExhbmRzY2FwZSBBbmFseXNpcyIsCiAgICBkZXNjOiAiU3RyYXRlZ2ljIGRpZmZlcmVudGlhdGlvbiBhbmFseXNpcyBwb3NpdGlvbmluZyBEVUFMIGFnYWluc3QgRXRoZXJldW0sIEFsY2hlbXksIE1vcmFsaXMsIGFuZCB0aGUgYnJvYWRlciBXZWIzIGluZnJhc3RydWN0dXJlIG1hcmtldC4iLAogICAgdHlwZTogIlJlcG9ydCIsCiAgICBkdXJhdGlvbjogIlN0cmF0ZWd5IiwKICAgIGljb246IDxUYXJnZXRJY29uIC8+LAogIH0sCiAgewogICAgdGl0bGU6ICJEZXZlbG9wZXIgRWNvc3lzdGVtICYgVG9vbGluZyIsCiAgICBkZXNjOiAiRnVsbCBzdWl0ZSB3YWxrdGhyb3VnaCDigJQgU0RLLCBDTEksIFBvc3RtYW4sIE1DUCBTZXJ2ZXIsIENsYXVkZSBwbHVnaW5zLCBhbmQgbGVhcm5pbmcgcmVzb3VyY2VzIOKAlCB3aXRoIGEgdG9vbCBzZWxlY3Rpb24gbWF0cml4IGZvciBldmVyeSB1c2UgY2FzZS4iLAogICAgdHlwZTogIlJlcG9ydCIsCiAgICBkdXJhdGlvbjogIkVjb3N5c3RlbSIsCiAgICBpY29uOiA8VG9vbGJveEljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkZ1dHVyZSBSb2FkbWFwICYgVmlzaW9uIiwKICAgIGRlc2M6ICJUaGUgRnV0dXJlIG9mIEFJLU5hdGl2ZSBCbG9ja2NoYWluIEluZnJhc3RydWN0dXJlIOKAlCBhIHZpc2lvbmFyeSBkb2N1bWVudCB3aXRoIHBoYXNlZCByb2FkbWFwIGNvdmVyaW5nIGRlZXBlciBBSSBhdXRvbm9teSwgY3Jvc3MtY2hhaW4gaW50ZXJvcGVyYWJpbGl0eSwgYW5kIERJRCBzdGFuZGFyZHMuIiwKICAgIHR5cGU6ICJSZXBvcnQiLAogICAgZHVyYXRpb246ICJWaXNpb24iLAogICAgaWNvbjogPEdsb2JlSWNvbiAvPiwKICB9LApdOwoKY29uc3QgbGVnYWN5UmVwb3J0czogUmVzb3VyY2VbXSA9IFsKICB7CiAgICB0aXRsZTogIlNvbHV0aW9uIEFyY2hpdGVjdHVyZSIsCiAgICBkZXNjOiAiQUktRW5oYW5jZWQgQmxvY2tjaGFpbiBJbmZyYXN0cnVjdHVyZTogVGhlIERVQUwgU29sdXRpb24gQXJjaGl0ZWN0dXJlIOKAlCBhIGNvbXByZWhlbnNpdmUgZG9jdW1lbnQgY292ZXJpbmcgc3lzdGVtIGRlc2lnbiwgc2VydmljZSBib3VuZGFyaWVzLCBhbmQgaW50ZWdyYXRpb24gcGF0dGVybnMuIiwKICAgIHR5cGU6ICJSZXBvcnQiLAogICAgZHVyYXRpb246ICJEZWVwIHJlYWQiLAogICAgaWNvbjogPERvY0ljb24gLz4sCiAgfSwKICB7CiAgICB0aXRsZTogIkludGVncmF0aW9uIFByb3Bvc2FsIiwKICAgIGRlc2M6ICJTdHJhdGVnaWMgSW50ZWdyYXRpb24gUHJvcG9zYWw6IERVQUwgTW9kdWxhciBJbmZyYXN0cnVjdHVyZSDigJQgYSB0ZWNobmljYWwgcHJvcG9zYWwgZG9jdW1lbnQgZm9yIGV2YWx1YXRpbmcgYW5kIGFkb3B0aW5nIERVQUwgd2l0aGluIGFuIGV4aXN0aW5nIHN0YWNrLiIsCiAgICB0eXBlOiAiUmVwb3J0IiwKICAgIGR1cmF0aW9uOiAiUHJvcG9zYWwiLAogICAgaWNvbjogPEJvbHRJY29uIC8+LAogIH0sCl07CgovKiDilIDilIAgU2VjdGlvbiByZW5kZXJlciDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAgKi8KCmZ1bmN0aW9uIFJlc291cmNlU2VjdGlvbih7IHRpdGxlLCBzdWJ0aXRsZSwgaXRlbXMgfTogeyB0aXRsZTogc3RyaW5nOyBzdWJ0aXRsZTogc3RyaW5nOyBpdGVtczogUmVzb3VyY2VbXSB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtYi0xMCI+CiAgICAgIDxoMgogICAgICAgIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgbWItMSIKICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1yYWpkaGFuaSkiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19CiAgICAgID4KICAgICAgICB7dGl0bGV9CiAgICAgIDwvaDI+CiAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBtYi01IiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIHtzdWJ0aXRsZX0KICAgICAgPC9wPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBzbTpncmlkLWNvbHMtMiI+CiAgICAgICAge2l0ZW1zLm1hcCgocikgPT4gKAogICAgICAgICAgPGEKICAgICAgICAgICAga2V5PXtyLnRpdGxlfQogICAgICAgICAgICBocmVmPXtub3RlYm9va1VybH0KICAgICAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgICAgIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciIKICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLXN0YXJ0IGdhcC00IHAtNSByb3VuZGVkLXhsIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBob3ZlcjpzaGFkb3ctbWQiCiAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaHJpbmstMCB3LTExIGgtMTEgcm91bmRlZC14bCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0cmFuc2l0aW9uLWNvbG9ycyBncm91cC1ob3ZlcjpiZy1bIzE1YjhhN10vMTUgZ3JvdXAtaG92ZXI6dGV4dC1bIzE1YjhhN10iCiAgICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAicmdiYSgyMSwxODQsMTY3LDAuMDgpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIHtyLmljb259CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIG1pbi13LTAiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi0xIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICAgICAgICAgIHtyLnRpdGxlfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LVs5cHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciBweC0xLjUgcHktMC41IHJvdW5kZWQiCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgYmFja2dyb3VuZENvbG9yOiAicmdiYSgyMSwxODQsMTY3LDAuMSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICB7ci50eXBlfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBsZWFkaW5nLXJlbGF4ZWQgbWItMiIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICAgIHtyLmRlc2N9CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gZm9udC1tZWRpdW0iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgICB7ci5kdXJhdGlvbn0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9hPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0KCi8qIOKUgOKUgCBQYWdlIOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgCAqLwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTGVhcm5QYWdlKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctNHhsIG14LWF1dG8gcHgtOCBweS0xMiI+CiAgICAgIDxCcmVhZGNydW1iIGl0ZW1zPXtbeyBsYWJlbDogIkRvY3MiLCBocmVmOiAiL2RvY3MiIH0sIHsgbGFiZWw6ICJMZWFybiIgfV19IC8+CgogICAgICA8aDEKICAgICAgICBjbGFzc05hbWU9InRleHQtM3hsIGZvbnQtYm9sZCBtYi0zIgogICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0KICAgICAgPgogICAgICAgIExlYXJuIERVQUwKICAgICAgPC9oMT4KICAgICAgPHAgY2xhc3NOYW1lPSJtYi0xMCBsZWFkaW5nLXJlbGF4ZWQgbWF4LXctMnhsIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIEV4cGxvcmUgRFVBTCB0aHJvdWdoIEFJLWdlbmVyYXRlZCBsZWFybmluZyByZXNvdXJjZXMg4oCUIGF1ZGlvIG92ZXJ2aWV3cywgdmlkZW8gZXhwbGFpbmVycywgaW50ZXJhY3RpdmUgbWluZCBtYXBzLCBhbmQgMTQgaW4tZGVwdGggcmVwb3J0cyBjb3ZlcmluZyBldmVyeSBhbmdsZSBmcm9tIGV4ZWN1dGl2ZSBicmllZmluZ3MgdG8gdGVjaG5pY2FsIGRlZXAgZGl2ZXMuIFBvd2VyZWQgYnkgR29vZ2xlIE5vdGVib29rTE0uCiAgICAgIDwvcD4KCiAgICAgIHsvKiBOb3RlYm9va0xNIENUQSBCYW5uZXIgKi99CiAgICAgIDxhCiAgICAgICAgaHJlZj17bm90ZWJvb2tVcmx9CiAgICAgICAgdGFyZ2V0PSJfYmxhbmsiCiAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgYmxvY2sgbWItMTAgcC02IHJvdW5kZWQteGwgYm9yZGVyIHRyYW5zaXRpb24tYWxsIGhvdmVyOnNoYWRvdy1sZyIKICAgICAgICBzdHlsZT17ewogICAgICAgICAgYmFja2dyb3VuZDogImxpbmVhci1ncmFkaWVudCgxMzVkZWcsIHJnYmEoMjEsMTg0LDE2NywwLjA4KSAwJSwgcmdiYSg5OSwxMDIsMjQxLDAuMDgpIDEwMCUpIiwKICAgICAgICAgIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsCiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2hyaW5rLTAgdy0xNCBoLTE0IHJvdW5kZWQtMnhsIGJnLVsjMTViOGE3XS8xNSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgIDxzdmcgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiB2aWV3Qm94PSIwIDAgNDggNDgiIGZpbGw9Im5vbmUiPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yNCA0QzEyLjk1IDQgNCAxMi45NSA0IDI0czguOTUgMjAgMjAgMjAgMjAtOC45NSAyMC0yMFMzNS4wNSA0IDI0IDR6IiBmaWxsPSJub25lIi8+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTMzLjIgMTguNkgyNnYtNy4yYzAtLjk5LS44MS0xLjgtMS44LTEuOGgtLjRjLS45OSAwLTEuOC44MS0xLjggMS44djcuMmgtNy4yYy0uOTkgMC0xLjguODEtMS44IDEuOHYuNGMwIC45OS44MSAxLjggMS44IDEuOEgyMnY3LjJjMCAuOTkuODEgMS44IDEuOCAxLjhoLjRjLjk5IDAgMS44LS44MSAxLjgtMS44di03LjJoNy4yYy45OSAwIDEuOC0uODEgMS44LTEuOHYtLjRjMC0uOTktLjgxLTEuOC0xLjgtMS44eiIgZmlsbD0iIzE1YjhhNyIvPgogICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMCAxNGw0LTQgNCA0TTEwIDE0djEwIiBzdHJva2U9IiM0Mjg1RjQiIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIi8+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTM0IDM0bDQtNC00LTQiIHN0cm9rZT0iI0VBNDMzNSIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiLz4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMTQgMzhsLTQtNCA0LTQiIHN0cm9rZT0iI0ZCQkMwNSIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiLz4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMzggMTBsLTQgNCA0IDRNMzggMTB2MTAiIHN0cm9rZT0iIzM0QTg1MyIgc3Ryb2tlV2lkdGg9IjIiIHN0cm9rZUxpbmVjYXA9InJvdW5kIiBzdHJva2VMaW5lam9pbj0icm91bmQiLz4KICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgbWluLXctMCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0xIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1zZW1pYm9sZCIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fT4KICAgICAgICAgICAgICAgIE9wZW4gaW4gR29vZ2xlIE5vdGVib29rTE0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gZm9udC1ib2xkIHRyYWNraW5nLXdpZGVyIHB4LTIuNSBweS0xIHJvdW5kZWQtZnVsbCIKICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmRDb2xvcjogIiMxNWI4YTciLCBjb2xvcjogIndoaXRlIiB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDE4IFJFU09VUkNFUwogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICBDaGF0IHdpdGggYW4gQUkgdGhhdCBrbm93cyB0aGUgZW50aXJlIERVQUwgZG9jdW1lbnRhdGlvbi4gQXNrIHF1ZXN0aW9ucywgZXhwbG9yZSBjb25jZXB0cywgYW5kIGdlbmVyYXRlIGN1c3RvbSBleHBsYW5hdGlvbnMgaW4gcmVhbC10aW1lLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzaHJpbmstMCB0cmFuc2l0aW9uLXRyYW5zZm9ybSBncm91cC1ob3Zlcjp0cmFuc2xhdGUteC0xIiBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMTggMTN2NmEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY4YTIgMiAwIDAgMSAyLTJoNiIgLz4KICAgICAgICAgICAgICA8cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIgLz4KICAgICAgICAgICAgICA8bGluZSB4MT0iMTAiIHkxPSIxNCIgeDI9IjIxIiB5Mj0iMyIgLz4KICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9hPgoKICAgICAgey8qIE11bHRpbWVkaWEgKi99CiAgICAgIDxSZXNvdXJjZVNlY3Rpb24KICAgICAgICB0aXRsZT0iTXVsdGltZWRpYSIKICAgICAgICBzdWJ0aXRsZT0iQXVkaW8sIHZpZGVvLCBhbmQgdmlzdWFsIHJlc291cmNlcyBnZW5lcmF0ZWQgZnJvbSB0aGUgRFVBTCBkb2N1bWVudGF0aW9uLiIKICAgICAgICBpdGVtcz17bXVsdGltZWRpYX0KICAgICAgLz4KCiAgICAgIHsvKiBGb3VuZGF0aW9uICYgT25ib2FyZGluZyAqL30KICAgICAgPFJlc291cmNlU2VjdGlvbgogICAgICAgIHRpdGxlPSJGb3VuZGF0aW9uICYgT25ib2FyZGluZyIKICAgICAgICBzdWJ0aXRsZT0iU3RhcnQgaGVyZSDigJQgZXhlY3V0aXZlIG92ZXJ2aWV3cywgZGV2ZWxvcGVyIGpvdXJuZXlzLCBhbmQgY29yZSBjb25jZXB0IGJyZWFrZG93bnMuIgogICAgICAgIGl0ZW1zPXtmb3VuZGF0aW9uUmVwb3J0c30KICAgICAgLz4KCiAgICAgIHsvKiBUZWNobmljYWwgRGVlcCBEaXZlcyAqL30KICAgICAgPFJlc291cmNlU2VjdGlvbgogICAgICAgIHRpdGxlPSJUZWNobmljYWwgRGVlcCBEaXZlcyIKICAgICAgICBzdWJ0aXRsZT0iQXJjaGl0ZWN0dXJlLCBzZWN1cml0eSwgQVBJIHJlZmVyZW5jZSwgYW5kIGluZnJhc3RydWN0dXJlIGFuYWx5c2lzIGZvciBlbmdpbmVlcnMuIgogICAgICAgIGl0ZW1zPXt0ZWNobmljYWxSZXBvcnRzfQogICAgICAvPgoKICAgICAgey8qIFN0cmF0ZWd5ICYgTWFya2V0IFBvc2l0aW9uICovfQogICAgICA8UmVzb3VyY2VTZWN0aW9uCiAgICAgICAgdGl0bGU9IlN0cmF0ZWd5ICYgTWFya2V0IFBvc2l0aW9uIgogICAgICAgIHN1YnRpdGxlPSJVc2UgY2FzZXMsIGNvbXBldGl0aXZlIGFuYWx5c2lzLCBlY29zeXN0ZW0gb3ZlcnZpZXcsIGFuZCBmb3J3YXJkLWxvb2tpbmcgdmlzaW9uLiIKICAgICAgICBpdGVtcz17c3RyYXRlZ3lSZXBvcnRzfQogICAgICAvPgoKICAgICAgey8qIE9yaWdpbmFsIFJlcG9ydHMgKi99CiAgICAgIDxSZXNvdXJjZVNlY3Rpb24KICAgICAgICB0aXRsZT0iQXJjaGl0ZWN0dXJlIERvY3VtZW50cyIKICAgICAgICBzdWJ0aXRsZT0iU29sdXRpb24gYXJjaGl0ZWN0dXJlIGFuZCBpbnRlZ3JhdGlvbiBwcm9wb3NhbCBmcm9tIHRoZSBvcmlnaW5hbCBkb2N1bWVudGF0aW9uIGFuYWx5c2lzLiIKICAgICAgICBpdGVtcz17bGVnYWN5UmVwb3J0c30KICAgICAgLz4KCiAgICAgIHsvKiBXaGF0IGlzIE5vdGVib29rTE0gc2VjdGlvbiAqL30KICAgICAgPGRpdgogICAgICAgIGNsYXNzTmFtZT0ibXQtMiBwLTYgcm91bmRlZC14bCBib3JkZXIiCiAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19CiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgbWItMyI+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij4KICAgICAgICAgICAgPHBhdGggZmlsbD0iI0VBNDMzNSIgZD0iTTI0IDkuNWMzLjU0IDAgNi43MSAxLjIyIDkuMjEgMy42bDYuODUtNi44NUMzNS45IDIuMzggMzAuNDcgMCAyNCAwIDE0LjYyIDAgNi41MSA1LjM4IDIuNTYgMTMuMjJsNy45OCA2LjE5QzEyLjQzIDEzLjcyIDE3Ljc0IDkuNSAyNCA5LjV6Ii8+CiAgICAgICAgICAgIDxwYXRoIGZpbGw9IiM0Mjg1RjQiIGQ9Ik00Ni45OCAyNC41NWMwLTEuNTctLjE1LTMuMDktLjM4LTQuNTVIMjR2OS4wMmgxMi45NGMtLjU4IDIuOTYtMi4yNiA1LjQ4LTQuNzggNy4xOGw3LjczIDZjNC41MS00LjE4IDcuMDktMTAuMzYgNy4wOS0xNy42NXoiLz4KICAgICAgICAgICAgPHBhdGggZmlsbD0iI0ZCQkMwNSIgZD0iTTEwLjUzIDI4LjU5QTE0LjUgMTQuNSAwIDAgMSA5LjUgMjRjMC0xLjU5LjI4LTMuMTQuNzYtNC41OWwtNy45OC02LjE5QTIzLjk5IDIzLjk5IDAgMCAwIDAgMjRjMCAzLjc3Ljg3IDcuMzUgMi41NiAxMC43OGw3Ljk3LTYuMTl6Ii8+CiAgICAgICAgICAgIDxwYXRoIGZpbGw9IiMzNEE4NTMiIGQ9Ik0yNCA0OGM2LjQ4IDAgMTEuOTMtMi4xMyAxNS44OS01LjgxbC03LjczLTZjLTIuMTUgMS40NS00LjkyIDIuMy04LjE2IDIuMy02LjI2IDAtMTEuNTctNC4yMi0xMy40Ny05LjkxbC03Ljk4IDYuMTlDNi41MSA0Mi42MiAxNC42MiA0OCAyNCA0OHoiLz4KICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgPGgzCiAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1iYXNlIGZvbnQtYm9sZCIKICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICBXaGF0IGlzIEdvb2dsZSBOb3RlYm9va0xNPwogICAgICAgICAgPC9oMz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy1yZWxheGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgR29vZ2xlIE5vdGVib29rTE0gaXMgYW4gQUktcG93ZXJlZCByZXNlYXJjaCBhbmQgbGVhcm5pbmcgdG9vbCBieSBHb29nbGUuIFdlJmFwb3M7dmUgbG9hZGVkIHRoZSBjb21wbGV0ZSBEVUFMIGRvY3VtZW50YXRpb24gYXMgYSBzb3VyY2UsIHNvIHRoZSBBSSBjYW4gYW5zd2VyIHF1ZXN0aW9ucywgZ2VuZXJhdGUgc3VtbWFyaWVzLCBjcmVhdGUgYXVkaW8vdmlkZW8gb3ZlcnZpZXdzLCBidWlsZCBpbmZvZ3JhcGhpY3MsIGFuZCBtb3JlIOKAlCBhbGwgZ3JvdW5kZWQgaW4gb3VyIGFjdHVhbCBkb2NzLiBUaGluayBvZiBpdCBhcyBhIHBlcnNvbmFsIHR1dG9yIGZvciB0aGUgRFVBTCBwbGF0Zm9ybS4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+import Link from "next/link";
+import Breadcrumb from "@/components/Breadcrumb";
+
+export const metadata = { title: "Learn — DUAL Docs" };
+
+const notebookUrl = "https://notebooklm.google.com/notebook/d7d51911-deda-4fd0-82a9-afeff6ff5b89";
+
+/* ── Icon components ─────────────────────────────────────────────── */
+
+const AudioIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M9 18V5l12-2v13" />
+    <circle cx="6" cy="18" r="3" />
+    <circle cx="18" cy="16" r="3" />
+  </svg>
+);
+const VideoIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <polygon points="5 3 19 12 5 21 5 3" />
+  </svg>
+);
+const MindMapIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <circle cx="12" cy="12" r="3" />
+    <path d="M12 2v4m0 12v4M2 12h4m12 0h4M4.93 4.93l2.83 2.83m8.48 8.48l2.83 2.83M4.93 19.07l2.83-2.83m8.48-8.48l2.83-2.83" />
+  </svg>
+);
+const InfographicIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <rect x="3" y="3" width="18" height="18" rx="2" />
+    <path d="M3 9h18" />
+    <path d="M9 21V9" />
+  </svg>
+);
+const DocIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+    <polyline points="14 2 14 8 20 8" />
+    <line x1="16" y1="13" x2="8" y2="13" />
+    <line x1="16" y1="17" x2="8" y2="17" />
+  </svg>
+);
+const BookIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+    <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+  </svg>
+);
+const BulbIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <circle cx="12" cy="12" r="10" />
+    <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" />
+    <line x1="12" y1="17" x2="12.01" y2="17" />
+  </svg>
+);
+const BoltIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
+  </svg>
+);
+const ShieldIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+  </svg>
+);
+const CodeIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <polyline points="16 18 22 12 16 6" />
+    <polyline points="8 6 2 12 8 18" />
+  </svg>
+);
+const BarChartIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <line x1="18" y1="20" x2="18" y2="10" />
+    <line x1="12" y1="20" x2="12" y2="4" />
+    <line x1="6" y1="20" x2="6" y2="14" />
+  </svg>
+);
+const LayersIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <polygon points="12 2 2 7 12 12 22 7 12 2" />
+    <polyline points="2 17 12 22 22 17" />
+    <polyline points="2 12 12 17 22 12" />
+  </svg>
+);
+const TargetIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <circle cx="12" cy="12" r="10" />
+    <circle cx="12" cy="12" r="6" />
+    <circle cx="12" cy="12" r="2" />
+  </svg>
+);
+const ToolboxIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" />
+  </svg>
+);
+const RocketIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z" />
+    <path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z" />
+    <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0" />
+    <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" />
+  </svg>
+);
+const BriefcaseIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <rect x="2" y="7" width="20" height="14" rx="2" ry="2" />
+    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" />
+  </svg>
+);
+const CpuIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <rect x="4" y="4" width="16" height="16" rx="2" />
+    <rect x="9" y="9" width="6" height="6" />
+    <line x1="9" y1="1" x2="9" y2="4" />
+    <line x1="15" y1="1" x2="15" y2="4" />
+    <line x1="9" y1="20" x2="9" y2="23" />
+    <line x1="15" y1="20" x2="15" y2="23" />
+    <line x1="20" y1="9" x2="23" y2="9" />
+    <line x1="20" y1="14" x2="23" y2="14" />
+    <line x1="1" y1="9" x2="4" y2="9" />
+    <line x1="1" y1="14" x2="4" y2="14" />
+  </svg>
+);
+const GlobeIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+    <circle cx="12" cy="12" r="10" />
+    <line x1="2" y1="12" x2="22" y2="12" />
+    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+  </svg>
+);
+
+/* ── Resource data ───────────────────────────────────────────────── */
+
+type Resource = {
+  title: string;
+  desc: string;
+  type: string;
+  duration: string;
+  icon: React.ReactNode;
+};
+
+const multimedia: Resource[] = [
+  {
+    title: "Audio Deep Dive",
+    desc: "DUAL Modular Infrastructure for AI Agents — a conversational podcast-style breakdown covering the platform's architecture, developer tools, and AI-native integration layer.",
+    type: "Audio",
+    duration: "Podcast",
+    icon: <AudioIcon />,
+  },
+  {
+    title: "Video Explainer",
+    desc: "An animated visual walkthrough of DUAL — from wallets and templates to ZK rollups, smart contracts, and the MCP integration layer.",
+    type: "Video",
+    duration: "Animated",
+    icon: <VideoIcon />,
+  },
+  {
+    title: "Mind Map",
+    desc: "Architectural Blueprint for the DUAL Developer Playground — a visual map showing how the SDK, CLI, API modules, MCP server, and infrastructure components connect.",
+    type: "Interactive",
+    duration: "Explore",
+    icon: <MindMapIcon />,
+  },
+  {
+    title: "Infographic",
+    desc: "Modular Blockchain Infrastructure — a visual overview of DUAL's architecture, service layers, and how the components fit together at a glance.",
+    type: "Visual",
+    duration: "One-pager",
+    icon: <InfographicIcon />,
+  },
+];
+
+const foundationReports: Resource[] = [
+  {
+    title: "Executive Platform Overview",
+    desc: "DUAL Modular Blockchain Infrastructure — a C-suite and investor briefing covering the value proposition, capabilities, and strategic positioning.",
+    type: "Report",
+    duration: "Executive Brief",
+    icon: <BriefcaseIcon />,
+  },
+  {
+    title: "Developer Onboarding Journey",
+    desc: "The DUAL Odyssey: From Zero to On-Chain Mastery — a milestone-by-milestone guide following a developer from first API call to production deployment.",
+    type: "Report",
+    duration: "Journey Map",
+    icon: <RocketIcon />,
+  },
+  {
+    title: "Conceptual Framework",
+    desc: "Demystifying DUAL: A Foundation for Modular Blockchain Development — break down DUAL's core concepts, primitives, and design philosophy for newcomers.",
+    type: "Report",
+    duration: "Guide",
+    icon: <BulbIcon />,
+  },
+  {
+    title: "Workflow Narrative",
+    desc: "The Life of a Digital Asset: A Narrative Journey through DUAL — follow a token from creation to transfer, exploring every service it touches along the way.",
+    type: "Report",
+    duration: "Story",
+    icon: <BookIcon />,
+  },
+];
+
+const technicalReports: Resource[] = [
+  {
+    title: "AI Integration Deep Dive",
+    desc: "Bridging the Frontier of AI and Blockchain Infrastructure — covering the MCP Server, Claude plugins, AI-powered automation, and the convergence of AI + blockchain.",
+    type: "Report",
+    duration: "Deep Dive",
+    icon: <CpuIcon />,
+  },
+  {
+    title: "Security & Identity Architecture",
+    desc: "Enterprise-grade security analysis covering authentication, wallet-based identity, workspace isolation, ZK rollup privacy, and the cryptographic trust model.",
+    type: "Report",
+    duration: "Architecture",
+    icon: <ShieldIcon />,
+  },
+  {
+    title: "API Technical Reference Guide",
+    desc: "The definitive companion document — every API module from authentication to webhooks, with request/response patterns, pagination, error handling, and best practices.",
+    type: "Report",
+    duration: "Reference",
+    icon: <CodeIcon />,
+  },
+  {
+    title: "Infrastructure & Scalability",
+    desc: "A technical deep dive into the Sequencer, ZK Rollup layer, smart contracts, and how DUAL's modular design enables independent horizontal scaling.",
+    type: "Report",
+    duration: "Deep Dive",
+    icon: <LayersIcon />,
+  },
+];
+
+const strategyReports: Resource[] = [
+  {
+    title: "Enterprise Use Cases & ROI",
+    desc: "Compelling real-world use cases across industries — digital identity, supply chain, loyalty programs, gaming assets, and more — with business value analysis.",
+    type: "Report",
+    duration: "Analysis",
+    icon: <BarChartIcon />,
+  },
+  {
+    title: "Competitive Landscape Analysis",
+    desc: "Strategic differentiation analysis positioning DUAL against Ethereum, Alchemy, Moralis, and the broader Web3 infrastructure market.",
+    type: "Report",
+    duration: "Strategy",
+    icon: <TargetIcon />,
+  },
+  {
+    title: "Developer Ecosystem & Tooling",
+    desc: "Full suite walkthrough — SDK, CLI, Postman, MCP Server, Claude plugins, and learning resources — with a tool selection matrix for every use case.",
+    type: "Report",
+    duration: "Ecosystem",
+    icon: <ToolboxIcon />,
+  },
+  {
+    title: "Future Roadmap & Vision",
+    desc: "The Future of AI-Native Blockchain Infrastructure — a visionary document with phased roadmap covering deeper AI autonomy, cross-chain interoperability, and DID standards.",
+    type: "Report",
+    duration: "Vision",
+    icon: <GlobeIcon />,
+  },
+];
+
+const legacyReports: Resource[] = [
+  {
+    title: "Solution Architecture",
+    desc: "AI-Enhanced Blockchain Infrastructure: The DUAL Solution Architecture — a comprehensive document covering system design, service boundaries, and integration patterns.",
+    type: "Report",
+    duration: "Deep read",
+    icon: <DocIcon />,
+  },
+  {
+    title: "Integration Proposal",
+    desc: "Strategic Integration Proposal: DUAL Modular Infrastructure — a technical proposal document for evaluating and adopting DUAL within an existing stack.",
+    type: "Report",
+    duration: "Proposal",
+    icon: <BoltIcon />,
+  },
+];
+
+/* ── Section renderer ────────────────────────────────────────────── */
+
+function ResourceSection({ title, subtitle, items }: { title: string; subtitle: string; items: Resource[] }) {
+  return (
+    <div className="mb-10">
+      <h2
+        className="text-xl font-bold mb-1"
+        style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+      >
+        {title}
+      </h2>
+      <p className="text-sm mb-5" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        {subtitle}
+      </p>
+      <div className="grid gap-4 sm:grid-cols-2">
+        {items.map((r) => (
+          <a
+            key={r.title}
+            href={notebookUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex items-start gap-4 p-5 rounded-xl border transition-all hover:shadow-md"
+            style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+          >
+            <div
+              className="shrink-0 w-11 h-11 rounded-xl flex items-center justify-center transition-colors group-hover:bg-[#15b8a7]/15 group-hover:text-[#15b8a7]"
+              style={{ backgroundColor: "rgba(21,184,167,0.08)", color: "var(--text-muted)" }}
+            >
+              {r.icon}
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="flex items-center gap-2 mb-1">
+                <span className="text-sm font-semibold" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-primary)" }}>
+                  {r.title}
+                </span>
+                <span
+                  className="text-[9px] font-bold tracking-wider px-1.5 py-0.5 rounded"
+                  style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "rgba(21,184,167,0.1)", color: "var(--text-muted)" }}
+                >
+                  {r.type}
+                </span>
+              </div>
+              <p className="text-xs leading-relaxed mb-2" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+                {r.desc}
+              </p>
+              <span className="text-[10px] font-medium" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+                {r.duration}
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+/* ── Page ─────────────────────────────────────────────────────────── */
+
+export default function LearnPage() {
+  return (
+    <div className="max-w-4xl mx-auto px-8 py-12">
+      <Breadcrumb items={[{ label: "Docs", href: "/docs" }, { label: "Learn" }]} />
+
+      <h1
+        className="text-3xl font-bold mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+      >
+        Learn DUAL
+      </h1>
+      <p className="mb-10 leading-relaxed max-w-2xl" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        Explore DUAL through AI-generated learning resources — audio overviews, video explainers, interactive mind maps, and 14 in-depth reports covering every angle from executive briefings to technical deep dives. Powered by Google NotebookLM.
+      </p>
+
+      {/* NotebookLM CTA Banner */}
+      <a
+        href={notebookUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="group block mb-10 p-6 rounded-xl border transition-all hover:shadow-lg"
+        style={{
+          background: "linear-gradient(135deg, rgba(21,184,167,0.08) 0%, rgba(99,102,241,0.08) 100%)",
+          borderColor: "var(--border)",
+        }}
+      >
+        <div className="flex items-center gap-4">
+          <div className="shrink-0 w-14 h-14 rounded-2xl bg-[#15b8a7]/15 flex items-center justify-center">
+            <svg width="30" height="30" viewBox="0 0 48 48" fill="none">
+              <path d="M24 4C12.95 4 4 12.95 4 24s8.95 20 20 20 20-8.95 20-20S35.05 4 24 4z" fill="none"/>
+              <path d="M33.2 18.6H26v-7.2c0-.99-.81-1.8-1.8-1.8h-.4c-.99 0-1.8.81-1.8 1.8v7.2h-7.2c-.99 0-1.8.81-1.8 1.8v.4c0 .99.81 1.8 1.8 1.8H22v7.2c0 .99.81 1.8 1.8 1.8h.4c.99 0 1.8-.81 1.8-1.8v-7.2h7.2c.99 0 1.8-.81 1.8-1.8v-.4c0-.99-.81-1.8-1.8-1.8z" fill="#15b8a7"/>
+              <path d="M10 14l4-4 4 4M10 14v10" stroke="#4285F4" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M34 34l4-4-4-4" stroke="#EA4335" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M14 38l-4-4 4-4" stroke="#FBBC05" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+              <path d="M38 10l-4 4 4 4M38 10v10" stroke="#34A853" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          </div>
+          <div className="flex-1 min-w-0">
+            <div className="flex items-center gap-3 mb-1">
+              <span className="text-lg font-semibold" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+                Open in Google NotebookLM
+              </span>
+              <span
+                className="text-[10px] font-bold tracking-wider px-2.5 py-1 rounded-full"
+                style={{ backgroundColor: "#15b8a7", color: "white" }}
+              >
+                18 RESOURCES
+              </span>
+            </div>
+            <p className="text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Chat with an AI that knows the entire DUAL documentation. Ask questions, explore concepts, and generate custom explanations in real-time.
+            </p>
+          </div>
+          <div className="shrink-0 transition-transform group-hover:translate-x-1" style={{ color: "var(--text-muted)" }}>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+              <polyline points="15 3 21 3 21 9" />
+              <line x1="10" y1="14" x2="21" y2="3" />
+            </svg>
+          </div>
+        </div>
+      </a>
+
+      {/* Multimedia */}
+      <ResourceSection
+        title="Multimedia"
+        subtitle="Audio, video, and visual resources generated from the DUAL documentation."
+        items={multimedia}
+      />
+
+      {/* Foundation & Onboarding */}
+      <ResourceSection
+        title="Foundation & Onboarding"
+        subtitle="Start here — executive overviews, developer journeys, and core concept breakdowns."
+        items={foundationReports}
+      />
+
+      {/* Technical Deep Dives */}
+      <ResourceSection
+        title="Technical Deep Dives"
+        subtitle="Architecture, security, API reference, and infrastructure analysis for engineers."
+        items={technicalReports}
+      />
+
+      {/* Strategy & Market Position */}
+      <ResourceSection
+        title="Strategy & Market Position"
+        subtitle="Use cases, competitive analysis, ecosystem overview, and forward-looking vision."
+        items={strategyReports}
+      />
+
+      {/* Original Reports */}
+      <ResourceSection
+        title="Architecture Documents"
+        subtitle="Solution architecture and integration proposal from the original documentation analysis."
+        items={legacyReports}
+      />
+
+      {/* What is NotebookLM section */}
+      <div
+        className="mt-2 p-6 rounded-xl border"
+        style={{ backgroundColor: "var(--surface)", borderColor: "var(--border)" }}
+      >
+        <div className="flex items-center gap-3 mb-3">
+          <svg width="24" height="24" viewBox="0 0 48 48">
+            <path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/>
+            <path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/>
+            <path fill="#FBBC05" d="M10.53 28.59A14.5 14.5 0 0 1 9.5 24c0-1.59.28-3.14.76-4.59l-7.98-6.19A23.99 23.99 0 0 0 0 24c0 3.77.87 7.35 2.56 10.78l7.97-6.19z"/>
+            <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/>
+          </svg>
+          <h3
+            className="text-base font-bold"
+            style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+          >
+            What is Google NotebookLM?
+          </h3>
+        </div>
+        <p className="text-sm leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          Google NotebookLM is an AI-powered research and learning tool by Google. We&apos;ve loaded the complete DUAL documentation as a source, so the AI can answer questions, generate summaries, create audio/video overviews, build infographics, and more — all grounded in our actual docs. Think of it as a personal tutor for the DUAL platform.
+        </p>
+      </div>
+    </div>
+  );
+}

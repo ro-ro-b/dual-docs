@@ -1,1 +1,358 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUNhbGxiYWNrIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBFbmRwb2ludCwgQVBJX0JBU0VfVVJMIH0gZnJvbSAiQC9kYXRhL2FwaS1lbmRwb2ludHMiOwoKaW50ZXJmYWNlIEFwaVBsYXlncm91bmRQcm9wcyB7CiAgZW5kcG9pbnQ6IEVuZHBvaW50Owp9CgppbnRlcmZhY2UgRXhhbXBsZURhdGEgewogIHBhdGhWYWx1ZXM/OiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+OwogIHF1ZXJ5VmFsdWVzPzogUmVjb3JkPHN0cmluZywgc3RyaW5nPjsKICBib2R5SnNvbj86IHN0cmluZzsKICB0b2tlbj86IHN0cmluZzsKfQoKY29uc3QgZGVmYXVsdEV4YW1wbGVzOiBSZWNvcmQ8c3RyaW5nLCBFeGFtcGxlRGF0YT4gPSB7CiAgIlBPU1QgL3RlbXBsYXRlcyI6IHsKICAgIGJvZHlKc29uOiBKU09OLnN0cmluZ2lmeSh7CiAgICAgIHRlbXBsYXRlOiB7CiAgICAgICAgbmFtZTogIm15LW9yZzo6ZXhhbXBsZTo6djEiLAogICAgICAgIGRlc2NyaXB0aW9uOiAiRXhhbXBsZSB0ZW1wbGF0ZSIsCiAgICAgICAgcHVibGljOiBmYWxzZQogICAgICB9CiAgICB9LCBudWxsLCAyKQogIH0sCiAgIlBPU1QgL29iamVjdHMiOiB7CiAgICBib2R5SnNvbjogSlNPTi5zdHJpbmdpZnkoewogICAgICB0ZW1wbGF0ZVJlZjogIm9ial9hYmMxMjMiLAogICAgICBwcm9wZXJ0aWVzOiB7CiAgICAgICAgbmFtZTogIlNhbXBsZSBPYmplY3QiLAogICAgICAgIHZhbHVlOiAxMDAKICAgICAgfQogICAgfSwgbnVsbCwgMikKICB9LAogICJQT1NUIC93YWxsZXRzL2xvZ2luIjogewogICAgYm9keUpzb246IEpTT04uc3RyaW5naWZ5KHsKICAgICAgZW1haWw6ICJzYW5kYm94QGR1YWwuaW8iLAogICAgICBwYXNzd29yZDogInNhbmRib3gxMjMiCiAgICB9LCBudWxsLCAyKQogIH0sCiAgIkdFVCAvb2JqZWN0cy97aWR9IjogewogICAgcGF0aFZhbHVlczogeyBpZDogIm9ial9hYmMxMjMiIH0KICB9LAogICJHRVQgL3RlbXBsYXRlcy97aWR9IjogewogICAgcGF0aFZhbHVlczogeyBpZDogInRtcGxfYWJjMTIzIiB9CiAgfQp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQXBpUGxheWdyb3VuZCh7IGVuZHBvaW50IH06IEFwaVBsYXlncm91bmRQcm9wcykgewogIGNvbnN0IFt0b2tlbiwgc2V0VG9rZW5dID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtwYXRoVmFsdWVzLCBzZXRQYXRoVmFsdWVzXSA9IHVzZVN0YXRlPFJlY29yZDxzdHJpbmcsIHN0cmluZz4+KCgpID0+IHsKICAgIGNvbnN0IGluaXQ6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7fTsKICAgIGVuZHBvaW50LnBhcmFtZXRlcnMuZmlsdGVyKHAgPT4gcC5pbiA9PT0gInBhdGgiKS5mb3JFYWNoKHAgPT4geyBpbml0W3AubmFtZV0gPSAiIjsgfSk7CiAgICByZXR1cm4gaW5pdDsKICB9KTsKICBjb25zdCBbcXVlcnlWYWx1ZXMsIHNldFF1ZXJ5VmFsdWVzXSA9IHVzZVN0YXRlPFJlY29yZDxzdHJpbmcsIHN0cmluZz4+KCgpID0+IHsKICAgIGNvbnN0IGluaXQ6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7fTsKICAgIGVuZHBvaW50LnBhcmFtZXRlcnMuZmlsdGVyKHAgPT4gcC5pbiA9PT0gInF1ZXJ5IikuZm9yRWFjaChwID0+IHsgaW5pdFtwLm5hbWVdID0gIiI7IH0pOwogICAgcmV0dXJuIGluaXQ7CiAgfSk7CiAgY29uc3QgW2JvZHlKc29uLCBzZXRCb2R5SnNvbl0gPSB1c2VTdGF0ZSgoKSA9PiB7CiAgICBpZiAoIWVuZHBvaW50LnJlcXVlc3RCb2R5Py5wcm9wZXJ0aWVzLmxlbmd0aCkgcmV0dXJuICIiOwogICAgY29uc3Qgb2JqOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0ge307CiAgICBlbmRwb2ludC5yZXF1ZXN0Qm9keS5wcm9wZXJ0aWVzLmZvckVhY2gocCA9PiB7CiAgICAgIG9ialtwLm5hbWVdID0gcC50eXBlID09PSAibnVtYmVyIiB8fCBwLnR5cGUgPT09ICJpbnRlZ2VyIiA/ICIwIiBhcyB1bmtub3duIGFzIHN0cmluZyA6ICIiOwogICAgfSk7CiAgICByZXR1cm4gSlNPTi5zdHJpbmdpZnkob2JqLCBudWxsLCAyKTsKICB9KTsKCiAgY29uc3QgW3Jlc3BvbnNlLCBzZXRSZXNwb25zZV0gPSB1c2VTdGF0ZTx7IHN0YXR1czogbnVtYmVyOyBzdGF0dXNUZXh0OiBzdHJpbmc7IGJvZHk6IHN0cmluZzsgdGltZTogbnVtYmVyIH0gfCBudWxsPihudWxsKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2Vycm9yLCBzZXRFcnJvcl0gPSB1c2VTdGF0ZSgiIik7CgogIGNvbnN0IHBhdGhQYXJhbXMgPSBlbmRwb2ludC5wYXJhbWV0ZXJzLmZpbHRlcihwID0+IHAuaW4gPT09ICJwYXRoIik7CiAgY29uc3QgcXVlcnlQYXJhbXMgPSBlbmRwb2ludC5wYXJhbWV0ZXJzLmZpbHRlcihwID0+IHAuaW4gPT09ICJxdWVyeSIpOwogIGNvbnN0IG5lZWRzQXV0aCA9IGVuZHBvaW50LnRhZyAhPT0gImluZGV4ZXIiOwoKICBjb25zdCBmaW5kRXhhbXBsZUZvckVuZHBvaW50ID0gdXNlQ2FsbGJhY2soKCkgPT4gewogICAgY29uc3QgZW5kcG9pbnRLZXkgPSBgJHtlbmRwb2ludC5tZXRob2R9ICR7ZW5kcG9pbnQucGF0aH1gOwogICAgcmV0dXJuIGRlZmF1bHRFeGFtcGxlc1tlbmRwb2ludEtleV07CiAgfSwgW2VuZHBvaW50Lm1ldGhvZCwgZW5kcG9pbnQucGF0aF0pOwoKICBjb25zdCBoYW5kbGVMb2FkRXhhbXBsZSA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIGNvbnN0IGV4YW1wbGUgPSBmaW5kRXhhbXBsZUZvckVuZHBvaW50KCk7CiAgICBpZiAoIWV4YW1wbGUpIHsKICAgICAgc2V0RXJyb3IoIk5vIGV4YW1wbGUgYXZhaWxhYmxlIGZvciB0aGlzIGVuZHBvaW50Iik7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBpZiAoZXhhbXBsZS5wYXRoVmFsdWVzKSB7CiAgICAgIHNldFBhdGhWYWx1ZXMocHJldiA9PiAoeyAuLi5wcmV2LCAuLi5leGFtcGxlLnBhdGhWYWx1ZXMgfSkpOwogICAgfQogICAgaWYgKGV4YW1wbGUucXVlcnlWYWx1ZXMpIHsKICAgICAgc2V0UXVlcnlWYWx1ZXMocHJldiA9PiAoeyAuLi5wcmV2LCAuLi5leGFtcGxlLnF1ZXJ5VmFsdWVzIH0pKTsKICAgIH0KICAgIGlmIChleGFtcGxlLmJvZHlKc29uKSB7CiAgICAgIHNldEJvZHlKc29uKGV4YW1wbGUuYm9keUpzb24pOwogICAgfQogICAgaWYgKGV4YW1wbGUudG9rZW4pIHsKICAgICAgc2V0VG9rZW4oZXhhbXBsZS50b2tlbik7CiAgICB9CiAgICBzZXRFcnJvcigiIik7CiAgfSwgW2ZpbmRFeGFtcGxlRm9yRW5kcG9pbnRdKTsKCiAgY29uc3QgYnVpbGRVcmwgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBsZXQgdXJsID0gQVBJX0JBU0VfVVJMICsgZW5kcG9pbnQucGF0aDsKICAgIGZvciAoY29uc3QgW2tleSwgdmFsXSBvZiBPYmplY3QuZW50cmllcyhwYXRoVmFsdWVzKSkgewogICAgICB1cmwgPSB1cmwucmVwbGFjZShgeyR7a2V5fX1gLCB2YWwgfHwgYHske2tleX19YCk7CiAgICB9CiAgICBjb25zdCBxcCA9IE9iamVjdC5lbnRyaWVzKHF1ZXJ5VmFsdWVzKS5maWx0ZXIoKFssIHZdKSA9PiB2LnRyaW0oKSAhPT0gIiIpOwogICAgaWYgKHFwLmxlbmd0aCA+IDApIHsKICAgICAgdXJsICs9ICI/IiArIHFwLm1hcCgoW2ssIHZdKSA9PiBgJHtlbmNvZGVVUklDb21wb25lbnQoayl9PSR7ZW5jb2RlVVJJQ29tcG9uZW50KHYpfWApLmpvaW4oIiYiKTsKICAgIH0KICAgIHJldHVybiB1cmw7CiAgfSwgW2VuZHBvaW50LnBhdGgsIHBhdGhWYWx1ZXMsIHF1ZXJ5VmFsdWVzXSk7CgogIGNvbnN0IGhhbmRsZVNlbmQgPSBhc3luYyAoKSA9PiB7CiAgICBzZXRMb2FkaW5nKHRydWUpOwogICAgc2V0RXJyb3IoIiIpOwogICAgc2V0UmVzcG9uc2UobnVsbCk7CgogICAgY29uc3QgdXJsID0gYnVpbGRVcmwoKTsKICAgIGNvbnN0IGhlYWRlcnM6IFJlY29yZDxzdHJpbmcsIHN0cmluZz4gPSB7ICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIgfTsKICAgIGlmICh0b2tlbi50cmltKCkpIHsKICAgICAgaGVhZGVyc1siQXV0aG9yaXphdGlvbiJdID0gYEJlYXJlciAke3Rva2VufWA7CiAgICB9CgogICAgY29uc3Qgb3B0aW9uczogUmVxdWVzdEluaXQgPSB7CiAgICAgIG1ldGhvZDogZW5kcG9pbnQubWV0aG9kLAogICAgICBoZWFkZXJzLAogICAgfTsKCiAgICBpZiAoWyJQT1NUIiwgIlBVVCIsICJQQVRDSCJdLmluY2x1ZGVzKGVuZHBvaW50Lm1ldGhvZCkgJiYgYm9keUpzb24udHJpbSgpKSB7CiAgICAgIHRyeSB7CiAgICAgICAgSlNPTi5wYXJzZShib2R5SnNvbik7CiAgICAgICAgb3B0aW9ucy5ib2R5ID0gYm9keUpzb247CiAgICAgIH0gY2F0Y2ggewogICAgICAgIHNldEVycm9yKCJJbnZhbGlkIEpTT04gaW4gcmVxdWVzdCBib2R5Iik7CiAgICAgICAgc2V0TG9hZGluZyhmYWxzZSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CiAgICB9CgogICAgY29uc3Qgc3RhcnQgPSBwZXJmb3JtYW5jZS5ub3coKTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKHVybCwgb3B0aW9ucyk7CiAgICAgIGNvbnN0IGVsYXBzZWQgPSBNYXRoLnJvdW5kKHBlcmZvcm1hbmNlLm5vdygpIC0gc3RhcnQpOwogICAgICBsZXQgYm9keTogc3RyaW5nOwogICAgICB0cnkgewogICAgICAgIGNvbnN0IGpzb24gPSBhd2FpdCByZXMuanNvbigpOwogICAgICAgIGJvZHkgPSBKU09OLnN0cmluZ2lmeShqc29uLCBudWxsLCAyKTsKICAgICAgfSBjYXRjaCB7CiAgICAgICAgYm9keSA9IGF3YWl0IHJlcy50ZXh0KCk7CiAgICAgIH0KICAgICAgc2V0UmVzcG9uc2UoeyBzdGF0dXM6IHJlcy5zdGF0dXMsIHN0YXR1c1RleHQ6IHJlcy5zdGF0dXNUZXh0LCBib2R5LCB0aW1lOiBlbGFwc2VkIH0pOwogICAgfSBjYXRjaCB7CiAgICAgIGNvbnN0IGVsYXBzZWQgPSBNYXRoLnJvdW5kKHBlcmZvcm1hbmNlLm5vdygpIC0gc3RhcnQpOwogICAgICBzZXRFcnJvcihgTmV0d29yayBlcnJvciDigJQgdGhlIEFQSSBtYXkgbm90IGFsbG93IGJyb3dzZXIgcmVxdWVzdHMgKENPUlMpLiBDb3B5IHRoZSBjVVJMIGFib3ZlIGluc3RlYWQuYCk7CiAgICAgIHNldFJlc3BvbnNlKHsgc3RhdHVzOiAwLCBzdGF0dXNUZXh0OiAiQ09SUyAvIE5ldHdvcmsgRXJyb3IiLCBib2R5OiAiIiwgdGltZTogZWxhcHNlZCB9KTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldExvYWRpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IHN0YXR1c0NvbG9yID0gcmVzcG9uc2UKICAgID8gcmVzcG9uc2Uuc3RhdHVzID49IDIwMCAmJiByZXNwb25zZS5zdGF0dXMgPCAzMDAKICAgICAgPyAidGV4dC1lbWVyYWxkLTYwMCIKICAgICAgOiByZXNwb25zZS5zdGF0dXMgPj0gNDAwCiAgICAgID8gInRleHQtcmVkLTUwMCIKICAgICAgOiAidGV4dC1hbWJlci01MDAiCiAgICA6ICIiOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtbGcgYm9yZGVyIG92ZXJmbG93LWhpZGRlbiIgc3R5bGU9e3sgYm9yZGVyQ29sb3I6ICJyZ2JhKDIxLDE4NCwxNjcsMC4yKSIsIGJhY2tncm91bmRDb2xvcjogInJnYmEoMjEsMTg0LDE2NywwLjAyKSIgfX0+CiAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC00IHB5LTIuNSIgc3R5bGU9e3sgYmFja2dyb3VuZENvbG9yOiAicmdiYSgyMSwxODQsMTY3LDAuMDYpIiwgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkIHJnYmEoMjEsMTg0LDE2NywwLjEpIiB9fT4KICAgICAgICA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNSAzIDE5IDEyIDUgMjEgNSAzIiAvPgogICAgICAgIDwvc3ZnPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LWJvbGQgdHJhY2tpbmctd2lkZXIgdGV4dC1bIzE1YjhhN10gdXBwZXJjYXNlIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0+CiAgICAgICAgICBUcnkgSXQKICAgICAgICA8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtbC1hdXRvIHRleHQtWzEwcHhdIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiLCBvcGFjaXR5OiAwLjYgfX0+CiAgICAgICAgICB7YnVpbGRVcmwoKX0KICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIEluZm8gQmFubmVyICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNCBweS0yIiBzdHlsZT17eyBiYWNrZ3JvdW5kQ29sb3I6ICJyZ2JhKDIxLDE4NCwxNjcsMC4wNSkiLCBib3JkZXJCb3R0b206ICIxcHggc29saWQgcmdiYSgyMSwxODQsMTY3LDAuMSkiIH19PgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAicmdiYSgyMSwxODQsMTY3LDAuOCkiIH19PlNhbmRib3g6PC9zcGFuPiBzYW5kYm94QGR1YWwuaW8gLyBzYW5kYm94MTIzCiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgc3BhY2UteS0zIj4KICAgICAgICB7LyogQXV0aCB0b2tlbiAqL30KICAgICAgICB7bmVlZHNBdXRoICYmICgKICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIHRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciB1cHBlcmNhc2UgbWItMSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICBCZWFyZXIgVG9rZW4KICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17dG9rZW59CiAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRUb2tlbihlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9ImV5SmhiR2NpT2lKSVV6STFOaUlzLi4uIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHB4LTMgcHktMS41IHRleHQteHMgcm91bmRlZC1tZCBib3JkZXIgZm9jdXM6Ym9yZGVyLVsjMTViOGE3XSBmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6cmluZy0xIGZvY3VzOnJpbmctWyMxNWI4YTddLzIwIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQoKICAgICAgICB7LyogUGF0aCBwYXJhbXMgKi99CiAgICAgICAge3BhdGhQYXJhbXMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8bGFiZWwgY2xhc3NOYW1lPSJibG9jayB0ZXh0LVsxMHB4XSBmb250LWJvbGQgdHJhY2tpbmctd2lkZXIgdXBwZXJjYXNlIG1iLTEiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0+CiAgICAgICAgICAgICAgUGF0aCBQYXJhbWV0ZXJzCiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAgICAgICAge3BhdGhQYXJhbXMubWFwKChwKSA9PiAoCiAgICAgICAgICAgICAgICA8ZGl2IGtleT17cC5uYW1lfSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtWyMxNWI4YTddIGZvbnQtbWVkaXVtIHctMzIgc2hyaW5rLTAiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fT4KICAgICAgICAgICAgICAgICAgICB7cC5uYW1lfQogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3BhdGhWYWx1ZXNbcC5uYW1lXSB8fCAiIn0KICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldFBhdGhWYWx1ZXMoeyAuLi5wYXRoVmFsdWVzLCBbcC5uYW1lXTogZS50YXJnZXQudmFsdWUgfSl9CiAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3AuZGVzY3JpcHRpb24gfHwgcC50eXBlfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleC0xIHB4LTMgcHktMS41IHRleHQteHMgcm91bmRlZC1tZCBib3JkZXIgZm9jdXM6Ym9yZGVyLVsjMTViOGE3XSBmb2N1czpvdXRsaW5lLW5vbmUgZm9jdXM6cmluZy0xIGZvY3VzOnJpbmctWyMxNWI4YTddLzIwIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiwgYmFja2dyb3VuZENvbG9yOiAidmFyKC0tc3VyZmFjZSkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBjb2xvcjogInZhcigtLXRleHQtcHJpbWFyeSkiIH19CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQoKICAgICAgICB7LyogUXVlcnkgcGFyYW1zICovfQogICAgICAgIHtxdWVyeVBhcmFtcy5sZW5ndGggPiAwICYmICgKICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIHRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciB1cHBlcmNhc2UgbWItMSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICBRdWVyeSBQYXJhbWV0ZXJzCiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTEuNSI+CiAgICAgICAgICAgICAge3F1ZXJ5UGFyYW1zLm1hcCgocCkgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e3AubmFtZX0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSB3LTMyIHNocmluay0wIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAgICAgICAgIHtwLm5hbWV9CiAgICAgICAgICAgICAgICAgICAge3AucmVxdWlyZWQgJiYgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXJlZC00MDAgbWwtMC41Ij4qPC9zcGFuPn0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgIHZhbHVlPXtxdWVyeVZhbHVlc1twLm5hbWVdIHx8ICIifQogICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0UXVlcnlWYWx1ZXMoeyAuLi5xdWVyeVZhbHVlcywgW3AubmFtZV06IGUudGFyZ2V0LnZhbHVlIH0pfQogICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPXtwLmRlc2NyaXB0aW9uIHx8IHAudHlwZX0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXgtMSBweC0zIHB5LTEuNSB0ZXh0LXhzIHJvdW5kZWQtbWQgYm9yZGVyIGZvY3VzOmJvcmRlci1bIzE1YjhhN10gZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOnJpbmctMSBmb2N1czpyaW5nLVsjMTViOGE3XS8yMCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgICAgey8qIFJlcXVlc3QgYm9keSAqL30KICAgICAgICB7ZW5kcG9pbnQucmVxdWVzdEJvZHkgJiYgZW5kcG9pbnQucmVxdWVzdEJvZHkucHJvcGVydGllcy5sZW5ndGggPiAwICYmICgKICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIHRleHQtWzEwcHhdIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciB1cHBlcmNhc2UgbWItMSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fT4KICAgICAgICAgICAgICBSZXF1ZXN0IEJvZHkKICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgdmFsdWU9e2JvZHlKc29ufQogICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0Qm9keUpzb24oZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICAgIHJvd3M9e01hdGgubWluKDEyLCBib2R5SnNvbi5zcGxpdCgiXG4iKS5sZW5ndGggKyAxKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBweC0zIHB5LTIgdGV4dC14cyByb3VuZGVkLW1kIGJvcmRlciBmb2N1czpib3JkZXItWyMxNWI4YTddIGZvY3VzOm91dGxpbmUtbm9uZSBmb2N1czpyaW5nLTEgZm9jdXM6cmluZy1bIzE1YjhhN10vMjAgdHJhbnNpdGlvbi1jb2xvcnMgcmVzaXplLXkiCiAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiLCBsaW5lSGVpZ2h0OiAxLjYsIGJhY2tncm91bmRDb2xvcjogInZhcigtLXN1cmZhY2UpIiwgYm9yZGVyQ29sb3I6ICJ2YXIoLS1ib3JkZXIpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgICAgey8qIEJ1dHRvbnMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVMb2FkRXhhbXBsZX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC00IHB5LTIgYm9yZGVyIHRleHQteHMgZm9udC1tZWRpdW0gcm91bmRlZC1sZyB0cmFuc2l0aW9uLWNvbG9ycyBjdXJzb3ItcG9pbnRlciB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXIiCiAgICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgYm9yZGVyQ29sb3I6ICJyZ2JhKDIxLDE4NCwxNjcsMC4zKSIsIGNvbG9yOiAicmdiKDIxLDE4NCwxNjcpIiwgYmFja2dyb3VuZENvbG9yOiAidHJhbnNwYXJlbnQiIH19CiAgICAgICAgICAgIG9uTW91c2VFbnRlcj17KGUpID0+IGUuY3VycmVudFRhcmdldC5zdHlsZS5iYWNrZ3JvdW5kQ29sb3IgPSAicmdiYSgyMSwxODQsMTY3LDAuMDgpIn0KICAgICAgICAgICAgb25Nb3VzZUxlYXZlPXsoZSkgPT4gZS5jdXJyZW50VGFyZ2V0LnN0eWxlLmJhY2tncm91bmRDb2xvciA9ICJ0cmFuc3BhcmVudCJ9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTIxIDE1YTIgMiAwIDAgMS0yIDJIN2wtNCA0VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAyeiIgLz4KICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIExvYWQgRXhhbXBsZQogICAgICAgICAgPC9idXR0b24+CgogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZVNlbmR9CiAgICAgICAgICAgIGRpc2FibGVkPXtsb2FkaW5nfQogICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHB4LTQgcHktMiBiZy1bIzE1YjhhN10gdGV4dC13aGl0ZSB0ZXh0LXhzIGZvbnQtbWVkaXVtIHJvdW5kZWQtbGcgaG92ZXI6YmctWyMxM2E1OTZdIGRpc2FibGVkOm9wYWNpdHktNTAgZGlzYWJsZWQ6Y3Vyc29yLW5vdC1hbGxvd2VkIHRyYW5zaXRpb24tY29sb3JzIGN1cnNvci1wb2ludGVyIHVwcGVyY2FzZSB0cmFja2luZy13aWRlciIKICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtsb2FkaW5nID8gKAogICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBjbGFzc05hbWU9ImFuaW1hdGUtc3BpbiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTEyIDJ2NE0xMiAxOHY0TTQuOTMgNC45M2wyLjgzIDIuODNNMTYuMjQgMTYuMjRsMi44MyAyLjgzTTIgMTJoNE0xOCAxMmg0TTQuOTMgMTkuMDdsMi44My0yLjgzTTE2LjI0IDcuNzZsMi44My0yLjgzIiAvPgogICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICBTZW5kaW5nLi4uCiAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgICAgICAgICAgICAgIDxsaW5lIHgxPSIyMiIgeTE9IjIiIHgyPSIxMSIgeTI9IjEzIiAvPgogICAgICAgICAgICAgICAgICA8cG9seWdvbiBwb2ludHM9IjIyIDIgMTUgMjIgMTEgMTMgMiA5IDIyIDIiIC8+CiAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgIFNlbmQgUmVxdWVzdAogICAgICAgICAgICAgIDwvPgogICAgICAgICAgICApfQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBFcnJvciAqL30KICAgICAgICB7ZXJyb3IgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQteHMgdGV4dC1hbWJlci02MDAgYmctYW1iZXItNTAgYm9yZGVyIGJvcmRlci1hbWJlci0yMDAgcm91bmRlZC1tZCBweC0zIHB5LTIgZGFyazpiZy1hbWJlci05NTAvMzAgZGFyazp0ZXh0LWFtYmVyLTQwMCBkYXJrOmJvcmRlci1hbWJlci04MDAiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiB9fT4KICAgICAgICAgICAge2Vycm9yfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgICAgey8qIFJlc3BvbnNlICovfQogICAgICAgIHtyZXNwb25zZSAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icm91bmRlZC1sZyBib3JkZXIgb3ZlcmZsb3ctaGlkZGVuIiBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcHgtNCBweS0yIGJnLVsjMWUxZTJlXSBib3JkZXItYiBib3JkZXItd2hpdGUvMTAiPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdoaXRlLzQwIHVwcGVyY2FzZSBmb250LW1lZGl1bSIgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiIH19PgogICAgICAgICAgICAgICAgUmVzcG9uc2UKICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtgdGV4dC14cyBmb250LWJvbGQgJHtzdGF0dXNDb2xvcn1gfSBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0+CiAgICAgICAgICAgICAgICB7cmVzcG9uc2Uuc3RhdHVzID4gMCA/IGAke3Jlc3BvbnNlLnN0YXR1c30gJHtyZXNwb25zZS5zdGF0dXNUZXh0fWAgOiByZXNwb25zZS5zdGF0dXNUZXh0fQogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLWF1dG8gdGV4dC14cyB0ZXh0LXdoaXRlLzMwIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1kbS1tb25vKSIgfX0+CiAgICAgICAgICAgICAgICB7cmVzcG9uc2UudGltZX1tcwogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIHtyZXNwb25zZS5ib2R5ICYmICgKICAgICAgICAgICAgICA8cHJlIGNsYXNzTmFtZT0iYmctWyMxZTFlMmVdIHAtNCBvdmVyZmxvdy14LWF1dG8gdGV4dC14cyBsZWFkaW5nLXJlbGF4ZWQgbWF4LWgtNjQgb3ZlcmZsb3cteS1hdXRvIj4KICAgICAgICAgICAgICAgIDxjb2RlIGNsYXNzTmFtZT0idGV4dC1bI2NkZDZmNF0iIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fT4KICAgICAgICAgICAgICAgICAge3Jlc3BvbnNlLmJvZHl9CiAgICAgICAgICAgICAgICA8L2NvZGU+CiAgICAgICAgICAgICAgPC9wcmU+CiAgICAgICAgICAgICl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useState, useCallback } from "react";
+import { Endpoint, API_BASE_URL } from "@/data/api-endpoints";
+
+interface ApiPlaygroundProps {
+  endpoint: Endpoint;
+}
+
+interface ExampleData {
+  pathValues?: Record<string, string>;
+  queryValues?: Record<string, string>;
+  bodyJson?: string;
+  token?: string;
+}
+
+const defaultExamples: Record<string, ExampleData> = {
+  "POST /templates": {
+    bodyJson: JSON.stringify({
+      template: {
+        name: "my-org::example::v1",
+        description: "Example template",
+        public: false
+      }
+    }, null, 2)
+  },
+  "POST /objects": {
+    bodyJson: JSON.stringify({
+      templateRef: "obj_abc123",
+      properties: {
+        name: "Sample Object",
+        value: 100
+      }
+    }, null, 2)
+  },
+  "POST /wallets/login": {
+    bodyJson: JSON.stringify({
+      email: "sandbox@dual.io",
+      password: "sandbox123"
+    }, null, 2)
+  },
+  "GET /objects/{id}": {
+    pathValues: { id: "obj_abc123" }
+  },
+  "GET /templates/{id}": {
+    pathValues: { id: "tmpl_abc123" }
+  }
+};
+
+export default function ApiPlayground({ endpoint }: ApiPlaygroundProps) {
+  const [token, setToken] = useState("");
+  const [pathValues, setPathValues] = useState<Record<string, string>>(() => {
+    const init: Record<string, string> = {};
+    endpoint.parameters.filter(p => p.in === "path").forEach(p => { init[p.name] = ""; });
+    return init;
+  });
+  const [queryValues, setQueryValues] = useState<Record<string, string>>(() => {
+    const init: Record<string, string> = {};
+    endpoint.parameters.filter(p => p.in === "query").forEach(p => { init[p.name] = ""; });
+    return init;
+  });
+  const [bodyJson, setBodyJson] = useState(() => {
+    if (!endpoint.requestBody?.properties.length) return "";
+    const obj: Record<string, string> = {};
+    endpoint.requestBody.properties.forEach(p => {
+      obj[p.name] = p.type === "number" || p.type === "integer" ? "0" as unknown as string : "";
+    });
+    return JSON.stringify(obj, null, 2);
+  });
+
+  const [response, setResponse] = useState<{ status: number; statusText: string; body: string; time: number } | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+
+  const pathParams = endpoint.parameters.filter(p => p.in === "path");
+  const queryParams = endpoint.parameters.filter(p => p.in === "query");
+  const needsAuth = endpoint.tag !== "indexer";
+
+  const findExampleForEndpoint = useCallback(() => {
+    const endpointKey = `${endpoint.method} ${endpoint.path}`;
+    return defaultExamples[endpointKey];
+  }, [endpoint.method, endpoint.path]);
+
+  const handleLoadExample = useCallback(() => {
+    const example = findExampleForEndpoint();
+    if (!example) {
+      setError("No example available for this endpoint");
+      return;
+    }
+
+    if (example.pathValues) {
+      setPathValues(prev => ({ ...prev, ...example.pathValues }));
+    }
+    if (example.queryValues) {
+      setQueryValues(prev => ({ ...prev, ...example.queryValues }));
+    }
+    if (example.bodyJson) {
+      setBodyJson(example.bodyJson);
+    }
+    if (example.token) {
+      setToken(example.token);
+    }
+    setError("");
+  }, [findExampleForEndpoint]);
+
+  const buildUrl = useCallback(() => {
+    let url = API_BASE_URL + endpoint.path;
+    for (const [key, val] of Object.entries(pathValues)) {
+      url = url.replace(`{${key}}`, val || `{${key}}`);
+    }
+    const qp = Object.entries(queryValues).filter(([, v]) => v.trim() !== "");
+    if (qp.length > 0) {
+      url += "?" + qp.map(([k, v]) => `${encodeURIComponent(k)}=${encodeURIComponent(v)}`).join("&");
+    }
+    return url;
+  }, [endpoint.path, pathValues, queryValues]);
+
+  const handleSend = async () => {
+    setLoading(true);
+    setError("");
+    setResponse(null);
+
+    const url = buildUrl();
+    const headers: Record<string, string> = { "Content-Type": "application/json" };
+    if (token.trim()) {
+      headers["Authorization"] = `Bearer ${token}`;
+    }
+
+    const options: RequestInit = {
+      method: endpoint.method,
+      headers,
+    };
+
+    if (["POST", "PUT", "PATCH"].includes(endpoint.method) && bodyJson.trim()) {
+      try {
+        JSON.parse(bodyJson);
+        options.body = bodyJson;
+      } catch {
+        setError("Invalid JSON in request body");
+        setLoading(false);
+        return;
+      }
+    }
+
+    const start = performance.now();
+    try {
+      const res = await fetch(url, options);
+      const elapsed = Math.round(performance.now() - start);
+      let body: string;
+      try {
+        const json = await res.json();
+        body = JSON.stringify(json, null, 2);
+      } catch {
+        body = await res.text();
+      }
+      setResponse({ status: res.status, statusText: res.statusText, body, time: elapsed });
+    } catch {
+      const elapsed = Math.round(performance.now() - start);
+      setError(`Network error — the API may not allow browser requests (CORS). Copy the cURL above instead.`);
+      setResponse({ status: 0, statusText: "CORS / Network Error", body: "", time: elapsed });
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const statusColor = response
+    ? response.status >= 200 && response.status < 300
+      ? "text-emerald-600"
+      : response.status >= 400
+      ? "text-red-500"
+      : "text-amber-500"
+    : "";
+
+  return (
+    <div className="rounded-lg border overflow-hidden" style={{ borderColor: "rgba(21,184,167,0.2)", backgroundColor: "rgba(21,184,167,0.02)" }}>
+      {/* Header */}
+      <div className="flex items-center gap-2 px-4 py-2.5" style={{ backgroundColor: "rgba(21,184,167,0.06)", borderBottom: "1px solid rgba(21,184,167,0.1)" }}>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="2">
+          <polygon points="5 3 19 12 5 21 5 3" />
+        </svg>
+        <span className="text-xs font-bold tracking-wider text-[#15b8a7] uppercase" style={{ fontFamily: "var(--font-satoshi)" }}>
+          Try It
+        </span>
+        <span className="ml-auto text-[10px]" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)", opacity: 0.6 }}>
+          {buildUrl()}
+        </span>
+      </div>
+
+      {/* Info Banner */}
+      <div className="px-4 py-2" style={{ backgroundColor: "rgba(21,184,167,0.05)", borderBottom: "1px solid rgba(21,184,167,0.1)" }}>
+        <p className="text-xs" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          <span style={{ color: "rgba(21,184,167,0.8)" }}>Sandbox:</span> sandbox@dual.io / sandbox123
+        </p>
+      </div>
+
+      <div className="p-4 space-y-3">
+        {/* Auth token */}
+        {needsAuth && (
+          <div>
+            <label className="block text-[10px] font-bold tracking-wider uppercase mb-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Bearer Token
+            </label>
+            <input
+              type="text"
+              value={token}
+              onChange={(e) => setToken(e.target.value)}
+              placeholder="eyJhbGciOiJIUzI1NiIs..."
+              className="w-full px-3 py-1.5 text-xs rounded-md border focus:border-[#15b8a7] focus:outline-none focus:ring-1 focus:ring-[#15b8a7]/20 transition-colors"
+              style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--surface)", borderColor: "var(--border)", color: "var(--text-primary)" }}
+            />
+          </div>
+        )}
+
+        {/* Path params */}
+        {pathParams.length > 0 && (
+          <div>
+            <label className="block text-[10px] font-bold tracking-wider uppercase mb-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Path Parameters
+            </label>
+            <div className="space-y-1.5">
+              {pathParams.map((p) => (
+                <div key={p.name} className="flex items-center gap-2">
+                  <span className="text-xs text-[#15b8a7] font-medium w-32 shrink-0" style={{ fontFamily: "var(--font-dm-mono)" }}>
+                    {p.name}
+                  </span>
+                  <input
+                    type="text"
+                    value={pathValues[p.name] || ""}
+                    onChange={(e) => setPathValues({ ...pathValues, [p.name]: e.target.value })}
+                    placeholder={p.description || p.type}
+                    className="flex-1 px-3 py-1.5 text-xs rounded-md border focus:border-[#15b8a7] focus:outline-none focus:ring-1 focus:ring-[#15b8a7]/20 transition-colors"
+                    style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--surface)", borderColor: "var(--border)", color: "var(--text-primary)" }}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Query params */}
+        {queryParams.length > 0 && (
+          <div>
+            <label className="block text-[10px] font-bold tracking-wider uppercase mb-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Query Parameters
+            </label>
+            <div className="space-y-1.5">
+              {queryParams.map((p) => (
+                <div key={p.name} className="flex items-center gap-2">
+                  <span className="text-xs font-medium w-32 shrink-0" style={{ fontFamily: "var(--font-dm-mono)", color: "var(--text-muted)" }}>
+                    {p.name}
+                    {p.required && <span className="text-red-400 ml-0.5">*</span>}
+                  </span>
+                  <input
+                    type="text"
+                    value={queryValues[p.name] || ""}
+                    onChange={(e) => setQueryValues({ ...queryValues, [p.name]: e.target.value })}
+                    placeholder={p.description || p.type}
+                    className="flex-1 px-3 py-1.5 text-xs rounded-md border focus:border-[#15b8a7] focus:outline-none focus:ring-1 focus:ring-[#15b8a7]/20 transition-colors"
+                    style={{ fontFamily: "var(--font-dm-mono)", backgroundColor: "var(--surface)", borderColor: "var(--border)", color: "var(--text-primary)" }}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Request body */}
+        {endpoint.requestBody && endpoint.requestBody.properties.length > 0 && (
+          <div>
+            <label className="block text-[10px] font-bold tracking-wider uppercase mb-1" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              Request Body
+            </label>
+            <textarea
+              value={bodyJson}
+              onChange={(e) => setBodyJson(e.target.value)}
+              rows={Math.min(12, bodyJson.split("\n").length + 1)}
+              className="w-full px-3 py-2 text-xs rounded-md border focus:border-[#15b8a7] focus:outline-none focus:ring-1 focus:ring-[#15b8a7]/20 transition-colors resize-y"
+              style={{ fontFamily: "var(--font-dm-mono)", lineHeight: 1.6, backgroundColor: "var(--surface)", borderColor: "var(--border)", color: "var(--text-primary)" }}
+            />
+          </div>
+        )}
+
+        {/* Buttons */}
+        <div className="flex items-center gap-2">
+          <button
+            type="button"
+            onClick={handleLoadExample}
+            className="flex items-center gap-2 px-4 py-2 border text-xs font-medium rounded-lg transition-colors cursor-pointer uppercase tracking-wider"
+            style={{ fontFamily: "var(--font-satoshi)", borderColor: "rgba(21,184,167,0.3)", color: "rgb(21,184,167)", backgroundColor: "transparent" }}
+            onMouseEnter={(e) => e.currentTarget.style.backgroundColor = "rgba(21,184,167,0.08)"}
+            onMouseLeave={(e) => e.currentTarget.style.backgroundColor = "transparent"}
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+            </svg>
+            Load Example
+          </button>
+
+          <button
+            type="button"
+            onClick={handleSend}
+            disabled={loading}
+            className="flex items-center gap-2 px-4 py-2 bg-[#15b8a7] text-white text-xs font-medium rounded-lg hover:bg-[#13a596] disabled:opacity-50 disabled:cursor-not-allowed transition-colors cursor-pointer uppercase tracking-wider"
+            style={{ fontFamily: "var(--font-satoshi)" }}
+          >
+            {loading ? (
+              <>
+                <svg width="14" height="14" viewBox="0 0 24 24" className="animate-spin" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
+                </svg>
+                Sending...
+              </>
+            ) : (
+              <>
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <line x1="22" y1="2" x2="11" y2="13" />
+                  <polygon points="22 2 15 22 11 13 2 9 22 2" />
+                </svg>
+                Send Request
+              </>
+            )}
+          </button>
+        </div>
+
+        {/* Error */}
+        {error && (
+          <div className="text-xs text-amber-600 bg-amber-50 border border-amber-200 rounded-md px-3 py-2 dark:bg-amber-950/30 dark:text-amber-400 dark:border-amber-800" style={{ fontFamily: "var(--font-satoshi)" }}>
+            {error}
+          </div>
+        )}
+
+        {/* Response */}
+        {response && (
+          <div className="rounded-lg border overflow-hidden" style={{ borderColor: "var(--border)" }}>
+            <div className="flex items-center gap-3 px-4 py-2 bg-[#1e1e2e] border-b border-white/10">
+              <span className="text-xs text-white/40 uppercase font-medium" style={{ fontFamily: "var(--font-dm-mono)" }}>
+                Response
+              </span>
+              <span className={`text-xs font-bold ${statusColor}`} style={{ fontFamily: "var(--font-dm-mono)" }}>
+                {response.status > 0 ? `${response.status} ${response.statusText}` : response.statusText}
+              </span>
+              <span className="ml-auto text-xs text-white/30" style={{ fontFamily: "var(--font-dm-mono)" }}>
+                {response.time}ms
+              </span>
+            </div>
+            {response.body && (
+              <pre className="bg-[#1e1e2e] p-4 overflow-x-auto text-xs leading-relaxed max-h-64 overflow-y-auto">
+                <code className="text-[#cdd6f4]" style={{ fontFamily: "var(--font-dm-mono)" }}>
+                  {response.body}
+                </code>
+              </pre>
+            )}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}

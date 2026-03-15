@@ -1,1 +1,199 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlUGFyYW1zIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKaW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgdHV0b3JpYWxzIH0gZnJvbSAiQC9kYXRhL3R1dG9yaWFscyI7CmltcG9ydCBDb2RlQmxvY2sgZnJvbSAiQC9jb21wb25lbnRzL0NvZGVCbG9jayI7CgpmdW5jdGlvbiByZW5kZXJDb250ZW50KGh0bWw6IHN0cmluZykgewogIC8vIFNwbGl0IG9uIGNvZGUgYmxvY2tzIGFuZCByZW5kZXIgdGhlbSB3aXRoIENvZGVCbG9jayBjb21wb25lbnQKICBjb25zdCBwYXJ0cyA9IGh0bWwuc3BsaXQoLzxkaXYgY2xhc3M9ImNvZGUtYmxvY2siIGRhdGEtbGFuZz0iKFx3KykiPihbXHNcU10qPyk8XC9kaXY+L2cpOwogIGNvbnN0IGVsZW1lbnRzOiBSZWFjdC5SZWFjdE5vZGVbXSA9IFtdOwoKICBmb3IgKGxldCBpID0gMDsgaSA8IHBhcnRzLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoaSAlIDMgPT09IDApIHsKICAgICAgLy8gUmVndWxhciBIVE1MIGNvbnRlbnQKICAgICAgaWYgKHBhcnRzW2ldLnRyaW0oKSkgewogICAgICAgIGVsZW1lbnRzLnB1c2goCiAgICAgICAgICA8ZGl2CiAgICAgICAgICAgIGtleT17YGh0bWwtJHtpfWB9CiAgICAgICAgICAgIGNsYXNzTmFtZT0idHV0b3JpYWwtcHJvc2UiCiAgICAgICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogcGFydHNbaV0gfX0KICAgICAgICAgIC8+CiAgICAgICAgKTsKICAgICAgfQogICAgfSBlbHNlIGlmIChpICUgMyA9PT0gMSkgewogICAgICAvLyBMYW5ndWFnZSBpZGVudGlmaWVyIOKAlCBuZXh0IHBhcnQgaXMgdGhlIGNvZGUKICAgICAgY29uc3QgbGFuZyA9IHBhcnRzW2ldOwogICAgICBjb25zdCBjb2RlID0gcGFydHNbaSArIDFdPy50cmltKCkgfHwgIiI7CiAgICAgIGVsZW1lbnRzLnB1c2goCiAgICAgICAgPGRpdiBrZXk9e2Bjb2RlLSR7aX1gfSBjbGFzc05hbWU9Im15LTQiPgogICAgICAgICAgPENvZGVCbG9jayBjb2RlPXtjb2RlfSBsYW5ndWFnZT17bGFuZ30gLz4KICAgICAgICA8L2Rpdj4KICAgICAgKTsKICAgICAgaSsrOyAvLyBza2lwIHRoZSBjb2RlIHBhcnQgc2luY2Ugd2UgY29uc3VtZWQgaXQKICAgIH0KICB9CgogIHJldHVybiBlbGVtZW50czsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVHV0b3JpYWxQYWdlKCkgewogIGNvbnN0IHBhcmFtcyA9IHVzZVBhcmFtcygpOwogIGNvbnN0IHNsdWcgPSBwYXJhbXMuc2x1ZyBhcyBzdHJpbmc7CiAgY29uc3QgdHV0b3JpYWwgPSB0dXRvcmlhbHMuZmluZCgodCkgPT4gdC5zbHVnID09PSBzbHVnKTsKCiAgaWYgKCF0dXRvcmlhbCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTN4bCBteC1hdXRvIHB4LTggcHktMjAgdGV4dC1jZW50ZXIiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpbmxpbmUtZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdy0xNiBoLTE2IHJvdW5kZWQtZnVsbCBiZy1bIzE1YjhhN10vMTAgbWItNiI+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZVdpZHRoPSIyIiBzdHJva2VMaW5lY2FwPSJyb3VuZCIgc3Ryb2tlTGluZWpvaW49InJvdW5kIj4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIC8+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik0xNiAxNnMtMS41LTItNC0yLTQgMi00IDIiIC8+CiAgICAgICAgICAgIDxsaW5lIHgxPSI5IiB5MT0iOSIgeDI9IjkuMDEiIHkyPSI5IiAvPgogICAgICAgICAgICA8bGluZSB4MT0iMTUiIHkxPSI5IiB4Mj0iMTUuMDEiIHkyPSI5IiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIG1iLTIiIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXJhamRoYW5pKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1wcmltYXJ5KSIgfX0+CiAgICAgICAgICBUdXRvcmlhbCBOb3QgRm91bmQKICAgICAgICA8L2gxPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibWItNiB0ZXh0LXNtIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgVGhlIHR1dG9yaWFsIHlvdSZhcG9zO3JlIGxvb2tpbmcgZm9yIGRvZXNuJmFwb3M7dCBleGlzdCBvciBtYXkgaGF2ZSBiZWVuIG1vdmVkLgogICAgICAgIDwvcD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTQiPgogICAgICAgICAgPExpbmsKICAgICAgICAgICAgaHJlZj0iL2RvY3MvdHV0b3JpYWxzIgogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC01IHB5LTIuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHJvdW5kZWQtbGcgYmctWyMxNWI4YTddIHRleHQtd2hpdGUgaG92ZXI6YmctWyMxNWI4YTddLzkwIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZVdpZHRoPSIyIj4KICAgICAgICAgICAgICA8cGF0aCBkPSJNMTkgMTJINU0xMiAxOWwtNy03IDctNyIgLz4KICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgIEJyb3dzZSBUdXRvcmlhbHMKICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgIGhyZWY9Ii9kb2NzIgogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC01IHB5LTIuNSB0ZXh0LXNtIGZvbnQtbWVkaXVtIHJvdW5kZWQtbGcgYm9yZGVyIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGJvcmRlckNvbG9yOiAidmFyKC0tYm9yZGVyKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIEdvIHRvIERvY3MKICAgICAgICAgIDwvTGluaz4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgLy8gRmluZCBwcmV2L25leHQKICBjb25zdCBpZHggPSB0dXRvcmlhbHMuZmluZEluZGV4KCh0KSA9PiB0LnNsdWcgPT09IHNsdWcpOwogIGNvbnN0IHByZXYgPSBpZHggPiAwID8gdHV0b3JpYWxzW2lkeCAtIDFdIDogbnVsbDsKICBjb25zdCBuZXh0ID0gaWR4IDwgdHV0b3JpYWxzLmxlbmd0aCAtIDEgPyB0dXRvcmlhbHNbaWR4ICsgMV0gOiBudWxsOwoKICBjb25zdCBkaWZmaWN1bHR5Q29sb3JzOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0gewogICAgQmVnaW5uZXI6ICJiZy1lbWVyYWxkLTUwIHRleHQtZW1lcmFsZC03MDAgYm9yZGVyLWVtZXJhbGQtMjAwIGRhcms6YmctZW1lcmFsZC05NTAvNDAgZGFyazp0ZXh0LWVtZXJhbGQtNDAwIGRhcms6Ym9yZGVyLWVtZXJhbGQtODAwIiwKICAgIEludGVybWVkaWF0ZTogImJnLWFtYmVyLTUwIHRleHQtYW1iZXItNzAwIGJvcmRlci1hbWJlci0yMDAgZGFyazpiZy1hbWJlci05NTAvNDAgZGFyazp0ZXh0LWFtYmVyLTQwMCBkYXJrOmJvcmRlci1hbWJlci04MDAiLAogICAgQWR2YW5jZWQ6ICJiZy1yZWQtNTAgdGV4dC1yZWQtNzAwIGJvcmRlci1yZWQtMjAwIGRhcms6YmctcmVkLTk1MC80MCBkYXJrOnRleHQtcmVkLTQwMCBkYXJrOmJvcmRlci1yZWQtODAwIiwKICB9OwogIGNvbnN0IGRpZmZpY3VsdHlDb2xvciA9IGRpZmZpY3VsdHlDb2xvcnNbdHV0b3JpYWwuZGlmZmljdWx0eV07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctM3hsIG14LWF1dG8gcHgtOCBweS0xMiI+CiAgICAgIHsvKiBCcmVhZGNydW1iICovfQogICAgICA8bmF2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBtYi02IiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIDxMaW5rIGhyZWY9Ii9kb2NzIiBjbGFzc05hbWU9ImhvdmVyOm9wYWNpdHktNzAgdHJhbnNpdGlvbi1jb2xvcnMiPkRvY3M8L0xpbms+CiAgICAgICAgPHNwYW4+4oC6PC9zcGFuPgogICAgICAgIDxMaW5rIGhyZWY9Ii9kb2NzL3R1dG9yaWFscyIgY2xhc3NOYW1lPSJob3ZlcjpvcGFjaXR5LTcwIHRyYW5zaXRpb24tY29sb3JzIj5UdXRvcmlhbHM8L0xpbms+CiAgICAgICAgPHNwYW4+4oC6PC9zcGFuPgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1zZWNvbmRhcnkpIiB9fT57dHV0b3JpYWwudGl0bGV9PC9zcGFuPgogICAgICA8L25hdj4KCiAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgIDxoMQogICAgICAgIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1ib2xkIG1iLTMiCiAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtcmFqZGhhbmkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LXByaW1hcnkpIiB9fQogICAgICA+CiAgICAgICAge3R1dG9yaWFsLnRpdGxlfQogICAgICA8L2gxPgogICAgICA8cCBjbGFzc05hbWU9Im1iLTUgbGVhZGluZy1yZWxheGVkIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgIHt0dXRvcmlhbC5kZXNjcmlwdGlvbn0KICAgICAgPC9wPgoKICAgICAgey8qIE1ldGEgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBpdGVtcy1jZW50ZXIgZ2FwLTMgbWItOCI+CiAgICAgICAgPHNwYW4KICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC14cyBmb250LW1lZGl1bSBweC0yIHB5LTAuNSByb3VuZGVkIGJnLVsjMTViOGE3XS8xMCB0ZXh0LVsjMTViOGE3XSIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LWRtLW1vbm8pIiB9fQogICAgICAgID4KICAgICAgICAgIHt0dXRvcmlhbC50aW1lfQogICAgICAgIDwvc3Bhbj4KICAgICAgICA8c3BhbgogICAgICAgICAgY2xhc3NOYW1lPXtgdGV4dC14cyBmb250LW1lZGl1bSBweC0yIHB5LTAuNSByb3VuZGVkIGJvcmRlciAke2RpZmZpY3VsdHlDb2xvcn1gfQogICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtZG0tbW9ubykiIH19CiAgICAgICAgPgogICAgICAgICAge3R1dG9yaWFsLmRpZmZpY3VsdHl9CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBQcmVyZXF1aXNpdGVzICovfQogICAgICA8ZGl2CiAgICAgICAgY2xhc3NOYW1lPSJtYi04IHAtNCByb3VuZGVkLWxnIGJvcmRlciIKICAgICAgICBzdHlsZT17eyBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiLCBiYWNrZ3JvdW5kQ29sb3I6ICJ2YXIoLS1zdXJmYWNlKSIgfX0KICAgICAgPgogICAgICAgIDxoMwogICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtYm9sZCB0cmFja2luZy13aWRlciB1cHBlcmNhc2UgbWItMiIKICAgICAgICAgIHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJ2YXIoLS1mb250LXNhdG9zaGkpIiwgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIgfX0KICAgICAgICA+CiAgICAgICAgICBQcmVyZXF1aXNpdGVzCiAgICAgICAgPC9oMz4KICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTEiPgogICAgICAgICAge3R1dG9yaWFsLnByZXJlcXVpc2l0ZXMubWFwKChwKSA9PiAoCiAgICAgICAgICAgIDxsaSBrZXk9e3B9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMiB0ZXh0LXNtIiBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19PgogICAgICAgICAgICAgIDxzdmcgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE1YjhhNyIgc3Ryb2tlV2lkdGg9IjIiIGNsYXNzTmFtZT0ic2hyaW5rLTAgbXQtMC41Ij4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMCA2TDkgMTdsLTUtNSIgLz4KICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICB7cH0KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICkpfQogICAgICAgIDwvdWw+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFR1dG9yaWFsIENvbnRlbnQgKi99CiAgICAgIDxkaXYKICAgICAgICBjbGFzc05hbWU9InR1dG9yaWFsLWNvbnRlbnQgcHJvc2UgcHJvc2UtbmV1dHJhbCBtYXgtdy1ub25lIFsmX2gyXTp0ZXh0LTJ4bCBbJl9oMl06Zm9udC1zZW1pYm9sZCBbJl9oMl06bXQtMTAgWyZfaDJdOm1iLTQgWyZfaDNdOnRleHQtbGcgWyZfaDNdOmZvbnQtbWVkaXVtIFsmX2gzXTptdC02IFsmX2gzXTptYi0zIFsmX3BdOmxlYWRpbmctcmVsYXhlZCBbJl9wXTptYi00IFsmX2NvZGVdOnRleHQtWyMxNWI4YTddIFsmX2NvZGVdOmJnLVsjMTViOGE3XS8xMCBbJl9jb2RlXTpweC0xLjUgWyZfY29kZV06cHktMC41IFsmX2NvZGVdOnJvdW5kZWQgWyZfY29kZV06dGV4dC1zbSBbJl91bF06bGlzdC1kaXNjIFsmX3VsXTpwbC02IFsmX3VsXTptYi00IFsmX2xpXTptYi0xIFsmX2FdOnRleHQtWyMxNWI4YTddIFsmX2FdOnVuZGVybGluZSIKICAgICAgICBzdHlsZT17eyBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fQogICAgICA+CiAgICAgICAge3JlbmRlckNvbnRlbnQodHV0b3JpYWwuY29udGVudCl9CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFByZXYgLyBOZXh0IG5hdmlnYXRpb24gKi99CiAgICAgIDxkaXYKICAgICAgICBjbGFzc05hbWU9Im10LTEyIHB0LTggZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIgogICAgICAgIHN0eWxlPXt7IGJvcmRlclRvcDogIjFweCBzb2xpZCB2YXIoLS1ib3JkZXIpIiB9fQogICAgICA+CiAgICAgICAge3ByZXYgPyAoCiAgICAgICAgICA8TGluawogICAgICAgICAgICBocmVmPXtgL2RvY3MvdHV0b3JpYWxzLyR7cHJldi5zbHVnfWB9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iZ3JvdXAgZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBob3Zlcjp0ZXh0LVsjMTViOGE3XSB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogInZhcigtLWZvbnQtc2F0b3NoaSkiLCBjb2xvcjogInZhcigtLXRleHQtbXV0ZWQpIiB9fQogICAgICAgICAgPgogICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIGNsYXNzTmFtZT0idHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAtaG92ZXI6LXRyYW5zbGF0ZS14LTAuNSI+CiAgICAgICAgICAgICAgPHBhdGggZD0iTTE5IDEySDVNMTIgMTlsLTctNyA3LTciIC8+CiAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICB7cHJldi50aXRsZX0KICAgICAgICAgIDwvTGluaz4KICAgICAgICApIDogPGRpdiAvPn0KICAgICAgICB7bmV4dCA/ICgKICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgIGhyZWY9e2AvZG9jcy90dXRvcmlhbHMvJHtuZXh0LnNsdWd9YH0KICAgICAgICAgICAgY2xhc3NOYW1lPSJncm91cCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIGhvdmVyOnRleHQtWyMxNWI4YTddIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICBzdHlsZT17eyBmb250RmFtaWx5OiAidmFyKC0tZm9udC1zYXRvc2hpKSIsIGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIHtuZXh0LnRpdGxlfQogICAgICAgICAgICA8c3ZnIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlV2lkdGg9IjIiIGNsYXNzTmFtZT0idHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAtaG92ZXI6dHJhbnNsYXRlLXgtMC41Ij4KICAgICAgICAgICAgICA8cGF0aCBkPSJNNSAxMmgxNE0xMiA1bDcgNy03IDciIC8+CiAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgPC9MaW5rPgogICAgICAgICkgOiA8ZGl2IC8+fQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+
+import { useParams } from "next/navigation";
+import Link from "next/link";
+import { tutorials } from "@/data/tutorials";
+import CodeBlock from "@/components/CodeBlock";
+
+function renderContent(html: string) {
+  // Split on code blocks and render them with CodeBlock component
+  const parts = html.split(/<div class="code-block" data-lang="(\w+)">([\s\S]*?)<\/div>/g);
+  const elements: React.ReactNode[] = [];
+
+  for (let i = 0; i < parts.length; i++) {
+    if (i % 3 === 0) {
+      // Regular HTML content
+      if (parts[i].trim()) {
+        elements.push(
+          <div
+            key={`html-${i}`}
+            className="tutorial-prose"
+            dangerouslySetInnerHTML={{ __html: parts[i] }}
+          />
+        );
+      }
+    } else if (i % 3 === 1) {
+      // Language identifier — next part is the code
+      const lang = parts[i];
+      const code = parts[i + 1]?.trim() || "";
+      elements.push(
+        <div key={`code-${i}`} className="my-4">
+          <CodeBlock code={code} language={lang} />
+        </div>
+      );
+      i++; // skip the code part since we consumed it
+    }
+  }
+
+  return elements;
+}
+
+export default function TutorialPage() {
+  const params = useParams();
+  const slug = params.slug as string;
+  const tutorial = tutorials.find((t) => t.slug === slug);
+
+  if (!tutorial) {
+    return (
+      <div className="max-w-3xl mx-auto px-8 py-20 text-center">
+        <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-[#15b8a7]/10 mb-6">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+            <circle cx="12" cy="12" r="10" />
+            <path d="M16 16s-1.5-2-4-2-4 2-4 2" />
+            <line x1="9" y1="9" x2="9.01" y2="9" />
+            <line x1="15" y1="9" x2="15.01" y2="9" />
+          </svg>
+        </div>
+        <h1 className="text-2xl font-bold mb-2" style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}>
+          Tutorial Not Found
+        </h1>
+        <p className="mb-6 text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+          The tutorial you&apos;re looking for doesn&apos;t exist or may have been moved.
+        </p>
+        <div className="flex items-center justify-center gap-4">
+          <Link
+            href="/docs/tutorials"
+            className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-lg bg-[#15b8a7] text-white hover:bg-[#15b8a7]/90 transition-colors"
+            style={{ fontFamily: "var(--font-satoshi)" }}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            Browse Tutorials
+          </Link>
+          <Link
+            href="/docs"
+            className="inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium rounded-lg border transition-colors"
+            style={{ fontFamily: "var(--font-satoshi)", borderColor: "var(--border)", color: "var(--text-muted)" }}
+          >
+            Go to Docs
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  // Find prev/next
+  const idx = tutorials.findIndex((t) => t.slug === slug);
+  const prev = idx > 0 ? tutorials[idx - 1] : null;
+  const next = idx < tutorials.length - 1 ? tutorials[idx + 1] : null;
+
+  const difficultyColors: Record<string, string> = {
+    Beginner: "bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-400 dark:border-emerald-800",
+    Intermediate: "bg-amber-50 text-amber-700 border-amber-200 dark:bg-amber-950/40 dark:text-amber-400 dark:border-amber-800",
+    Advanced: "bg-red-50 text-red-700 border-red-200 dark:bg-red-950/40 dark:text-red-400 dark:border-red-800",
+  };
+  const difficultyColor = difficultyColors[tutorial.difficulty];
+
+  return (
+    <div className="max-w-3xl mx-auto px-8 py-12">
+      {/* Breadcrumb */}
+      <nav className="flex items-center gap-2 text-sm mb-6" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        <Link href="/docs" className="hover:opacity-70 transition-colors">Docs</Link>
+        <span>›</span>
+        <Link href="/docs/tutorials" className="hover:opacity-70 transition-colors">Tutorials</Link>
+        <span>›</span>
+        <span style={{ color: "var(--text-secondary)" }}>{tutorial.title}</span>
+      </nav>
+
+      {/* Header */}
+      <h1
+        className="text-3xl font-bold mb-3"
+        style={{ fontFamily: "var(--font-rajdhani)", color: "var(--text-primary)" }}
+      >
+        {tutorial.title}
+      </h1>
+      <p className="mb-5 leading-relaxed" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+        {tutorial.description}
+      </p>
+
+      {/* Meta */}
+      <div className="flex flex-wrap items-center gap-3 mb-8">
+        <span
+          className="text-xs font-medium px-2 py-0.5 rounded bg-[#15b8a7]/10 text-[#15b8a7]"
+          style={{ fontFamily: "var(--font-dm-mono)" }}
+        >
+          {tutorial.time}
+        </span>
+        <span
+          className={`text-xs font-medium px-2 py-0.5 rounded border ${difficultyColor}`}
+          style={{ fontFamily: "var(--font-dm-mono)" }}
+        >
+          {tutorial.difficulty}
+        </span>
+      </div>
+
+      {/* Prerequisites */}
+      <div
+        className="mb-8 p-4 rounded-lg border"
+        style={{ borderColor: "var(--border)", backgroundColor: "var(--surface)" }}
+      >
+        <h3
+          className="text-xs font-bold tracking-wider uppercase mb-2"
+          style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+        >
+          Prerequisites
+        </h3>
+        <ul className="space-y-1">
+          {tutorial.prerequisites.map((p) => (
+            <li key={p} className="flex items-start gap-2 text-sm" style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" strokeWidth="2" className="shrink-0 mt-0.5">
+                <path d="M20 6L9 17l-5-5" />
+              </svg>
+              {p}
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {/* Tutorial Content */}
+      <div
+        className="tutorial-content prose prose-neutral max-w-none [&_h2]:text-2xl [&_h2]:font-semibold [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:text-lg [&_h3]:font-medium [&_h3]:mt-6 [&_h3]:mb-3 [&_p]:leading-relaxed [&_p]:mb-4 [&_code]:text-[#15b8a7] [&_code]:bg-[#15b8a7]/10 [&_code]:px-1.5 [&_code]:py-0.5 [&_code]:rounded [&_code]:text-sm [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:mb-4 [&_li]:mb-1 [&_a]:text-[#15b8a7] [&_a]:underline"
+        style={{ color: "var(--text-muted)" }}
+      >
+        {renderContent(tutorial.content)}
+      </div>
+
+      {/* Prev / Next navigation */}
+      <div
+        className="mt-12 pt-8 flex items-center justify-between"
+        style={{ borderTop: "1px solid var(--border)" }}
+      >
+        {prev ? (
+          <Link
+            href={`/docs/tutorials/${prev.slug}`}
+            className="group flex items-center gap-2 text-sm hover:text-[#15b8a7] transition-colors"
+            style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="transition-transform group-hover:-translate-x-0.5">
+              <path d="M19 12H5M12 19l-7-7 7-7" />
+            </svg>
+            {prev.title}
+          </Link>
+        ) : <div />}
+        {next ? (
+          <Link
+            href={`/docs/tutorials/${next.slug}`}
+            className="group flex items-center gap-2 text-sm hover:text-[#15b8a7] transition-colors"
+            style={{ fontFamily: "var(--font-satoshi)", color: "var(--text-muted)" }}
+          >
+            {next.title}
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="transition-transform group-hover:translate-x-0.5">
+              <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+          </Link>
+        ) : <div />}
+      </div>
+    </div>
+  );
+}

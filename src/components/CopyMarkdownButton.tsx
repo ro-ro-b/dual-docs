@@ -1,1 +1,42 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CgppbnRlcmZhY2UgQ29weU1hcmtkb3duQnV0dG9uUHJvcHMgewogIGNvbnRlbnQ6IHN0cmluZzsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ29weU1hcmtkb3duQnV0dG9uKHsgY29udGVudCB9OiBDb3B5TWFya2Rvd25CdXR0b25Qcm9wcykgewogIGNvbnN0IFtjb3BpZWQsIHNldENvcGllZF0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIGNvbnN0IGhhbmRsZUNvcHkgPSBhc3luYyAoKSA9PiB7CiAgICBhd2FpdCBuYXZpZ2F0b3IuY2xpcGJvYXJkLndyaXRlVGV4dChjb250ZW50KTsKICAgIHNldENvcGllZCh0cnVlKTsKICAgIHNldFRpbWVvdXQoKCkgPT4gc2V0Q29waWVkKGZhbHNlKSwgMjAwMCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxidXR0b24KICAgICAgb25DbGljaz17aGFuZGxlQ29weX0KICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXNtIGJvcmRlciByb3VuZGVkLWxnIHB4LTMgcHktMS41IGhvdmVyOm9wYWNpdHktODAgdHJhbnNpdGlvbi1jb2xvcnMgY3Vyc29yLXBvaW50ZXIiCiAgICAgIHN0eWxlPXt7IGNvbG9yOiAidmFyKC0tdGV4dC1tdXRlZCkiLCBib3JkZXJDb2xvcjogInZhcigtLWJvcmRlcikiIH19CiAgICA+CiAgICAgIHtjb3BpZWQgPyAoCiAgICAgICAgPD4KICAgICAgICAgIDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgICAgICAgIDxwb2x5bGluZSBwb2ludHM9IjIwIDYgOSAxNyA0IDEyIiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgICBDb3BpZWQhCiAgICAgICAgPC8+CiAgICAgICkgOiAoCiAgICAgICAgPD4KICAgICAgICAgIDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2VXaWR0aD0iMiI+CiAgICAgICAgICAgIDxyZWN0IHg9IjkiIHk9IjkiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgcng9IjIiIC8+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik01IDE1SDRhMiAyIDAgMDEtMi0yVjRhMiAyIDAgMDEyLTJoOWEyIDIgMCAwMTIgMnYxIiAvPgogICAgICAgICAgPC9zdmc+CiAgICAgICAgICBDb3B5IG1hcmtkb3duCiAgICAgICAgPC8+CiAgICAgICl9CiAgICA8L2J1dHRvbj4KICApOwp9Cg=="}
+"use client";
+
+import { useState } from "react";
+
+interface CopyMarkdownButtonProps {
+  content: string;
+}
+
+export default function CopyMarkdownButton({ content }: CopyMarkdownButtonProps) {
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = async () => {
+    await navigator.clipboard.writeText(content);
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2000);
+  };
+
+  return (
+    <button
+      onClick={handleCopy}
+      className="flex items-center gap-2 text-sm border rounded-lg px-3 py-1.5 hover:opacity-80 transition-colors cursor-pointer"
+      style={{ color: "var(--text-muted)", borderColor: "var(--border)" }}
+    >
+      {copied ? (
+        <>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+            <polyline points="20 6 9 17 4 12" />
+          </svg>
+          Copied!
+        </>
+      ) : (
+        <>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+            <rect x="9" y="9" width="13" height="13" rx="2" />
+            <path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1" />
+          </svg>
+          Copy markdown
+        </>
+      )}
+    </button>
+  );
+}

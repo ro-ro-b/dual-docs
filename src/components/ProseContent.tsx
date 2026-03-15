@@ -1,1 +1,68 @@
-{"data":"InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CgppbnRlcmZhY2UgUHJvc2VDb250ZW50UHJvcHMgewogIGh0bWw6IHN0cmluZzsKICBjbGFzc05hbWU/OiBzdHJpbmc7CiAgc3R5bGU/OiBSZWFjdC5DU1NQcm9wZXJ0aWVzOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQcm9zZUNvbnRlbnQoeyBodG1sLCBjbGFzc05hbWUsIHN0eWxlIH06IFByb3NlQ29udGVudFByb3BzKSB7CiAgY29uc3QgcmVmID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghcmVmLmN1cnJlbnQpIHJldHVybjsKICAgIGNvbnN0IHByZXMgPSByZWYuY3VycmVudC5xdWVyeVNlbGVjdG9yQWxsKCJwcmUiKTsKICAgIHByZXMuZm9yRWFjaCgocHJlKSA9PiB7CiAgICAgIC8vIFNraXAgaWYgYWxyZWFkeSBoYXMgYSBjb3B5IGJ1dHRvbgogICAgICBpZiAocHJlLnF1ZXJ5U2VsZWN0b3IoIi5jb3B5LWJ0biIpKSByZXR1cm47CgogICAgICBwcmUuc3R5bGUucG9zaXRpb24gPSAicmVsYXRpdmUiOwoKICAgICAgY29uc3QgYnRuID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiYnV0dG9uIik7CiAgICAgIGJ0bi5jbGFzc05hbWUgPSAiY29weS1idG4iOwogICAgICBidG4uaW5uZXJIVE1MID0gYDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iOSIgeT0iOSIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiByeD0iMiIvPjxwYXRoIGQ9Ik01IDE1SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOWEyIDIgMCAwIDEgMiAydjEiLz48L3N2Zz5gOwogICAgICBidG4udGl0bGUgPSAiQ29weSBjb2RlIjsKICAgICAgT2JqZWN0LmFzc2lnbihidG4uc3R5bGUsIHsKICAgICAgICBwb3NpdGlvbjogImFic29sdXRlIiwKICAgICAgICB0b3A6ICI4cHgiLAogICAgICAgIHJpZ2h0OiAiOHB4IiwKICAgICAgICBiYWNrZ3JvdW5kOiAidmFyKC0tc3VyZmFjZSkiLAogICAgICAgIGJvcmRlcjogIjFweCBzb2xpZCB2YXIoLS1ib3JkZXIpIiwKICAgICAgICBib3JkZXJSYWRpdXM6ICI2cHgiLAogICAgICAgIHBhZGRpbmc6ICI2cHgiLAogICAgICAgIGN1cnNvcjogInBvaW50ZXIiLAogICAgICAgIG9wYWNpdHk6ICIwIiwKICAgICAgICB0cmFuc2l0aW9uOiAib3BhY2l0eSAwLjE1cyIsCiAgICAgICAgY29sb3I6ICJ2YXIoLS10ZXh0LW11dGVkKSIsCiAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgfSk7CgogICAgICBwcmUuYWRkRXZlbnRMaXN0ZW5lcigibW91c2VlbnRlciIsICgpID0+IHsgYnRuLnN0eWxlLm9wYWNpdHkgPSAiMSI7IH0pOwogICAgICBwcmUuYWRkRXZlbnRMaXN0ZW5lcigibW91c2VsZWF2ZSIsICgpID0+IHsgYnRuLnN0eWxlLm9wYWNpdHkgPSAiMCI7IH0pOwoKICAgICAgYnRuLmFkZEV2ZW50TGlzdGVuZXIoImNsaWNrIiwgYXN5bmMgKCkgPT4gewogICAgICAgIGNvbnN0IGNvZGUgPSBwcmUucXVlcnlTZWxlY3RvcigiY29kZSIpPy50ZXh0Q29udGVudCB8fCBwcmUudGV4dENvbnRlbnQgfHwgIiI7CiAgICAgICAgYXdhaXQgbmF2aWdhdG9yLmNsaXBib2FyZC53cml0ZVRleHQoY29kZSk7CiAgICAgICAgYnRuLmlubmVySFRNTCA9IGA8c3ZnIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMxNWI4YTciIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMCA2IDkgMTcgNCAxMiIvPjwvc3ZnPmA7CiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICBidG4uaW5uZXJIVE1MID0gYDxzdmcgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iOSIgeT0iOSIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEzIiByeD0iMiIvPjxwYXRoIGQ9Ik01IDE1SDRhMiAyIDAgMCAxLTItMlY0YTIgMiAwIDAgMSAyLTJoOWEyIDIgMCAwIDEgMiAydjEiLz48L3N2Zz5gOwogICAgICAgIH0sIDE1MDApOwogICAgICB9KTsKCiAgICAgIHByZS5hcHBlbmRDaGlsZChidG4pOwogICAgfSk7CiAgfSwgW2h0bWxdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYKICAgICAgcmVmPXtyZWZ9CiAgICAgIGNsYXNzTmFtZT17Y2xhc3NOYW1lfQogICAgICBzdHlsZT17c3R5bGV9CiAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogaHRtbCB9fQogICAgLz4KICApOwp9Cg=="}
+"use client";
+
+import { useEffect, useRef } from "react";
+
+interface ProseContentProps {
+  html: string;
+  className?: string;
+  style?: React.CSSProperties;
+}
+
+export default function ProseContent({ html, className, style }: ProseContentProps) {
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!ref.current) return;
+    const pres = ref.current.querySelectorAll("pre");
+    pres.forEach((pre) => {
+      // Skip if already has a copy button
+      if (pre.querySelector(".copy-btn")) return;
+
+      pre.style.position = "relative";
+
+      const btn = document.createElement("button");
+      btn.className = "copy-btn";
+      btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+      btn.title = "Copy code";
+      Object.assign(btn.style, {
+        position: "absolute",
+        top: "8px",
+        right: "8px",
+        background: "var(--surface)",
+        border: "1px solid var(--border)",
+        borderRadius: "6px",
+        padding: "6px",
+        cursor: "pointer",
+        opacity: "0",
+        transition: "opacity 0.15s",
+        color: "var(--text-muted)",
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+      });
+
+      pre.addEventListener("mouseenter", () => { btn.style.opacity = "1"; });
+      pre.addEventListener("mouseleave", () => { btn.style.opacity = "0"; });
+
+      btn.addEventListener("click", async () => {
+        const code = pre.querySelector("code")?.textContent || pre.textContent || "";
+        await navigator.clipboard.writeText(code);
+        btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#15b8a7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>`;
+        setTimeout(() => {
+          btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>`;
+        }, 1500);
+      });
+
+      pre.appendChild(btn);
+    });
+  }, [html]);
+
+  return (
+    <div
+      ref={ref}
+      className={className}
+      style={style}
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
+  );
+}
